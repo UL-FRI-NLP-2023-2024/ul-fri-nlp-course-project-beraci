@@ -2,3 +2,19 @@ https://www.clarin.si/repository/xmlui/handle/11356/1756#
 https://slovenscina.eu/odgovarjanje-na-vprasanja
 https://rajpurkar.github.io/SQuAD-explorer/
 https://arxiv.org/pdf/1806.03822
+
+https://aclanthology.org/P19-1481/
+https://openreview.net/forum?id=UKJWJXaHhz
+https://academic.oup.com/comjnl/article-abstract/64/7/1056/6323599?redirectedFrom=fulltext
+https://www.semanticscholar.org/paper/Multi-Lingual-Question-Generation-with-Language-Wang-Yao/aaef74b96d40ba33a21f553117e7b962b1ce00ba
+https://www.researchgate.net/publication/333649954_Cross-Lingual_Training_for_Automatic_Question_Generation
+https://www.microsoft.com/en-us/research/publication/zero-shot-multi-lingual-interrogative-question-generation-for-people-also-ask-at-bing/
+
+
+https://huggingface.co/doc2query/msmarco-14langs-mt5-base-v1
+
+https://huggingface.co/models?search=doc2query
+
+###                 bkoloski
+### https://huggingface.co/bkoloski/slv_doc2query
+### 
