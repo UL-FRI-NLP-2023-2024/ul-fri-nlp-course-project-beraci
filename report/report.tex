@@ -87,8 +87,11 @@ The abstract goes here. The abstract goes here. The abstract goes here. The abst
 %------------------------------------------------
 
 \section*{Methods}
+For generating questions we used a prebuilt model called "bkoloski/slv\textunderscore 2query" which we have to pass the input text which then returns us query-like sentences.
 
-Use the Methods section to describe what you did an how you did it -- in what way did you prepare the data, what algorithms did you use, how did you test various solutions ... Provide all the required details for a reproduction of your work.
+Firstly we load the dataset containing Slovenian text from the file "squad2-slo-mt-dev.json" which we then iterate through it, extracting contextual data. Then each context we tokenize using the model's tokenizer. We then pass the tokenized input to the model for generating questions. Side note: Currently we have to fine tune the parameters so we get better results.
+
+
 
 Below are \LaTeX examples of some common elements that you will probably need when writing your report (e.g. figures, equations, lists, code examples ...).
 
