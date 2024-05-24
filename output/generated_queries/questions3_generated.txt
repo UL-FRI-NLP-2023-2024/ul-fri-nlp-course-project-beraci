@@ -1,0 +1,1600 @@
+Paragraph: 2013 Economics Nobelov nagrajenec Robert J. Shiller je dejal, da je vse večja neenakost v Združenih državah Amerike in drugod najpomembnejši problem. Vse večja neenakost škoduje gospodarski rasti. Visoka in vztrajna brezposelnost, v kateri se neenakost povečuje, negativno vpliva na posledično dolgoročno gospodarsko rast. Brezposelnost lahko škoduje rasti ne le zato, ker je zapravljanje virov, ampak tudi zato, ker ustvarja prerazporeditvene pritiske in posledična izkrivljanja, ljudi spodbuja k revščini, omejuje likvidnost, ki omejuje mobilnost delovne sile, in spodkopava samospoštovanje, ki spodbuja socialno dislokacijo, nemire in konflikte. Gospodarske rasti podpirajo politike, katerih cilj je obvladovanje brezposelnosti in zlasti zmanjšanje njenih učinkov, povezanih z neenakostjo.
+
+Beam Outputs:
+1: Kaj je Darwin menil, da je neenakost v Združenih državah Amerike pomembna?
+2: Kaj je Darwin menil, da je neenakost v Združenih državah Amerike?
+3: Kaj je Darwin povedal, da je neenakost v Združenih državah Amerike?
+4: Kaj je Darwin menil, da je neenakost v Združenih državah?
+5: Kaj je Darwin povedal, da je neenakost v Združenih državah?
+
+Sampling Outputs:
+1: Kaj je bilo razlog za neenakost, ki jo je prizadevalo, da bo naredila vlada zaradi brezposelnosti?
+2: Kako je bilo ime števila narečja v ZDA?
+3: Kaj je Darwin kritiziral zaradi brezposelnosti?
+4: Kaj je bil Darwin udaril zaradi sprememb?
+5: Kaj je bil največji problem v zvezi s neenakosti?
+-------------------------------------------
+Paragraph: Vendar pa omejevanje časa računanja zgoraj z nekaterimi betonskimi funkcijami f(n) pogosto daje razrede kompleksnosti, ki so odvisni od izbranega modela stroja. Na primer, jezik {xx | x je vsak binarni niz} je mogoče rešiti v linearnem času na več trakovi Turing stroj, vendar nujno zahteva kvadratni čas v modelu enotraknih Turing strojev. Če dovolimo polinomske spremembe v času delovanja, Cobham-Edmondsova teza navaja, da so „časovna zapletenost v vseh dveh razumnih in splošnih modelih izračuna polinomsko povezana“ (Goldreich 2008, poglavje 1.2). To je osnova za razred kompleksnosti P, ki je niz problemov odločanja, ki jih lahko reši deterministični Turing stroj v polinomskem času. Ustrezni sklop težav s funkcijami je FP.
+
+Beam Outputs:
+1: Kako se imenuje razred kompleksnosti?
+2: Kako se imenuje razred kompleksnosti, ki ga je mogoče rešiti?
+3: Kako se imenuje razred kompleksnosti, ki je mogoče rešiti?
+4: Kako se imenuje razred kompleksnosti, ki je mogoče rešiti v vsakem modelu?
+5: Kako se imenuje razred kompleksnosti
+
+Sampling Outputs:
+1: Kako opisuje splošni jezik, ki ga je treba narediti v polinomskih splošnih modeloh, da bi pomagali?
+2: Kaj je bilo prikazano na spletnem mestu na otoku?
+3: Kaj je Darwin navaja za različne teorije skozi Darwinov proces?
+4: Kdaj je bil ustvarjen sklop sodobnega časovnega učinkovanja, ki so se zgodili z različnimi modeli?
+5: Kje se lahko uporabljajo oznake skozi sekvenciranje?
+-------------------------------------------
+Paragraph: Koncept vztrajnosti je mogoče še bolj posplošiti, da bi pojasnili težnjo predmetov, da se nadaljujejo v številnih različnih oblikah stalnega gibanja, tudi tistih, ki niso strogo konstantna hitrost. Rotacijska vztrajnost planeta Zemlja je tisto, kar določa nespremenljivost dolžine dneva in dolžine enega leta. Albert Einstein je razširil načelo vztrajnosti, ko je pojasnil, da so referenčni okvirji, ki so podvrženi stalnemu pospeševanju, kot so tisti, ki so prosto padali proti gravitacijskemu objektu, fizično enakovredni inercialnim referenčnim okvirjem. To je razlog, zakaj, na primer, astronavti doživljajo breztežnost, ko so v prosto padajoči orbiti okoli Zemlje, in zakaj so Newtonovi zakoni gibanja v takih okoljih lažje prepoznavni. Če astronavt postavi predmet z maso sredi zraka poleg sebe, bo ostal stacioniran glede na astronavt zaradi njegove vztrajnosti. To je ista stvar, ki bi se zgodila, če bi bila astronavt in objekt v intergalaktičnem prostoru brez neto sile gravitacije, ki bi delovala na skupni referenčni okvir. To načelo enakovrednosti je bilo eden od temeljev za razvoj splošne teorije relativnosti.
+
+Beam Outputs:
+1: Kaj je Albert Einstein razširil na teorijo vztrajnosti?
+2: Kaj je Albert Einstein razširil na teorijo enakovrednosti?
+3: Kaj je Albert Einstein razširil na splošno?
+4: Kaj je Albert Einstein razširil?
+5: Kaj je Albert Einstein razširil na teorijo enakovrednosti, ki se je zgodila z Einsteinom?
+
+Sampling Outputs:
+1: Kaj je bilo razsvetljenstvo znano kot?
+2: Kaj je Einstein rekel, da se razsvetljenstvo lahko spremeni v nekaj razlogov?
+3: Kaj je bil prvi razlog, da je Einstein razširil teorijo vztrajnosti?
+4: Kako je Newton menil, da se stvari nadaljujejo ali nadaljujejo?
+5: Kakšna je njena ideja?
+-------------------------------------------
+Paragraph: Univerza je organizirana v enajst ločenih akademskih enot-deset fakultete in Radcliffe Inštitut za napredno študij-z kampusov po vsej Boston metropolitansko območje: njena 209-acre (85 ha) glavni kampus je osredotočen na Harvard Yard v Cambridgeu, približno 3 milje (5 km) severozahodno od Bostona; poslovna šola in atletika objektov, vključno s Harvard Stadium, se nahajajo čez reko Charles v Allston soseski Boston in medicinske, zobozdravstvene in javne zdravstvene šole so v Longwood Medical Area. Harvardova finančna sredstva za 37,6 milijarde dolarjev so največja med vsemi akademskimi ustanovami.
+
+Beam Outputs:
+1: Kako se imenuje Univerza v Bostonu?
+2: Kako se imenuje univerza v Bostonu?
+3: Kako se imenuje glavni kampus v Bostonu?
+4: Kako se imenuje glavni kampus Harvarda?
+5: Kako se imenuje Univerza v Bostonu
+
+Sampling Outputs:
+1: Kakšna je skupna velikost kampusa na Bostonu?
+2: Kakšne so največje kampuse v Bostonu?
+3: Za katere organizacije se odločajo Harvardove študente?
+4: Kakšne vrste športnih organizacij je kampus v Bostonu?
+5: Koliko študentov se nahajajo v Bostonu?
+-------------------------------------------
+Paragraph: Po izvolitvi laburistične stranke Združenega kraljestva v vlado leta 1997 je Združeno kraljestvo uradno podpisalo sporazum o socialni politiki, ki je omogočil, da se ga vključi z manjšimi spremembami kot socialno poglavje Amsterdamske pogodbe iz leta 1997. Združeno kraljestvo je nato sprejelo glavno zakonodajo, ki je bila predhodno dogovorjena v okviru sporazuma o socialni politiki, direktive o svetu delavcev iz leta 1994, ki je zahtevala posvetovanje z delavci v podjetjih, in direktive o starševskem dopustu iz leta 1996. V desetih letih po Amsterdamski pogodbi iz leta 1997 in sprejetju socialnega poglavja je Evropska unija sprejela politične pobude na različnih področjih socialne politike, vključno z odnosi na področju dela in industrije, enakimi možnostmi, zdravjem in varnostjo, javnim zdravjem, varstvom otrok, invalidi in starejšimi, revščino, delavci migranti, izobraževanjem, usposabljanjem in mladimi.
+
+Beam Outputs:
+1: Kaj je Združeno kraljestvo sprejelo leta 1997?
+2: Kaj je Združeno kraljestvo sprejelo v letu 1997?
+3: Kaj je Združeno kraljestvo sprejelo v desetih letih?
+4: Kaj je Združeno kraljestvo sprejelo leta 1997
+5: Kaj je Združeno kraljestvo sprejelo v letu 1997
+
+Sampling Outputs:
+1: Kaj je Združeno kraljestvo storilo za sodobne zakonodaje?
+2: Kaj so evropski odbori za socialno politiko dobili od države?
+3: Kako je vlada odločila, da so se dogovorili z Evropsko unijo v desetih letih?
+4: Kako je Združeno kraljestvo uradno sprejelo svoje odločitve v zvezi z zakonodajo v Združenem kraljestvu?
+5: Kakšno je bilo poimenovanje zakonodaje za zaposlitev zaposlenih v državah Združenega kraljestva v letu 1997?
+-------------------------------------------
+Paragraph: Zgodovina parnega stroja sega vse do prvega stoletja n. št.; prvi zabeleženi osnovni parni stroj je aeolipile, ki ga je opisal grški matematik Hero Aleksandrije. V naslednjih stoletjih je bilo znanih nekaj znanih „motorjev“ na parni pogon, tako kot aeolipile, v bistvu eksperimentalne naprave, ki so jih izumitelji uporabljali za dokazovanje lastnosti pare. Osnovna parna turbinska naprava sta leta 1551 opisala Taqi al-Din in Giovanni Branca leta 1629. Jerónimo de Ayanz y Beaumont je leta 1606 prejel patente za petdeset izumov na parni pogon, vključno z vodno črpalko za odvajanje preplavljenih rudnikov. Denis Papin, Huguenotski begunec, je leta 1679 opravil nekaj koristnih del na parnem digestorju in prvič uporabil bat za dvig uteži leta 1690.
+
+Beam Outputs:
+1: Kako se imenuje prvi parni stroj?
+2: Kako se je imenovala prva parna naprava?
+3: Kako se imenuje prva parna naprava, ki se uporablja na parni pogon?
+4: Kdo je bil prvi znan parni stroj?
+5: Kako se imenuje prva parna naprava, ki se uporablja na parnem pogonu
+
+Sampling Outputs:
+1: Kako je bilo ime za sodobne izumljene parne turbine?
+2: Zakaj je bil znan parni stroj?
+3: Kdo je bil prvi, ki je napisal zadnji parni stroj v Grčiji?
+4: Kako je bilo ime prvega parnega stroja?
+5: Katere vrste sodobnih parnih strojov imajo evropske znanstvene značilnosti?
+-------------------------------------------
+Paragraph: Nekateri kupci so obžalovali majhnost prvih japonskih kompaktov, Toyota in Nissan (takrat znana kot Datsun) pa sta uvedla večje avtomobile, kot so Toyota Corona Mark II, Toyota Cressida, Mazda 616 in Datsun 810, ki so dodali potniški prostor in opremo, kot so klimatska naprava, krmiljenje, AM-FM radii, celo električna okna in centralno zaklepanje, ne da bi povečali ceno vozila. Desetletje po naftni krizi leta 1973 so Honda, Toyota in Nissan, ki so jih prizadele prostovoljne omejitve izvoza iz leta 1981, odprli ameriške montažne obrate in ustanovili svoje luksuzne delitve (Acura, Lexus in Infiniti), da bi se razlikovale od svojih blagovnih znamk množičnega trga.
+
+Beam Outputs:
+1: Kako so japonski kupci obžalovali majhnost prvih japonskih avtomobilov?
+2: Kako so japonski kupci obžalovali majhnost prvih avtomobilov?
+3: Kako so japonski kupci obžalovali majhnost svojih avtomobilov?
+4: Kako so japonski kupci obžalovali majhnost prvih japonskih kompaktov?
+5: Kako so japonski kupci obžalovali majhnost?
+
+Sampling Outputs:
+1: Kdo je ustvaril velike mobilne konzole v ZDA?
+2: Kaj je bilo predlagano po vsem svetu?
+3: Kaj so se uporabile za prenos računalnikov za prenos HDTV?
+4: V katerem stoletju je bilo uvedeno več kot deset ton avtohtonih avtomobilov?
+5: Kako so japonske trgovine uvrstile več oseb, kot so Mitsubishi?
+-------------------------------------------
+Paragraph: Orientalizem, kot ga je teoretiziral Edward Said, se nanaša na to, kako je Zahod razvil domiselno geografijo vzhoda. Ta domiselna geografija temelji na esencialnem diskurzu, ki ne predstavlja ne raznolikosti ne družbene realnosti Vzhoda. Z esencializacijo vzhoda ta diskurz uporablja idejo krajevnih identitet, da ustvari razliko in razdaljo med „mi“ Zahodom in „tem“ vzhodom, ali „tukaj“ na zahodu in „obstaja“ na vzhodu. Ta razlika je bila še posebej očitna v besedilnih in vizualnih delih zgodnjih evropskih študij Orienta, ki so postavile vzhod kot nerazumno in nazaj v nasprotju z racionalnim in progresivnim Zahodom. Opredelitev Vzhoda kot negativne vizije samega sebe, kot njegovega slabšega, ni le povečala občutek Zahoda za sebe, ampak je bila tudi način, kako naročiti vzhod in ga seznaniti Zahodu, da bi ga lahko dominirali in nadzirali. Diskurz orientalizma je torej služil kot ideološka utemeljitev zgodnjega zahodnega imperializma, saj je oblikoval telo znanja in idej, ki so racionalizirale družbeni, kulturni, politični in gospodarski nadzor drugih ozemelj.
+
+Beam Outputs:
+1: Kakšen je bil razlog, da je vzhod vplival na kaj?
+2: Kakšen je bil razlog, da je vzhod vplival na raznolikost?
+3: Kakšen je bil razlog, da je vzhod vplival na zahod?
+4: Kakšen je bil razlog, da je vzhod vplival na zahodni svet?
+5: Kakšen je bil razlog, da je vzhod vplival na raznolikost zahodnih držav?
+
+Sampling Outputs:
+1: Katere teze se uporabljajo za definiranje raznolikosti vzhodnega vzhoda?
+2: Kaj je bilo glavno opozorilo na teorijo zahodnega človeškega zgodovinskega razvoja?
+3: Kakšen je izraz za domiselno geografsko teorijo?
+4: Kako se imenuje vprašanje, ki se uporablja za opis zahodnih držav in zahodnih držav?
+5: Kje se je osredotočil Edward Said?
+-------------------------------------------
+Paragraph: Kenoforji tvorijo živalsko debilo, ki je bolj zapletena kot gobice, približno tako kompleksna kot cnidarians (jezure, morske vetrnice itd.) in manj kompleksna kot biliterani (ki vključujejo skoraj vse druge živali). Za razliko od gobic imajo tako ctenoforji kot cnidari: celice, vezane z medceličnimi povezavami in preprogo podobnimi kletnimi membranami; mišice; živčni sistem; nekateri imajo senzorične organe. Kenoforji se od vseh drugih živali razlikujejo po koloblastih, ki so lepljivi in se držijo plena, čeprav jih nekaj vrst ctenoforjev nima.
+
+Beam Outputs:
+1: Kakšne vrste živali imajo ctenoforji?
+2: Kakšne vrste ctenoforjev imajo rastline, ki so se razlikovali od drugih živali?
+3: Kakšne vrste ctenoforjev imajo rastline, ki so se razlikujejo od drugih živali?
+4: Kakšne vrste ctenoforjev imajo rastline?
+5: Kakšne vrste ctenoforjev imajo človeški organizmi?
+
+Sampling Outputs:
+1: Kakšen je bil izraz, ki se uporablja za razsvetljenstvo?
+2: Kaj so najbolj razlike v čem?
+3: Kaj pomeni ctenoforje?
+4: Kakšne so številne značilnosti rastlinskih organov?
+5: Kaj je ena od značilnosti cikloforov, ki se vključujejo v druge živali, ki imajo vključene v živalsko debilo?
+-------------------------------------------
+Paragraph: 1. julija 1851 so bili izdani dokumenti za izvolitev prvega viktorijanskega zakonodajnega sveta, vzpostavljena pa je bila absolutna neodvisnost Viktorije od Novega Južnega Walesa, ki je razglasila novo kolonijo Viktorije. Nekaj dni kasneje so leta 1851 odkrili zlato v bližini Ballarata in nato v Bendigu. Kasnejša odkritja so se zgodila na številnih lokacijah po vsej Viktoriji. To je sprožilo eno največjih zlatih hitenja na svetu. Kolonija je hitro rasla tako v populaciji kot v gospodarski moči. V desetih letih se je število prebivalcev Viktorije povečalo za sedemkrat s 76.000 na 540.000. Ustvarjene so bile vse vrste zlatih plošč, vključno z „najbogatejšim plitvo aluvialno zlato polje na svetu“ in največjim zlatom. Victoria je v desetletju 1851–1860 proizvedla 20 milijonov unč zlata, kar je tretjina svetovne proizvodnje.
+
+Beam Outputs:
+1: Kako se je Viktorija povečala v letu 1851?
+2: Kakšna je bila velikost Viktorije v letu 1851?
+3: Kakšna je bila številka prebivalcev Viktorije?
+4: Kakšna je bila številka prebivalcev Viktorije leta 1851
+5: Kako se je Viktorija povečala?
+
+Sampling Outputs:
+1: Kakšna je bila največja poletna proizvodnja zlatega prebivalstva v Viktoriji?
+2: Kdaj je Victoria postala uradna?
+3: Kakšen je bil naslov kraljevine Viktorije?
+4: Katera je bila največja zlasti v zgodovini Viktorije
+5: Kako je Viktorija razglasila neodvisnost Viktorije od Nasserja
+-------------------------------------------
+Paragraph: V šestdesetih letih prejšnjega stoletja je vrsta odkritij, od katerih je bilo najpomembnejše širjenje morskega dna, pokazala, da je Zemljina litosfera, ki vključuje skorjo in tog zgornji del zgornjega plašča, razdeljena na številne tektonske plošče, ki se premikajo čez plastično deformacijo, trdno, zgornjo plašč, ki se imenuje astenosfera. Med gibanjem plošč na površini in konvekcijo plašča je intimna sklopka: premiki oceanskih plošč in konvekcijski tokovi plašča se vedno premikajo v isto smer, saj je oceanska litosfera toga zgornja toplotna mejna plast konvecnega plašča. Ta spoj med togimi ploščami, ki se gibljejo na površju Zemlje in konvektorskim plaščem, se imenuje tektonska plošča.
+
+Beam Outputs:
+1: Kako se imenuje tektonska plošča?
+2: Kako se imenuje tektonska plošča na Zemlji?
+3: Kako se imenuje tektonska plošča, ki se nahaja na površju?
+4: Kako se imenuje tektonska plošča, ki se nahaja na Zemlji?
+5: Kako se imenuje tektonska plošča
+
+Sampling Outputs:
+1: Kaj je bil opozorjen na vlogo, da bi bil kondenzator prilagodjen?
+2: Kaj je pomembna za raziskavo, ki je pokazala, da je bil oceanski tok narejen?
+3: Kaj sta dva dela razdeljena v štiri plošče?
+4: Kaj je glavna stvar številnih rastlin v 20. stoletju
+5: Kaj je najbolj verjetno zaradi težav s komunikacijami na površjih oceanskih plošč?
+-------------------------------------------
+Paragraph: Na Japonskem, ob koncu obdobja Asuka (538–710) in v zgodnjem obdobju Nare (710–794), so bili moški, ki so izpolnjevali vloge, podobne vlogam sodobnih farmacevtov, zelo spoštovani. Kraj farmacevtov v družbi je bil izrecno opredeljen v Taihōjevem zakoniku (701) in ponovno naveden v Yōrō kodeksu (718). Določena so bila mesta na predhejskem cesarskem dvoru; in ta organizacijska struktura je ostala v veliki meri nedotaknjena do obnove Meiji (1868). V tej zelo stabilni hierarhiji so farmacevti in celo farmacevtski pomočniki dobili status, ki je boljši od vseh drugih na področjih, povezanih z zdravjem, kot so zdravniki in akupunkturisti. V cesarskem gospodinjstvu je bil farmacevt celo uvrščen nad dvema osebnima zdravnikoma cesarja.
+
+Beam Outputs:
+1: Kdaj so farmacevtski pomočniki dobili status?
+2: Kdaj so farmacevti dobili status sodobnega zdravstvenega sistema?
+3: Kdaj so farmacevti dobili status?
+4: Kdaj so farmacevtski pomočniki dobili status sodobnega zdravnika?
+5: Kdaj so farmacevti dobili status sodobnega zdravnika?
+
+Sampling Outputs:
+1: Kaj je bilo zdelo, da so ženske dobili status sodobnih farmacevtov?
+2: Kaj je bilo mogoče najti za zdravljenje v sodobnih gospodarskih razmerjih?
+3: Kaj je bilo omogočeno v tem obdobju v Taiji?
+4: Kakšen je bil status farmacevtov, ki se imenujejo?
+5: Kakšno so razmerje med farmacevtsko in sodobno medicino v Japonskem?
+-------------------------------------------
+Paragraph: Varšavska mešanica arhitekturnih slogov odraža burno zgodovino mesta in države. Med drugo svetovno vojno je bila Varšava uničena z bombardiranjem in načrtovanim uničenjem. Po osvoboditvi se je začela obnova kot v drugih mestih komunističnega PRL. Večina zgodovinskih stavb je bila temeljito obnovljena. Nekatere stavbe iz 19. stoletja, ki so bile ohranjene v razumno rekonstruktivni obliki, so bile kljub temu izkoreninjene v petdesetih in šestdesetih letih prejšnjega stoletja (npr. palača Leopold Kronenberg). Postavljeni so bili množični stanovanjski bloki z osnovno zasnovo, ki je značilna za države vzhodnega bloka.
+
+Beam Outputs:
+1: Kdaj je bila Varšava uničena?
+2: Kdaj je bila Varšavska mešanica obnovljena?
+3: Kdaj je Varšava uničena?
+4: Kdaj je bila Varšavska mešanica ohranjena?
+5: Kako se je Varšava imenovala?
+
+Sampling Outputs:
+1: Kateri dve arhitekturni stavbi sta bila izkorennjena v srednjem veku v 19. stoletju?
+2: Kaj je mesto pomembno v Varšavi?
+3: Katere stavbe je bila ohranjena po vojni
+4: Kdaj se je zgodovina varšavskih stavb začela v katerem obdobju?
+5: Zakaj so zgodovinske stavbe ustvarjene v Varšavi?
+-------------------------------------------
+Paragraph: Farmacevtska informatika je kombinacija znanosti o lekarniški praksi in aplikativne informacijske znanosti. Farmacevtski informatiki delajo na številnih področjih farmacije, vendar pa lahko delajo tudi v oddelkih informacijske tehnologije ali za podjetja prodajalcev informacijske tehnologije v zdravstvu. Lekarniška informatika se kot področje prakse in specializirano področje hitro povečuje, da bi zadovoljila potrebe velikih nacionalnih in mednarodnih informacijskih projektov o pacientih ter ciljev interoperabilnosti zdravstvenih sistemov. Farmacevti na tem področju so usposobljeni za sodelovanje pri razvoju, uvajanju in optimizaciji sistema za upravljanje zdravil.
+
+Beam Outputs:
+1: Kako se imenuje farmacevtska izkušnja?
+2: Kako se imenuje farmacevtska izkušnja v zdravstvu?
+3: Kako se imenuje farmacevtska izkušnja v zdravstvenih sistemih?
+4: Kako se imenuje farmacevtska izkušnja v zdravstvenih sistemih?
+5: Kako se imenuje farmacevtska oprema?
+
+Sampling Outputs:
+1: Kaj je bilo narejeno za ustvarjanje in razvoj informacij, ki jih je vključevalo zdravila in zdravila?
+2: Kaj je treba urediti na kampusu?
+3: Kakšna je bila učinkovitost IKT v zdravstvenih vprašanjih?
+4: Kdo lahko dela na področju?
+5: Kakšna je druga področja, na katerih se uporabljajo bolnišnice?
+-------------------------------------------
+Paragraph: Z dvovaljnimi spojinami, ki se uporabljajo pri železniškem delu, so bati povezani z ročicami kot z dvovaljnim enostavnim pri 90 ° iz faze drug z drugim (četrtletno). Kadar se podvoji dvojna ekspanzijska skupina, ki proizvaja 4-valjno spojino, so posamezni bati v skupini običajno uravnoteženi pri 180°, skupine pa so med seboj nastavljene na 90°. V enem primeru (prvi tip spojine Vauclain) so bati delovali v isti fazi, ko so vozili skupno prečno glavo in ročico, ponovno nastavljeni na 90° kot za dvovaljni motor. S trivaljno zmesjo so bile ročice LP bodisi nastavljene na 90°, pri čemer je bila HP ena 135° na drugi dve, ali pa so bile v nekaterih primerih vse tri ročice nastavljene na 120°.
+
+Beam Outputs:
+1: Kakšna je bila razlika med dvovaljnimi spojinami?
+2: Kakšna je bila razlika med trivaljnimi spojinami?
+3: Kakšna je bila razlika med dvovaljnimi spojinami, ki se uporabljajo pri železniških delih
+4: Kakšna je bila razlika med dvovaljnimi spojinami, ki se uporabljajo za prenos motorja?
+5: Kakšna je bila razlika med dvovaljnimi spojinami, ki se uporabljajo pri železniškem delu
+
+Sampling Outputs:
+1: Kakšne so bile različne vrste baklov, ki so narejene s dvigalo?
+2: Kaj se zgodi z enostavnimi ročicami?
+3: Kaj je naredilo učinkovitost zmogljivosti?
+4: Kaj se zgodi, če se dvigala na kateri liniji?
+5: Kakšen je bil vzrok za nestabilnost prenosa?
+-------------------------------------------
+Paragraph: Kopenski parni stroji bi lahko izčrpali večino svoje pare, saj je bila dovodna voda običajno na voljo. Pred in med prvo svetovno vojno je ekspanzijski motor prevladoval v morskih aplikacijah, kjer visoka hitrost plovila ni bila bistvena. Vendar jo je nadomestila britanska izumna parna turbina, kjer je bila potrebna hitrost, na primer v vojnih ladjah, kot so dreadnought bojne ladje in oceanske obloge. HMS Dreadnought iz leta 1905 je bila prva velika bojna ladja, ki je nadomestila dokazano tehnologijo batnega motorja s takrat novo parno turbino.
+
+Beam Outputs:
+1: Kako je ekspanzijski motor prevladoval v morskih aplikacijah?
+2: Kaj je bila prva velika bojna ladja v zgodovini?
+3: Kako je ekspanzijski motor prevladoval v morjih aplikacijah?
+4: Kaj je bila prva velika bojna ladja v vojni?
+5: Kako je ekspanzijski motor prevladoval v morskih aplikacijah
+
+Sampling Outputs:
+1: Kdaj je bil zaščitni motor za dvigalo?
+2: Kateri stroj je bil ustvarjen za bojno ladje?
+3: Kakšno je bilo delo s ekspanzijskim motorjem?
+4: Kaj je imela vlada v vojni za nadzor nad morsko obalo?
+5: Zakaj je bila ekspanzija na voljo, da bi se povečala v morskih aplikacijah?
+-------------------------------------------
+Paragraph: Vojna avstrijskega nasledstva (katere severnoameriško gledališče je znano kot vojna kralja Jurija) se je uradno končala leta 1748 s podpisom pogodbe iz Aix-la-Chapelle. Pogodba je bila osredotočena predvsem na reševanje vprašanj v Evropi. Vprašanja nasprotujočih si ozemeljskih zahtev med britanskimi in francoskimi kolonijami v Severni Ameriki so bila predana komisiji za rešitev, vendar ni sprejela nobene odločitve. Meje iz Nove Škotske in Akadije na severu, do Ohio na jugu, so trdile na obeh straneh. Spori so se razširili tudi na Atlantski ocean, kjer sta obe sili želeli dostop do bogatega ribolova velikih bank ob Novi Fundlandiji.
+
+Beam Outputs:
+1: Kako se je zgodilo vojna v Severni Ameriki?
+2: Kako se je zgodila vojna v Severni Ameriki?
+3: Kako se je zgodilo vojna v Avstriji?
+4: Kako se je zgodilo vojna v Severni Ameriki
+5: Kako se je zgodilo vojna na severni Ameriki?
+
+Sampling Outputs:
+1: Kdaj je bila vojna kralja Viktorije uradno končana?
+2: Kateri dve vojni so se srečali v Avstraliji?
+3: Katere stvari so bile narejene v Aix-la-Chapelleu leta 1788?
+4: Kaj je bil glavni namen vojne?
+5: Katera država je imela dostop do srednješolske šole za trgovino?
+-------------------------------------------
+Paragraph: Acme horizontalnega motorja je bil Corlissov parni stroj, patentiran leta 1849, ki je bil štirivalovni protitočni stroj z ločenimi parnimi ventili in izpušnimi ventili ter avtomatskim izklopom pare. Ko je Corliss dobil Rumfordovo medaljo, je odbor dejal, da „od Wattovega časa noben izum ni tako povečal učinkovitosti parnega stroja“. Poleg uporabe 30 % manj pare, je zagotovil bolj enakomerno hitrost zaradi spremenljive pare odrezane, zaradi česar je zelo primerna za proizvodnjo, zlasti bombaž predenje.
+
+Beam Outputs:
+1: Kaj je bil Corlissov izum?
+2: Kako je Corlissov parni stroj učinkovit?
+3: Kaj je bil Corlissov prvi izum?
+4: Kako je Corlissov parni stroj napredoval?
+5: Kako je Corlissov parni stroj napredoval leta 1850?
+
+Sampling Outputs:
+1: Kako je Corliss imel svojo medaljo leta 1849?
+2: Kako so Corlissi naredili razvoj parnih motorjev?
+3: Kaj je Corliss verjel, da je bil učinkovit za uporabo v letu 1850?
+4: Kako je Corliss uporabil parni stroj za dvigalo?
+5: Na kaj se je Corliss udeležil?
+-------------------------------------------
+Paragraph: To je logična razširitev sestavljenega motorja (opisano zgoraj), da se razširitev razdeli na še več stopenj za povečanje učinkovitosti. Rezultat je večkratni ekspanzivni motor. Takšni motorji uporabljajo tri ali štiri stopnje širitve in so znani kot motorji s trojno oziroma štirikratno ekspanzijo. Ti motorji uporabljajo vrsto valjev s postopnim povečevanjem premera. Ti valji so zasnovani tako, da delo razdelijo na enake deleže za vsako fazo širitve. Kot pri dvojnem ekspanzijskem motorju, če je prostor na vrhuncu, se lahko za nizkotlačno stopnjo uporabita dva manjša valja. Večkratni ekspanzivni motorji so običajno imeli valjev razporejene inline, vendar so bile uporabljene različne druge formacije. V poznem 19. stoletju je bil „sistem“ za uravnoteženje Yarrow-Schlick-Tweedy uporabljen na nekaterih pomorskih motorjih za trojno širitev. Motorji y-S-T so delili nizkotlačne stopnje ekspanzije med dva cilindra, po enega na vsakem koncu motorja. To je omogočilo boljšo uravnoteženost ročične gredi, kar je povzročilo bolj gladek, hitrejši odzivni motor, ki je deloval z manj vibracijami. Zaradi tega je bil 4-valjni motor s trojno ekspanzijo priljubljen pri velikih potniških oblogah (kot je olimpijski razred), vendar ga je na koncu nadomestil skoraj brez vibracij turbinski motor.
+
+Beam Outputs:
+1: Kako se imenuje motor s trojno ekspanzijo?
+2: Kakšna je bila učinkovitost motorja y-S-T?
+3: Kako se imenuje motor s trojno širitvijo?
+4: Kako se imenuje motor, ki se uporablja za uravnoteženje?
+5: Kako se imenuje motor s trojno ekspanzijo
+
+Sampling Outputs:
+1: Kaj so motorji naredili za uravnotežitev?
+2: Kako so se motorji uravnotežili na kakšnem načinu?
+3: Kako se je imel „multimotor“ na prvem splošnem sistemu strokovnjakov?
+4: Koliko splošnega včasih uporablja y-S-T?
+5: Kakšen je bil naslov za uravnoteženje motorja v 19. stoletju?
+-------------------------------------------
+Paragraph: Yuan je izvedel obsežna javna dela. Med najboljšimi inženirji in znanstveniki Kublai Khana je bil astronom Guo Shoujing, ki je bil zadolžen za številne projekte javnih del in pomagal Yuanu pri reformi lunisolarnega koledarja, da bi zagotovil natančnost 365,2425 dni v letu, kar je bilo le 26 sekund od merjenja sodobnega gregorijanskega koledarja. Cestne in vodne komunikacije so bile reorganizirane in izboljšane. Da bi preprečili morebitno lakoto, so bile po vsem cesarstvu naročene kašče. Mesto Peking je bilo obnovljeno z novimi palačami, ki so vključevale umetna jezera, hribe in gore ter parke. V obdobju Yuana je Peking postal končnica velikega kanala Kitajske, ki je bil popolnoma prenovljen. Te tržno usmerjene izboljšave so spodbudile kopensko in pomorsko trgovino po vsej Aziji ter olajšale neposredne stike Kitajske z Evropo. Kitajski potniki na Zahodu so lahko zagotovili pomoč na področjih, kot je hidravlični inženiring. Stiki z Zahodom so pripeljali tudi do uvedbe velikega pridelka hrane, sirka, na Kitajsko skupaj z drugimi tujimi živilskimi proizvodi in metodami priprave.
+
+Beam Outputs:
+1: Kaj je povzročilo, da je Peking postal končnica velikega kanala Kitajske?
+2: Kaj je povzročilo, da je Peking postal neodvisen?
+3: Kaj je povzročilo, da je Peking postal končnica velikega kanala?
+4: Kaj je povzročilo, da je Peking postal končnica velikega trgovskega sistema?
+5: Kaj je povzročilo, da je Peking postal končnica velikega kanala Kitajske
+
+Sampling Outputs:
+1: Katere so bile stvari, ki so povzročile trgovino v Pekingu?
+2: Kdo je izvedel številne podjetje za nadzor nad Pekingom?
+3: Kaj je bilo skozi Yuanovo delo, da bi pripeljalo do razširitve gospodarstva v Kitajsko?
+4: Zakaj so Kitajci pomagali Pekingu pri razvoju zahodne ceste v letu 2008?
+5: Kateri so bili drugi razlogi za napredovanje trgovine s Kitajsko?
+-------------------------------------------
+Paragraph: NASA satelit CALIPSO je izmeril količino prahu, ki ga veter prenaša iz Sahare v Amazonijo: povprečno 182 milijonov ton prahu se piha iz Sahare vsako leto, na 15 stopinj zahodne zemljepisne dolžine, preko 1600 milj (2,600 km) nad Atlantskim oceanom (nekateri prah pade v Atlantik), nato na 35 stopinj zahodne dolžine na vzhodni obali Južne Amerike, 27,7 milijona ton (15 %) prahu pade nad amazonsko kotlino, 132 milijonov ton prahu ostane v zraku, 43 milijonov ton prahu je pihanih in pade na Karibsko morje, mimo 75 stopinj zahodne dolžine.
+
+Beam Outputs:
+1: Kakšna je povprečna količina prahu iz Sahare vsako leto?
+2: Kakšna je povprečna količina prahu iz Sahare?
+3: Kakšna je povprečna količina prahu vsako leto?
+4: Kakšna je povprečna količina prahu iz Sahare vsako leto
+5: Kakšna je povprečna količina prahu iz Sahare
+
+Sampling Outputs:
+1: Kako je bil NARA izvoljen?
+2: Kaj je NARA izmerilo vsako leto v letu 2013?
+3: Koliko se je število rastlin vsako leto povečalo z vzhodnim Egiptom?
+4: Kolikšen je odstotek prahu v Braziliji?
+5: Kakšna je bila razlog za povečanje vode v ZDA?
+-------------------------------------------
+Paragraph: Potem ko je bil Al-Nimeiry leta 1985 strmoglavljen, je stranka na nacionalnih volitvah slabo ravnala, leta 1989 pa je lahko s pomočjo vojske strmoglavila izvoljeno post-al-Nimeiryjevo vlado. Turabi je bil znan zaradi razglasitve podpore demokratičnemu procesu in liberalni vladi, preden je prišel na oblast, vendar strogega izvajanja šeriatskega prava, mučenja in množičnega zapiranja opozicije ter okrepitve dolgotrajne vojne v južnem Sudanu, ko je bila na oblasti. Tudi režim NIF je nekaj časa (pred 11. septembrom) pristal Osama bin Ladna in si prizadeval za poenotenje islamističnega opozicije ameriškemu napadu na Irak v Zalivski vojni leta 1991.
+
+Beam Outputs:
+1: Kdaj je Al-Nimeir prišel na oblast?
+2: Kdaj je bil Al-Nimeir izvoljen na oblast?
+3: Kdaj je bil Al-Nimeir izvoljen?
+4: Kdaj je bil Al-Nimeir izvoljen na oblasti?
+5: Kdaj je bil Al-Nimeir izvoljen v ZDA?
+
+Sampling Outputs:
+1: Kaj je bilo opazno tudi v Al-Nimeiriju leta 1991?
+2: Kdaj je bil Al-Nimiir prišel na oblast?
+3: Zakaj je bil Al-Nimiir prvič znan?
+4: Kaj je omogočilo Turabi, da ne ukrepuje glede števila sodobnih vplivov, ki jih je imel na Osmanske stranke?
+5: Kaj je bil najbolj znano dogodek, ki je imel številne zadeve?
+-------------------------------------------
+Paragraph: Pogodbe so si od svoje ustanovitve prizadevale omogočiti ljudem, da s prostim gibanjem uresničujejo svoje življenjske cilje v kateri koli državi. Glede na gospodarsko naravo projekta se je Evropska skupnost prvotno osredotočila na prosto gibanje delavcev: kot „faktor proizvodnje“. Vendar se je od sedemdesetih let prejšnjega stoletja ta usmeritev preusmerila v razvoj bolj „socialne“ Evrope. Prosto gibanje je vse bolj temeljilo na „državljanstvu“, tako da so imeli ljudje pravico, da postanejo gospodarsko in socialno aktivni, namesto da bi bila pogoj za pravice gospodarska dejavnost. To pomeni, da temeljne „delavske“ pravice iz člena 45 PDEU delujejo kot poseben izraz splošnih pravic državljanov v členih 18 do 21. Po mnenju Sodišča je „delavec“ vsak, ki je gospodarsko aktiven, kar vključuje vsakogar v delovnem razmerju „po navodilih druge osebe“ za „plačilo“. Vendar pa ni treba, da se delo plača v denarju za nekoga, ki je zaščiten kot delavec. Na primer, v zadevi Steymann proti Staatssecretaris van Justitie je nemški človek zahteval pravico do prebivanja na Nizozemskem, medtem ko je prostovoljno opravljal naloge vodovoda in gospodinjstva v skupnosti Bhagwan, kar je zadovoljilo materialne potrebe vseh ne glede na njihove prispevke. Sodišče je razsodilo, da ima G. Steymann pravico do prebivanja, če za delo, ki ga je opravljal, obstaja vsaj „posredni quid pro quo“. Status „delavca“ pomeni zaščito pred vsemi oblikami diskriminacije s strani vlad in delodajalcev pri dostopu do zaposlitve, davkov in pravic socialne varnosti. Nasprotno pa ima državljan, ki je „vsaka oseba z državljanstvom države članice“ (člen 20(1) PDEU), pravico, da išče delo, voli na lokalnih in evropskih volitvah, vendar ima bolj omejene pravice do uveljavljanja socialne varnosti. V praksi je prosto gibanje postalo politično sporno, saj so nacionalistične politične stranke manipulirale s strahovi, da bi priseljenci odvzeli delovna mesta in koristi (paradoksalno hkrati). Kljub temu „vse razpoložljive raziskave kažejo le majhen vpliv“ mobilnosti delavcev na plače in zaposlovanje lokalnih delavcev.
+
+Beam Outputs:
+1: Kakšen je bil razlog, da so delavci vključeni v prosto gibanje?
+2: Kakšen je bil razlog, da so delavci imeli pravico do zaposlitve?
+3: Kakšen je bil razlog, da so delavci imeli pravico do dela?
+4: Kakšen je bil razlog, da so delavci imeli pravico do zaposlitve v državi?
+5: Kakšen je bil razlog, da so delavci imeli pravice do zaposlitve?
+
+Sampling Outputs:
+1: Kaj je pomembno v tem času, ko se delavci nanašajo na svojo aktivno življenje?
+2: Kaj je mogoče opozoriti o možnosti, da se lahko ljudje vključujejo v državo?
+3: Kaj so nemške države vzeli v Evropo?
+4: Kakšen je bil učinek dogovora med državami s strani Nemcev?
+5: Kakšna je bila bila razlika med splošno zahtevana od Sovjetske zveze v 20. stoletju?
+-------------------------------------------
+Paragraph: Po pokolu na Peterlooju leta 1819 je pesnik Percy Shelley napisal politično pesem Maska anarhije, ki se začne s podobami tistega, za kar je mislil, da je nepravične oblike avtoritete svojega časa, nato pa si predstavlja mešanje nove oblike družbenega delovanja. To je morda prva sodobna [nenasilna] izjava o načelu nenasilnega protesta. Verzijo je prevzel avtor Henry David Thoreau v svojem eseju Civilne nepokorščine, kasneje pa Gandhi v svoji doktrini Satyagraha. Na Gandhijevo Satyagraho je delno vplivala Shelleyjeva nenasilje v protestih in političnih akcijah. Zlasti je znano, da je Gandhi pogosto citiral Shelleyjevo masko anarhije med kampanjo za svobodno Indijo.
+
+Beam Outputs:
+1: Kdo je napisal politično pesem, ki se je začela leta 1819?
+2: Kdo je napisal politično pesem, ki je bila napisana leta 1819?
+3: Kdo je napisal politično pesem o Gandhiju?
+4: Kdo je napisal politično pesem?
+5: Kdo je napisal politično pesem, ki se je začela leta 1820?
+
+Sampling Outputs:
+1: Kateri pesnik je napisal pesem „Svobodni Gandhi“?
+2: Kdo je napisal pesem „Aniš“?
+3: Kaj je Gandhi napisal v svojem pokolu na Peterlooju leta 1819
+4: Kakšno je ime za Gandhijevo Satyagraho?
+5: Kaj je bilo napisano v 20. stoletju?
+-------------------------------------------
+Paragraph: IPCC prejema finančna sredstva iz skrbniškega sklada IPCC, ki sta ga leta 1989 ustanovila Program Združenih narodov za okolje (UNEP) in Svetovna meteorološka organizacija (WMO), stroške sekretarja in stanovanja pa zagotavlja WMO, medtem ko UNEP krije stroške namestnika sekretarja. Letne denarne prispevke v skrbniški sklad plačujejo WMO, UNEP in članice IPCC; obseg plačil določi odbor IPCC, ki je odgovoren tudi za soglasno obravnavo in sprejetje letnega proračuna. Organizacija mora spoštovati finančne predpise in pravila WMO.
+
+Beam Outputs:
+1: Kako se imenuje skrbniški sklad IPCC?
+2: Kako se imenuje skrbniški sklad?
+3: Kako se imenuje skrbniški sklad, ki ga zagotavlja IPCC?
+4: Kako se imenuje skrbniški sklad, ki ga zagotavlja Wmo?
+5: Kako se imenuje skrbniški sklad, ki ga zagotavlja WMO?
+
+Sampling Outputs:
+1: Kaj je IPCC omogočil upoštevanju dogovora o odobritvi leta 1989?
+2: Kateri organizaciji imajo sredstva na splošno?
+3: Kakšna je bila velikost dela skrbniškega sklada?
+4: Na čem je skrbniški sklad?
+5: Kakšno delovno funkcijo ima IPCC v skrbniških organizacijah?
+-------------------------------------------
+Paragraph: Obstaja neskončno veliko praštevil, kot je pokazal Evklid okoli leta 300 pr. n. št. Ni znane preproste formule, ki ločuje praštevila od sestavljenih števil. Vendar pa je mogoče modelirati porazdelitev praštevil, to je statistično obnašanje praštevil v velikih. Prvi rezultat v tej smeri je praštevilni izrek, dokazan konec 19. stoletja, ki pravi, da je verjetnost, da je dano, naključno izbrano število n prime, obratno sorazmerna z njegovim številom števk ali logaritmom n.
+
+Beam Outputs:
+1: Kakšen je bil rezultat, ki je pokazal, da je število števk najbolj razširjeno?
+2: Kakšen je bil rezultat, ki je pokazal, da je število n primerno?
+3: Kakšen je bil rezultat, ki je pokazal, da je število števk najbolj učinkovito?
+4: Kakšen je bil rezultat, ki je pokazal, da je število števk najbolj razširjeno v čem?
+5: Kakšen je bil rezultat, ki je pokazal, da je število števk najbolj razširjeno v času?
+
+Sampling Outputs:
+1: Kakšen je bil razlog, da je bila številka n. pr. n. št. večji od 100?
+2: Kaj je Darwin uporabil za razvrstitev praštevila?
+3: Zakaj je vprašanje o številu n primerja s tem, kakšen rezultat je bil izveden v primerjavi z evkleskim razmerjem?
+4: Kaj je naredil Athanasius s tem, da je imel nasprotovanje s katero teorijo?
+5: Kako so se različna vrsta številk s številnimi številkami našli?
+-------------------------------------------
+Paragraph: V mnogih državah obstaja razlika v plačilu med spoloma v korist moških na trgu dela. K tej vrzeli lahko poleg diskriminacije prispeva še več drugih dejavnikov. Ženske pri iskanju zaposlitve v povprečju pogosteje kot moški upoštevajo dejavnike, ki niso plačilo, in so morda manj pripravljene potovati ali preseliti. Thomas Sowell v svoji knjigi Znanje in odločitve trdi, da je ta razlika posledica tega, da ženske ne sprejemajo službe zaradi poroke ali nosečnosti, vendar študije dohodka kažejo, da to ne pojasni celotne razlike. Poročilo ameriškega popisa navaja, da v ZDA, ko se upoštevajo drugi dejavniki, še vedno obstaja razlika v zaslužku med ženskami in moškimi. Dohodkovna vrzel v drugih državah se giblje od 53 % v Bocvani do -40 % v Bahrajnu.
+
+Beam Outputs:
+1: Kakšna je razlika med ženskami in moškimi?
+2: Kakšna je bila razlika med ženskami in moškimi?
+3: Kakšna je razlika med ženskami in moškimi v ZDA?
+4: Kakšna je razlika med ženskami in moški?
+5: Kakšna je bila razlika med ženskami in moški?
+
+Sampling Outputs:
+1: Zakaj so bile vsi ženske v ZDA razlike v plačilnih virih?
+2: Kaj so razlike sčasoma povzročile različne vrste žensk v državah v drugih državah?
+3: Kakšen je bil razlog za razlike na številu moških v zvezi z ženskami?
+4: Kaj je bil razlog, da se spolne razlike med ženskami in moškimi nanašajo na različne razlike?
+5: Kako so ženske v primerjavi z moški?
+-------------------------------------------
+Paragraph: Širitev Evrope v teritorialni imperializem je bila osredotočena predvsem na gospodarsko rast z zbiranjem virov iz kolonij v kombinaciji s prevzemanjem političnega nadzora z vojaškimi in političnimi sredstvi. Kolonizacija Indije sredi 18. stoletja ponuja primer tega fokusa: tam je „britan izkoristil politično šibkost mogulske države in čeprav je bila vojaška dejavnost v različnih časih pomembna, je bila tudi gospodarska in upravna integracija lokalnih elit ključnega pomena“ za vzpostavitev nadzora nad podcelinskimi viri, trgi in osebjem. Čeprav je bilo v sedemnajstem in osemnajstem stoletju veliko kolonij zasnovanih tako, da zagotavljajo gospodarski dobiček in pošiljajo sredstva domačim pristaniščem, Fieldhouse predlaga, da v devetnajstem in dvajsetem stoletju na območjih, kot sta Afrika in Azija, ta ideja ni nujno veljavna:
+
+Beam Outputs:
+1: Kakšen je bil primer tega, da so kolonije zasnovane za gospodarsko rast?
+2: Kakšen je bil primer tega, da so kolonije zasnovane na podcelini?
+3: Kakšen je bil primer, ki ga je Fieldhouse predlagal?
+4: Kakšen je bil primer tega, da so kolonije zasnovane na podcelinskih virih
+5: Kakšen je bil primer tega, da so kolonije zasnovane?
+
+Sampling Outputs:
+1: Kaj je Fieldhouse predlagal, da bi bil izkoristen za gospodarski razvoj v Evropi, ki je povzročila povečanje števila kolonij?
+2: Kako je bilo ime za zgodovino Indije v 19. stoletju?
+3: Kdaj je bil Fieldhouse osredotočen na gospodarsko rast?
+4: Kaj pomeni Fieldhouse?
+5: Kaj je bila vloga Fieldhouseja v raziskavi o koloniji?
+-------------------------------------------
+Paragraph: Za natančno kartiranje biomase Amazonke in posledičnih emisij, povezanih z ogljikom, je ključnega pomena razvrstitev stopenj rasti dreves v različnih delih gozda. Leta 2006 je Tatiana Kuplich organizirala drevesa Amazonke v štiri kategorije: (1) zrel gozd, (2) obnavljanje gozda [manj kot tri leta], (3) obnavljanje gozda [med tremi in petimi leti ponovne rasti] in (4) obnavljanje gozda [od osemnajst let neprekinjenega razvoja]. Raziskovalec je uporabil kombinacijo radarja sintetične odprtine (SAR) in tematskega Mapperja (TM) za natančno umestitev različnih delov Amazonke v eno od štirih klasifikacij.
+
+Beam Outputs:
+1: Kaj je ključno za razvrstitev dreves v štirih kategorijah?
+2: Kaj je ključno za razvrstitev dreves v štiri kategorije?
+3: Kaj je ključno za razvrstitev dreves v različnih klasifikacijah?
+4: Kaj je ključno za razvrstitev dreves v različnih kategorijah?
+5: Kaj je ključno za razvrstitev dreves?
+
+Sampling Outputs:
+1: Zakaj je Darwin naredil različne klasifikacije dreves?
+2: Kaj je Tatiana Kuplik uporabila za natančno kartiranje, ki je povzročila nestabilnost zemlje in rastline?
+3: Kakšen je bil namen analize na podlagi tega?
+4: Kakšen je namen oskrbe s bitumna?
+5: Kakšne vrste je mogoče izboljšati za razvrstitev gozda v različnih delih?
+-------------------------------------------
+Paragraph: Preprost primer dinamičnega ravnovesja se pojavi pri konstantnem gibanju hitrosti po površini s kinetičnim trenjem. V takem primeru se sila uporabi v smeri gibanja, medtem ko kinetična torna sila natančno nasprotuje uporabljeni sili. To ima za posledico ničelno neto silo, a ker se je objekt začel z ničelno hitrostjo, se še naprej premika z ničelno hitrostjo. Aristotel je napačno razlagal ta predlog, kot da ga je povzročila uporabljena sila. Vendar pa je pri upoštevanju kinetičnega trenja jasno, da ni neto sile, ki bi povzročila konstantno hitrost gibanja.
+
+Beam Outputs:
+1: Kaj je Aristotel razlagal?
+2: Kaj je Aristotel razlagal, da je bila uporabljena v smeri gibanja?
+3: Kaj je Aristotel razlagal, ko je bil ustvarjen?
+4: Kaj je Aristotel razlagal, da je bila uporabljena za upoštevanje kinetičnega trenja
+5: Kaj je Aristotel razlagal, da je bila uporabljena za učinkovitost prenosa?
+
+Sampling Outputs:
+1: Kaj je bila ugotovitvena teorija Aristotela?
+2: Kakšna je bila alternativa s kakšnim metodo za nadzor?
+3: Zakaj je bil Aristotel razmišljen o čem?
+4: Kdaj je Aristotel menil, da je sistem ničelne neto sile?
+5: Kaj je razlog za splošno upoštevanje hitrosti, ki se uporablja za spolno ravnovesje, ki se uporablja v kateri fazi?
+-------------------------------------------
+Paragraph: Leta 2010 je raziskava o plačah razkrila razlike v prejemkih med različnimi vlogami, sektorji in lokacijami v gradbeništvu in industriji grajenega okolja. Rezultati so pokazali, da področja, kjer je rast v gradbeni industriji, kot je Bližnji vzhod, še posebej močna, prinašajo višje povprečne plače kot na primer v Združenem kraljestvu. Povprečni zaslužek za strokovnjaka v gradbeni industriji na Bližnjem vzhodu, v vseh sektorjih, vrstah delovnih mest in ravneh izkušenj, je 42.090 £, v primerjavi s 26.719 £ v Združenem kraljestvu. Ta trend ni nujno posledica dejstva, da so na voljo bogatejše vloge, saj arhitekti s 14 ali več letnimi izkušnjami na Bližnjem vzhodu zaslužijo povprečno 43,389 GBP na leto v primerjavi s 40,000 GBP v Združenem kraljestvu. Nekateri gradbeni delavci v ZDA/Kanadi so zaslužili več kot 100.000 $ letno, odvisno od njihove trgovine.
+
+Beam Outputs:
+1: Kakšna je bila povprečna plača za strokovnjake na Bližnjem vzhodu?
+2: Kakšna je bila povprečna plača za strokovnjake v Združenem kraljestvu?
+3: Kakšna je bila povprečna plača za strokovnjake v gradbeni industriji?
+4: Kakšna je bila povprečna plača za strokovnjake v Združenem kraljestvu
+5: Kakšna je bila povprečna plača za arhitekte na Bližnjem vzhodu?
+
+Sampling Outputs:
+1: Kako visoka je stopnja zasnove in ustvarjanja?
+2: Koliko je bil prispevek ZDA za arhitekturo v Združenem kraljestvu?
+3: Katere vrste so bili ocenjeni v zvezi z uvrstitvijo za strokovnjake v gradbeni industriji?
+4: Katere številne razlike so pokazale, da so se vzhodne province znižale med gospodarskimi razvojmi v Združenem kraljestvu, ki je pripeljal do večjega rastja?
+5: Kaj je bil rezultat ugotovitve raziskave o gradbeni industriji na Bližnjem vzhodu?
+-------------------------------------------
+Paragraph: Za zelo gorljive materiale, ki puščajo malo ostankov, kot sta les ali premog, se je domnevalo, da so večinoma narejeni iz flobistona; ker negorljive snovi, ki korodirajo, kot je železo, vsebujejo zelo malo snovi. Air ni imel vloge v phlogistonski teoriji, niti ni bil izveden noben začetni kvantitativni poskus, da bi preizkusil idejo; namesto tega je temeljila na opazovanju, kaj se zgodi, ko nekaj gori, da najpogostejši predmeti postanejo lažji in se zdi, da v procesu nekaj izgubijo. Dejstvo, da snov, kot je les, pridobi skupno težo pri gorenju, je bilo skrito zaradi plovnosti produktov plinskega zgorevanja. Eden prvih namigov, da je bila teorija phlogiston napačna, je bil, da tudi kovine pridobivajo težo pri rjavenju (ko naj bi izgubili phlogiston).
+
+Beam Outputs:
+1: Zakaj je Air imel vloge v teoriji Phlogistona?
+2: Zakaj je Air imel vloge v teoriji phlogistona?
+3: Zakaj je Air imel vloge v teoriji Phlogiston?
+4: Zakaj je Air imel vloge v teoriji phlogiston?
+5: Zakaj je Air imel vloge v teoriji?
+
+Sampling Outputs:
+1: Kakšna je teorija, ki je bila izvedena na zahodu, ko se je začela zgodovina?
+2: Kaj je bil prvi razlog za nekaj pomanjkanja energije v letu 2012?
+3: Kaj je razlog za obremenitev zraka?
+4: Kaj je bilo prvo stanje na podlagi številnih študij, ki so privedli k ugotovitvi njihovih razlogov za visoko gorenje?
+5: Na čem so ljudje prišli?
+-------------------------------------------
+Paragraph: Ludvik XIV. je leta 1643 pridobil prestol in deloval vse bolj agresivno, da bi prisilil Huguenote, da se spreobrnejo. Sprva je poslal misijonarje, podprte s skladom za finančno nagrajevanje spreobrnjencev v katolištvo. Nato je izrekel kazni, zaprl šole Huguenot in jih izključil iz privilegiranih poklicev. Stopnjeval je, ustanovil je zmajade, ki so vključevale okupacijo in plenjenje Huguenotovih domov s strani vojaških vojakov, da bi jih prisilno spreobrnili. Leta 1685 je izdal edikt iz Fontainebleauja, razveljavil Nantesov edikt in razglasil protestantizem za nezakonit.
+
+Beam Outputs:
+1: Kdaj je Ludvik XIV. pridobil prestol?
+2: Kdaj je Ludvik XIV. pridobil prestol v Francijo?
+3: Kdaj je Ludvik XIV. ustanovil zmajade?
+4: Kdaj je Ludvik XIV. pridobil prestol v Anglijo?
+5: Kdaj je Ludvik XIV. pridobil prestol v Franciji?
+
+Sampling Outputs:
+1: Kdo je ustanovil zmajade v Franciji v 1686–1685?
+2: Kaj je Ludvik XIV. menil, da je mogoče vključiti v vojno?
+3: Kaj je Ludvik XIV. naredil leta 1648?
+4: Kaj je naredil Ludvik XIV. v letu 1685?
+5: Katere so tri omejitve v zvezi z vojno?
+-------------------------------------------
+Paragraph: V polkrožni dvorani škotskega parlamenta je bil sedež organiziran v polkrožni dvorani, kar odraža željo po spodbujanju soglasja med izvoljenimi poslanci. V dvorani za razpravo je 131 sedežev. Od skupno 131 sedežev jih 129 zasedajo izvoljeni PPN v parlamentu, 2 pa za škotske odvetniške uradnike – Lord Advocate in Solicitor za Škotsko, ki niso izvoljeni člani parlamenta, ampak so člani škotske vlade. Odvetniški uradniki se lahko udeležijo plenarnih zasedanj parlamenta in govorijo na njih, vendar ne morejo glasovati, ker niso izvoljeni za PPN. Člani lahko sedijo kjer koli v dvorani za razpravo, običajno pa sedijo v skupinah za stranke. Prvi minister, škotski ministri kabineta in pravniki sedijo v prvi vrsti, v srednjem delu dvorane. Največja stranka v parlamentu sedi sredi polkroga z nasprotnimi strankami na obeh straneh. Predsedujoči, parlamentarni uradniki in uradniki sedijo nasproti članom na sprednji strani dvorane za razpravo.
+
+Beam Outputs:
+1: Kako se imenuje sedež škotskega parlamenta?
+2: Kako se imenuje sedež v polkrožni dvorani?
+3: Kdo se je udeležil plenarnih zasedanj parlamenta?
+4: Kdo se je udeležil plenarnih zasedanj?
+5: Kako se imenuje sedež v parlamentu?
+
+Sampling Outputs:
+1: V čem se lahko odvija predsednika parlamenta?
+2: Kakšno je bilo učinkovito pravilo o ukrepih za ustavo?
+3: Kakšne vrste članov so bile izključene v dvorani za razpravo?
+4: Kaj so drugi predmeti, ki jih je imel škotski parlament v letu 2007?
+5: Katere organizacije se nahaja na škotskem parlamentu?
+-------------------------------------------
+Paragraph: Zgodovina parnega stroja sega vse do prvega stoletja n. št.; prvi zabeleženi osnovni parni stroj je aeolipile, ki ga je opisal grški matematik Hero Aleksandrije. V naslednjih stoletjih je bilo znanih nekaj znanih „motorjev“ na parni pogon, tako kot aeolipile, v bistvu eksperimentalne naprave, ki so jih izumitelji uporabljali za dokazovanje lastnosti pare. Osnovna parna turbinska naprava sta leta 1551 opisala Taqi al-Din in Giovanni Branca leta 1629. Jerónimo de Ayanz y Beaumont je leta 1606 prejel patente za petdeset izumov na parni pogon, vključno z vodno črpalko za odvajanje preplavljenih rudnikov. Denis Papin, Huguenotski begunec, je leta 1679 opravil nekaj koristnih del na parnem digestorju in prvič uporabil bat za dvig uteži leta 1690.
+
+Beam Outputs:
+1: Kako se imenuje prvi parni stroj?
+2: Kako se je imenovala prva parna naprava?
+3: Kako se imenuje prva parna naprava, ki se uporablja na parni pogon?
+4: Kdo je bil prvi znan parni stroj?
+5: Kako se imenuje prva parna naprava, ki se uporablja na parnem pogonu
+
+Sampling Outputs:
+1: Katere so bili prvi znani znani motorji v zgodovini parnega stroja?
+2: Kdo je prvič uporabil parne opreme v zgodovini?
+3: Kdaj je bil ustvarjen prvi prvi parni stroj, ki ga je opisal Gadafi?
+4: Kaj je bilo prvič uporabljeno za opis parnega stroja?
+5: Kaj je bil glavni namen, ki ga je ustvaril Henry VIII?
+-------------------------------------------
+Paragraph: Ime Rijn se od tu naprej uporablja le za manjše potoke dlje proti severu, ki so skupaj tvorili glavno reko Ren v rimskih časih. Čeprav so ohranili ime, ti potoki ne nosijo več vode iz Rena, ampak se uporabljajo za izsuševanje okoliške zemlje in polderjev. Od Wijk bij Duurstede se stara severna veja Rena imenuje Kromme Rijn („Bent Ren“) mimo Utrechta, najprej Leidse Rijn („Ren Leiden“) in nato Oude Rijn („Stari Ren“). Slednja teče proti zahodu v zapornico pri Katwijku, kjer se njene vode lahko izpustijo v Severno morje. Ta veja je nekoč oblikovala črto, po kateri so zgradili Limes Germanicus. V obdobjih nižje morske gladine v različnih ledenih dobah je Ren zavil levo in ustvaril reko Rokavski preliv, katere potek zdaj leži pod Rokavskim prelivom.
+
+Beam Outputs:
+1: Kako se imenuje severna veja Rena?
+2: Kako se imenuje severna veja Ren?
+3: Kako se imenuje Rimska veja?
+4: Kako se imenuje veja, ki se nahaja na severu?
+5: Kako se imenuje veja Rena?
+
+Sampling Outputs:
+1: V katerih delih je Rena vplivala na zgodovino?
+2: Kakšen je bil naslov v Rimu?
+3: Katere vode se uporabljajo za izsuševanje vode v Severno morje
+4: Katere so bile tri glavne vode v Rimu?
+5: Kaj je pogosto znano v Utrechtu?
+-------------------------------------------
+Paragraph: Proti koncu 19. stoletja so se začeli uporabljati sestavljeni motorji. Sestavljeni motorji so izčrpali paro v zaporedno večje valje, da bi prilagodili večje količine pri znižanih tlakih, kar je izboljšalo učinkovitost. Te faze so se imenovale razširitve, pri čemer so bili običajni motorji z dvojno in trojno ekspanzijo, zlasti v ladijskem prometu, kjer je bila učinkovitost pomembna za zmanjšanje teže premoga, ki se prevaža. Parni stroji so ostali prevladujoči vir energije do začetka 20. stoletja, ko je napredek pri načrtovanju elektromotorjev in motorjev z notranjim zgorevanjem postopoma povzročil zamenjavo batnih (pistonskih) parnih strojev, pri čemer je ladijski promet v 20. stoletju temeljil na parni turbini.
+
+Beam Outputs:
+1: Kaj je povzročilo razširitev motorjev v 20. stoletju?
+2: Kaj je povzročilo razširitev motorjev v 19. stoletju?
+3: Kaj je povzročilo zmanjšanje učinkovitosti motorjev?
+4: Kaj je povzročilo zmanjšano učinkovitost motorjev?
+5: Kaj je povzročilo razširitev motorjev?
+
+Sampling Outputs:
+1: Kakšen je bil razlog za zamenjavo motorjev?
+2: Katere vrste motorjev so povzročile povečanje učinkovitosti zaradi prenosa motorja?
+3: Zakaj je uran naredil bolj energijo za prenos motorja?
+4: Kako je bilo ime novejših letalskih sil v 19. stoletju?
+5: Kdaj so se prepričal, da so se motorji zamenjali v lasti?
+-------------------------------------------
+Paragraph: Kenoforji tvorijo živalsko debilo, ki je bolj zapletena kot gobice, približno tako kompleksna kot cnidarians (jezure, morske vetrnice itd.) in manj kompleksna kot biliterani (ki vključujejo skoraj vse druge živali). Za razliko od gobic imajo tako ctenoforji kot cnidari: celice, vezane z medceličnimi povezavami in preprogo podobnimi kletnimi membranami; mišice; živčni sistem; nekateri imajo senzorične organe. Kenoforji se od vseh drugih živali razlikujejo po koloblastih, ki so lepljivi in se držijo plena, čeprav jih nekaj vrst ctenoforjev nima.
+
+Beam Outputs:
+1: Kakšne vrste živali imajo ctenoforji?
+2: Kakšne vrste ctenoforjev imajo rastline, ki so se razlikovali od drugih živali?
+3: Kakšne vrste ctenoforjev imajo rastline, ki so se razlikujejo od drugih živali?
+4: Kakšne vrste ctenoforjev imajo rastline?
+5: Kakšne vrste ctenoforjev imajo človeški organizmi?
+
+Sampling Outputs:
+1: Kakšne vrste so njihovo ime?
+2: Kaj je nasprotovanje cetenov?
+3: Kakšne vrste organizmov se običajno razvijejo v rastlinah?
+4: Kje se nahaja rastlinska deblo pod nadzorom?
+5: Kakšne funkcije imajo ctenoforji?
+-------------------------------------------
+Paragraph: Kuznets je pri oblikovanju razmerja med ravnjo dohodka in neenakostjo videl gospodarstva v razvoju s srednjim dohodkom, ki so se izoblikovala in oblikovala tako imenovano Kuznetsovo krivuljo. Kuznets je to razmerje dokazal s presečnimi podatki. Vendar pa je novejše testiranje te teorije z vrhunskimi panelnimi podatki pokazalo, da je zelo šibka. Kuznetsova krivulja napoveduje, da se bo dohodkovna neenakost sčasoma zmanjšala. Na primer, dohodkovna neenakost se je v ZDA zmanjšala med gibanjem srednje šole od 1910 do 1940 in pozneje. Vendar pa nedavni podatki kažejo, da se je raven dohodkovne neenakosti začela dvigovati po sedemdesetih letih prejšnjega stoletja. To ne ovrže nujno Kuznetsove teorije.[potrebna je navedba] Možno je, da se pojavi še en Kuznetsov cikel, zlasti prehod iz proizvodnega sektorja v storitveni sektor. To pomeni, da je mogoče, da lahko več Kuznetovih ciklov v danem trenutku učinkuje.
+
+Beam Outputs:
+1: Kako je Kuznetsova krivulja pokazala, da se je zmanjšala?
+2: Kako je Kuznetsova krivulja pokazala, da se je zmanjšala v ZDA?
+3: Kako je Kuznetsova krivulja pokazala, da se je zmanjšala v letu 1940?
+4: Kako je Kuznetsova krivulja pokazala, da se je zmanjšala v letu 2010?
+5: Kako je Kuznetsova krivulja pokazala, da se je zmanjšala v ZDA
+
+Sampling Outputs:
+1: Kaj je povzročilo, da se je gospodarstva zmanjšala?
+2: Kaj je mogoče doseči, ko je ZDA zmanjšala stopnjo dohodkovne neenakost?
+3: Kaj je povzročilo, da se je zmanjšala številna raven?
+4: Kakšna je bila možnost za ohranjanje razmerja med Kuznetsom in Kuznetsom?
+5: Kaj je povzročilo nezadovoljstvo, ki so jih podjetja ustvarile v ZDA?
+-------------------------------------------
+Paragraph: V zvezi z družbami je Sodišče v sodbi R (Daily Mail and General Trust plc) proti HM Treasury razsodilo, da bi lahko države članice omejile družbo, ki preseli svoj sedež, ne da bi kršile člen 49 PDEU. To je pomenilo, da se matična družba časopisa Daily Mail ni mogla izogniti davku s prenosom svojega prebivališča na Nizozemsko, ne da bi predhodno poravnala svoje davčne račune v Združenem kraljestvu. Združenemu kraljestvu ni bilo treba utemeljiti svojega ukrepa, saj pravila o sedežih družb še niso bila usklajena. Nasprotno pa je Sodišče v zadevi Centros Ltd proti Erhversus-og Selkabssyrelsen ugotovilo, da od delniške družbe Združenega kraljestva, ki deluje na Danskem, ni mogoče zahtevati, da spoštuje danska pravila o minimalnem delniškem kapitalu. Pravo Združenega kraljestva je zahtevalo le 1 GBP kapitala za ustanovitev podjetja, medtem ko je danski zakonodajalec menil, da bi bilo treba podjetja ustanoviti le, če bi imela 200 000 danskih kron (približno 27 000 EUR) za zaščito upnikov, če podjetje propade in postane plačilno nesposobno. Sodišče je razsodilo, da dansko pravo o minimalnem kapitalu krši svobodo ustanavljanja družbe Centros Ltd in ga ni mogoče upravičiti, ker je družba v Združenem kraljestvu sicer lahko opravljala storitve na Danskem, ne da bi tam imela sedež, in so obstajala manj omejevalna sredstva za dosego cilja zaščite upnikov. Ta pristop je bil deležen kritik, ker bi lahko EU omogočil neupravičeno regulativno konkurenco in tekmovanje v zniževanju standardov, kot v ZDA, kjer država Delaware privablja večino podjetij in se pogosto trdi, da ima zaradi tega najslabše standarde odgovornosti upravnih odborov in nizke davke od dohodkov pravnih oseb. Podobno je Sodišče v sodbi Überseering BV proti Nordic Construction GmbH odločilo, da nemško sodišče nizozemskemu gradbenemu podjetju ne more odreči pravice do uveljavljanja pogodbe v Nemčiji, ker ni veljavno ustanovljeno v Nemčiji. Čeprav je mogoče omejitve svobode ustanavljanja upravičiti z zaščito upnikov, pravicami delavcev do sodelovanja pri delu ali javnim interesom za pobiranje davkov, je zavrnitev zmogljivosti šla predaleč: to je bila „popolna negacija“ pravice do ustanavljanja. Vendar je Sodišče v sodbi Cartesio Oktató és Szolgáltató bt ponovno potrdilo, da so družbe, ki so ustanovljene z zakonom, načeloma predmet kakršnih koli pravil o ustanovitvi, ki jih želi uvesti država ustanovitve. To je pomenilo, da bi madžarski organi lahko preprečili, da bi podjetje preselilo svojo glavno upravo v Italijo, medtem ko je še vedno poslovalo in je bilo ustanovljeno na Madžarskem. Sodišče tako razlikuje med pravico tujih družb do ustanavljanja (kadar morajo biti omejitve upravičene) in pravico države, da določi pogoje za družbe, ustanovljene na njenem ozemlju, čeprav ni povsem jasno, zakaj.
+
+Beam Outputs:
+1: Kako je sodišče razsodilo, da je podjetje v Združenem kraljestvu mogoče zaščititi svoje družbe?
+2: Kako je sodišče razsodilo, da je podjetje v Združenem kraljestvu mogoče zaščititi svojo družbo?
+3: Kako je sodišče razsodilo, da je podjetje v Združenem kraljestvu upravljalo svojo ustavo?
+4: Kako je sodišče razsodilo, da je podjetje v Združenem kraljestvu mogoče zaščititi?
+5: Kako je sodišče razsodilo, da je podjetje v Združenem kraljestvu mogoče zaščititi svojo ustavo
+
+Sampling Outputs:
+1: Katera je bila prva beseda, da bi podjetje ugotovilo, da bi postalo učinkovita?
+2: Katere so bile nasprotitve zakonodaje o sedežnih družbah?
+3: Kako je bilo odločjeno, da je podjetje združene s pogodbo, ki je bila odobrena?
+4: Kaj je razsodilo o omejitvi zadržanja in nadzora?
+5: Kaj je sodišče razsodilo, da bi združitve lahko odobrili zaradi tega, da bi bila država ustanovljena na ozemlju?
+-------------------------------------------
+Paragraph: Kasneje so Kalifornij (nezadovoljen z nepravičnimi davki in zakoni o zemljiščih) in proslave južnjaki v rahlo poseljenih „kravnih okrožjih“ južne Kalifornije v 1850-ih trikrat poskušali doseči ločen status države ali ozemlja, ločen od severne Kalifornije. Zadnji poskus, Pico Act iz leta 1859, je sprejel kalifornijski državni zakonodajalec in podpisal guverner John B. Weller. Odobrilo ga je skoraj 75 % volivcev na predlaganem ozemlju Kolorada. To ozemlje naj bi vključevalo vse grofije do takrat veliko večje grofije Tulare (ki je vključevala zdaj kralje, večino Kerna in del okrožja Inyo) in okrožje San Luis Obispo. Predlog je bil poslan v Washington, D.C. z močnim zagovornikom senatorja Miltona Lathama. Vendar pa je kriza odcepitve po volitvah Abrahama Lincolna leta 1860 privedla do tega, da predlog ni nikoli prišel na glasovanje.
+
+Beam Outputs:
+1: Kako je bilo ime ozemlja, ki je vključevala vse grofije?
+2: Kako je bilo ime ozemlja, ki je vključeval vse grofije?
+3: Kako je bilo ime ozemlja, ki je vključevala vse grofije v ZDA?
+4: Kako je bilo ime ozemlja, ki je vključevala vse grofije v Kalifornijo?
+5: Kako je bilo ime ozemlja, ki je vključevala vse grofije v državo?
+
+Sampling Outputs:
+1: Kaj je bilo odločilno v 20. stoletju?
+2: Kateri so bili prvi poskusi poskusa, da bi ZDA predlagale ozemlje?
+3: Kaj so ameriški volivci želeli dobiti od ZDA?
+4: Kako je bilo načelo zaradi ozemlje ozemlja
+5: V letu 1860 je bil poskus za ločitev v ozemlju
+-------------------------------------------
+Paragraph: Veliko matematičnega dela bi bilo še vedno veljavno, če bi imenovali 1 prime, vendar Evklidov temeljni izrek aritmetike (zgoraj omenjeni) ne bi imel, kot je navedeno. Na primer, številka 15 se lahko šteje kot 3· 5 in 1· 3· 5; če bi bila 1 sprejeta kot primarna, bi se ti dve predstavitvi šteli za različne faktorizacije 15 v praštevila, zato bi bilo treba izjavo o tem izreku spremeniti. Podobno sito Eratostena ne bi delovalo pravilno, če bi 1 veljalo za prvo: spremenjena različica sita, ki šteje 1 kot praktičen, bi odpravila vse večkratnike 1 (tj. vse druge številke) in kot izhod proizvajala samo eno številko 1. Poleg tega imajo praštevila več lastnosti, ki jih število 1 nima, kot je razmerje med številom in ustrezno vrednostjo funkcije Eulerjevega totienta ali vsoto delniških funkcij.
+
+Beam Outputs:
+1: Kako se imenuje številka 1?
+2: Kakšna je bila razlika med številkami, ki se štejejo za različne?
+3: Kakšna je bila razlika med številkami, ki se štejejo za prve?
+4: Kakšna je bila razlika med številkami, ki se štejejo za primere?
+5: Kakšna je bila razlika med številkami, ki se štejejo za dve?
+
+Sampling Outputs:
+1: Kaj je najbolj omogočilo, da se številki štejejo kot večkratni?
+2: Kaj je najbolj mogoče storiti o raziskavi?
+3: Kako je bilo navedeno, da je splošna številka za eno?
+4: Katere teorije Mathematica je naredila za posameznike?
+5: Kaj je omogočilo preprečitev, da je bila sodnik sodnik dovoljena?
+-------------------------------------------
+Paragraph: Biotska raznovrstnost rastlinskih vrst je najvišja na Zemlji z eno študijo iz leta 2001, ki je odkrila četrt kvadratnega kilometra (62 hektarjev) ekvadorskega deževnega gozda, ki podpira več kot 1.100 drevesnih vrst. Študija iz leta 1999 je odkrila en kvadratni kilometer amazonskega deževnega gozda, ki lahko vsebuje približno 90.790 ton živih rastlin. Povprečna rastlinska biomasa je ocenjena na 356 ±47 ton na hektar. Do danes je bilo v regiji registriranih 438 000 vrst rastlin gospodarskega in družbenega pomena, še veliko pa jih je še ostalo odkritih ali katalogiziranih. Skupno število drevesnih vrst v regiji je ocenjeno na 16.000.
+
+Beam Outputs:
+1: Kakšna je povprečna rastlinska biomasa v regiji?
+2: Kakšna je povprečna rastlinska raznovrstnost v regiji?
+3: Kakšna je bila povprečna rastlinska biomasa v regiji?
+4: Kakšna je povprečna rastlinska biomasa na Zemlji?
+5: Kakšna je bila povprečna rastlinska raznovrstnost v regiji
+
+Sampling Outputs:
+1: Koliko rastlin v regiji je bilo na Zemlji leta 2000?
+2: Kakšna je bila stopnja rastlinske raznovrstnosti v državi?
+3: Na kateri zemlji se je deževna biomasa rastlinskih vrst ohranjala?
+4: Kakšna je povprečna rast rastlin v regiji?
+5: Zakaj se je rastlinska biota višja na Zemlji?
+-------------------------------------------
+Paragraph: Koncept vztrajnosti je mogoče še bolj posplošiti, da bi pojasnili težnjo predmetov, da se nadaljujejo v številnih različnih oblikah stalnega gibanja, tudi tistih, ki niso strogo konstantna hitrost. Rotacijska vztrajnost planeta Zemlja je tisto, kar določa nespremenljivost dolžine dneva in dolžine enega leta. Albert Einstein je razširil načelo vztrajnosti, ko je pojasnil, da so referenčni okvirji, ki so podvrženi stalnemu pospeševanju, kot so tisti, ki so prosto padali proti gravitacijskemu objektu, fizično enakovredni inercialnim referenčnim okvirjem. To je razlog, zakaj, na primer, astronavti doživljajo breztežnost, ko so v prosto padajoči orbiti okoli Zemlje, in zakaj so Newtonovi zakoni gibanja v takih okoljih lažje prepoznavni. Če astronavt postavi predmet z maso sredi zraka poleg sebe, bo ostal stacioniran glede na astronavt zaradi njegove vztrajnosti. To je ista stvar, ki bi se zgodila, če bi bila astronavt in objekt v intergalaktičnem prostoru brez neto sile gravitacije, ki bi delovala na skupni referenčni okvir. To načelo enakovrednosti je bilo eden od temeljev za razvoj splošne teorije relativnosti.
+
+Beam Outputs:
+1: Kaj je Albert Einstein razširil na teorijo vztrajnosti?
+2: Kaj je Albert Einstein razširil na teorijo enakovrednosti?
+3: Kaj je Albert Einstein razširil na splošno?
+4: Kaj je Albert Einstein razširil?
+5: Kaj je Albert Einstein razširil na teorijo enakovrednosti, ki se je zgodila z Einsteinom?
+
+Sampling Outputs:
+1: Kaj je Albert Einstein opozoril o tem, da se lahko astronavti nadaljujejo?
+2: Kakšen je bil razlog, zakaj se imenuje stvar, ki se zgodi v astronavtovih dogodkih?
+3: Zakaj je Newton razširil koncept?
+4: Kaj se je zgodilo z Newtonovim načelo za enakovrednost?
+5: Kaj je Darwin mislil, da bi Darwin videl svoje naloge v drugi svetovni vojni?
+-------------------------------------------
+Paragraph: Približno sočasno z Maududijem je bila ustanovitev Muslimanske bratovščine v Ismailiju v Egiptu leta 1928 Hassan al Banna. Verjetno je bil prva, največja in najvplivnejša islamska politična/verska organizacija. Pod geslom „Koran je naša ustava“, je iskal islamsko oživitev s pridiganjem in tudi z zagotavljanjem osnovnih storitev skupnosti, vključno s šolami, mošeji in delavnicami. Tako kot Maududi je tudi Al Banna verjel v nujnost vladavine, ki temelji na šeriatskem pravu, ki se izvaja postopoma in s prepričevanjem, ter v odpravo imperialističnega vpliva v muslimanskem svetu.
+
+Beam Outputs:
+1: Kako je Al Bnna verjel, da je islamska vlada vplivala na islamsko oživitev?
+2: Kako je Al Banna verjel, da je islamska vlada vplivala na islamsko oživitev?
+3: Kako je Al Bnna verjel, da je islamska vlada vplivala na islamsko zgodovino?
+4: Kako je Al Bnna verjel, da je islamska vlada vplivala na islam?
+5: Kako je Al Banna verjel, da je islamska vlada vplivala na islam?
+
+Sampling Outputs:
+1: Kaj je bil prvi razlog za učinkovito reformacijo?
+2: Kdo je rekel, da je Al Bāna izvolil svoje reforme v zgodovini islamske države?
+3: Kaj je bila osrednja misel Mauduja v Egiptu leta 1928?
+4: Katera organizacija je bila ustanovljena leta 1928?
+5: Kako je Al Banja verjel v islamsko vojno?
+-------------------------------------------
+Paragraph: Visoko koncentrirani viri kisika spodbujajo hitro zgorevanje. Nevarnost požara in eksplozije obstaja, ko so koncentrirani oksidanti in goriva v neposredni bližini; za sprožitev zgorevanja je potreben vžig, kot je toplota ali iskra. Kisik je oksidant, ne gorivo, vendar je kljub temu vir večine kemične energije, ki se sprosti pri zgorevanju. Nevarnost zgorevanja velja tudi za kisikove spojine z visokim oksidativnim potencialom, kot so peroksidi, klorati, nitrati, perklorati in dikromati, ker lahko dajo kisik ognju.
+
+Beam Outputs:
+1: Kaj se zgodi z oksidativnim potencialom?
+2: Kaj se zgodi z oksidativnimi viri?
+3: Kaj se zgodi z oksidativnimi viri kisika?
+4: Kaj se zgodi z oksidacijo?
+5: Kaj se zgodi z oksidativno energijo?
+
+Sampling Outputs:
+1: Kaj povzroča povečanje zgorevanja?
+2: Zakaj se zgorevanje zmanjša v žarnici?
+3: Kakšne druge lastnosti uporabljajo žarnice oksidanti?
+4: Kaj je treba uporabiti za ohranjanje zgorevanja namesto tega?
+5: Kakšna je možnost za oksidativni proces?
+-------------------------------------------
+Paragraph: Postopkovna posledica ustanovitve škotskega parlamenta je, da lahko škotski poslanci, ki sedijo v spodnjem domu Združenega kraljestva, glasujejo o domači zakonodaji, ki velja samo za Anglijo, Wales in Severno Irsko – medtem ko angleški, škotski, valižanski in severnoirski Westminster poslanci ne morejo glasovati o domači zakonodaji škotskega parlamenta. Ta pojav je znan kot zahodnolotsko vprašanje in je privedel do kritike. Po zmagi konzervativcev na volitvah v Združenem kraljestvu leta 2015 so se stalni ukazi spodnjega doma spremenili tako, da so poslanci, ki zastopajo angleške volilne enote, dobili nov „veto“ nad zakoni, ki zadevajo samo Anglijo.
+
+Beam Outputs:
+1: Kako je škotski parlament spremenil svojo zakonodajo?
+2: Zakaj je škotski parlament spremenil svojo zakonodajo?
+3: Kako je škotski parlament spremenil svoje stališče v Združenem kraljestvu
+4: Kako je škotski parlament spremenil svoje stališče v Združenih državah?
+5: Kako je škotski parlament spremenil svoje stališče?
+
+Sampling Outputs:
+1: Kaj je uredil William VI. Harper?
+2: Kaj so bili v zvezi z škotskimi poslanci?
+3: Kdo je bil odločen o škotskem parlamentu?
+4: Kaj se je zgodilo leta 2015?
+5: Kje je škotska vlada odločila, da je škotska vlada prišla?
+-------------------------------------------
+Paragraph: Projekt mora izpolnjevati zahteve glede določanja območij in gradbenih predpisov. Gradnja projekta, ki ne upošteva kod, lastniku ne koristi. Nekatere pravne zahteve izhajajo iz maluma v se premislekih ali želje, da se preprečijo stvari, ki so nedvomno slabe – most se zruši ali eksplozije. Druge pravne zahteve izhajajo iz malum prepovedi premislekov, ali stvari, ki so predmet običaja ali pričakovanja, kot so osamitev podjetij na poslovno okrožje in rezidence v stanovanjskem okrožju. Odvetnik lahko zahteva spremembe ali izjeme v zakonu, ki ureja zemljišče, kjer bo stavba zgrajena, bodisi z utemeljitvijo, da se pravilo ne uporablja (načrt mostu ne bo povzročil zloma) ali da običaj ni več potreben (sprejetje prostorov za delo v živo se je povečalo v skupnosti).
+
+Beam Outputs:
+1: Kako se lahko zgodi, ko je stavba zgrajena?
+2: Kako se lahko zgodi, če je stavba zgrajena?
+3: Kako se lahko zgodi, ko je stavba zgrajena v mestu?
+4: Kako se lahko zgodi, če se stavba ne uporablja?
+5: Kako se lahko zgodi, če je stavba zgrajena v mestu?
+
+Sampling Outputs:
+1: Kaj se zgodi, ko se je pogodba sodobne države združila?
+2: Kaj lahko napoveduje odvetnik?
+3: Kaj je treba odobriti na podlagi soglasja glede zemljišč?
+4: Kaj lahko povzroči prekinitev pogodbe o tem, da bo zemljišče prepovedano za posameznike?
+5: Kaj je bil problem s podnebnim omejitvem?
+-------------------------------------------
+Paragraph: Kublai Khan je spodbujal gospodarsko, znanstveno in kulturno rast. Trgovce trgovske mreže Silk Road je podpiral z zaščito mongolskega poštnega sistema, gradnjo infrastrukture, zagotavljanjem posojil, s katerimi so se financirale trgovske prikolice, in spodbujanjem obtoka papirnatih bankovcev (±, Chao). Pax Mongolica, mongolski mir, je omogočil širjenje tehnologij, dobrin in kulture med Kitajsko in Zahodom. Kublai je razširil Grand Canal iz južne Kitajske na Daidu na severu. Mongolska vladavina je bila svetovljanka pod Kublai Kanom. Na svojem dvoru je sprejel tuje obiskovalce, kot je beneški trgovec Marco Polo, ki je napisal najvplivnejši evropski račun Yuana Kitajske. Potovanja Marca Pola so kasneje navdihnila mnoge druge, kot je Krištof Kolumb, da bi začrtali prehod na Daljni vzhod v iskanju legendarnega bogastva.
+
+Beam Outputs:
+1: Kakšen je bil cilj Kublai Khana?
+2: Kako je Kublai omogočil gospodarsko rast?
+3: Kako je Kublai omogočil gospodarsko rast v Indiji?
+4: Kakšen je bil cilj Kublaija, da bi omogočil gospodarsko rast?
+5: Kako je Kublai omogočil gospodarsko rast v Zhejiangu?
+
+Sampling Outputs:
+1: Kaj je povzročilo, da je Peking privedel k boljšemu gospodarstvu?
+2: Kako je bilo ime trgovca na svetovni strani Hong Konga?
+3: Kaj je vplivalo na to, da je bil Kublai sponzor v Indiji v letu 1882?
+4: Katera je bila glavna skrb za Kublai Kan?
+5: Kaj je bilo glavno razpravo o prehodju?
+-------------------------------------------
+Paragraph: Nekatere teorije civilne neposlušnosti menijo, da je civilna neposlušnost upravičena le proti vladnim subjektom. Brownlee trdi, da je neposlušnost v nasprotju z odločitvami nevladnih agencij, kot so sindikati, banke in zasebne univerze, mogoče upravičiti, če odraža „večji izziv za pravni sistem, ki omogoča sprejemanje teh odločitev“. Enako načelo naj bi veljalo za kršitve prava v protestu proti mednarodnim organizacijam in tujim vladam.
+
+Beam Outputs:
+1: Kaj je Brownlee verjel, da je mogoče upravičiti civilno neposlušnost?
+2: Kaj je Brownlee verjel, da je mogoče upravičiti poslušnost?
+3: Kaj je Brownlee verjel, da je mogoče upravičiti?
+4: Kaj je Brownlee verjel, da je mogoče upravičiti civilne neposlušnosti?
+5: Kaj je Brownlee verjel, da je mogoče upravičiti civilno neposlušnost v ZDA?
+
+Sampling Outputs:
+1: Kako bi lahko učinkoviti pravni odnosi v nekaterih državah?
+2: Kaj je Brownlee verjel, da je nekaj odločitve o poslušnosti v ZDA?
+3: Kaj je Darwin verjel, da je mogoče upravičiti neprofitne institucije?
+4: Kaj je Brownlee mislil, da ne velja za odločitev, da je neposlušnost vplivala na civilne razlike?
+5: Kaj je Brownlee trdil, da je neformalna zakonodaja upravičena?
+-------------------------------------------
+Paragraph: Prvo zgodovinsko sklicevanje na Varšavo sega v leto 1313, v času, ko je Kraków služil kot poljsko glavno mesto. Varšava je zaradi svoje osrednje lege med poljsko-litvanskima prestolnicama Krakova in Vilne postala glavno mesto Commonwealtha in krone Kraljevine Poljske, ko je kralj Sigismund III Vasa leta 1596 preselil dvor iz Krakova v Varšavo. Po tretji delitvi Poljske leta 1795 je bila Varšava vključena v Kraljevino Prusijo. Leta 1806 je mesto postalo uradno glavno mesto Velikega vojvodstva Varšava, lutkovne države prvega francoskega cesarstva, ki ga je ustanovil Napoleon Bonaparte. V skladu z odločitvami Dunajskega kongresa je Rusko cesarstvo leta 1815 priključilo Varšavo in postalo del „Kongresnega kraljestva“. Šele leta 1918 se je ponovno osamosvojila od tuje vladavine in postala nova prestolnica neodvisne Republike Poljske. Nemška invazija leta 1939, pokol judovskega prebivalstva in deportacije v koncentracijska taborišča so pripeljala do vstaje v Varšavskem getu leta 1943 in do velike in uničujoče vstaje v Varšavi med avgustom in oktobrom 1944. Varšava je dobila naziv „Phoenix City“, ker je preživela številne vojne, konflikte in invazije skozi svojo dolgo zgodovino. Mesto je zlasti zahtevalo skrbno obnovo po veliki škodi, ki jo je utrpelo v drugi svetovni vojni, ki je uničila 85 % njegovih stavb. 9. novembra 1940 je mesto med obleganjem Varšave (1939) prejelo najvišjo poljsko vojaško odlikovanje za junaštvo Virtuti Militari.
+
+Beam Outputs:
+1: Kdaj je Varšava postala uradno glavno mesto?
+2: Kdaj je Varšava postala glavno mesto?
+3: Kdaj je Varšava postala uradno glavno mesto Poljske?
+4: Kdaj je Varšava postala uradno glavno mesto Prusije?
+5: Kdaj je Varšava postala uradno mesto?
+
+Sampling Outputs:
+1: Kaj je Varšava pomembna za območje Velikega vojvode?
+2: Kakšna je bila zgodovinska zgodovina Varšave?
+3: Kdaj je mesto postalo glavno mesto v Veliki Britaniji?
+4: Kakšne so bile lastnosti Varšave?
+5: Katera je bila glavna lokacija Varšave?
+-------------------------------------------
+Paragraph: Koncept praštevila je tako pomemben, da je bil na različne načine posplošen v različnih vejah matematike. Na splošno „prime“ označuje minimalnost ali neločljivost v ustreznem smislu. Na primer, prapolje je najmanjše podpolje polja F, ki vsebuje 0 in 1. To je Q ali končno polje s p elementi, od kod ime. Pogosto drugi, dodatni pomen je namenjen uporabi besede prime, in sicer, da se lahko vsak predmet, v bistvu edinstveno, razgradi v njegove glavne komponente. Na primer, v teoriji vozlov je prime vozel vozel, ki ga ni mogoče razgraditi v smislu, da ga ni mogoče zapisati kot vsota vozlov dveh netrivialnih vozlov. Vsak vozel se lahko enotno izrazi kot povezana vsota prime vozlov. Drugi primeri te vrste so glavni modeli in glavni 3-množniki.
+
+Beam Outputs:
+1: Kakšen je izraz, ki se uporablja v teoriji vozlov?
+2: Kakšen je izraz, ki se uporablja za opis posameznega vozla?
+3: Kakšen je izraz, ki se uporablja za opis predmeta?
+4: Kakšen je primer splošnega pomena?
+5: Kakšen je izraz, ki se uporablja za opis posameznega voza?
+
+Sampling Outputs:
+1: Zakaj je bila splošna uporaba prvega pomena za uporabo splošnih pomenov?
+2: Kaj je v splošno naredilo število?
+3: Kakšne so možnosti v teoriji vozlov?
+4: Kakšne so nekatere različne načine za uporabo praštevila?
+5: Kaj je splošno pomembno v teoriji vozlov?
+-------------------------------------------
+Paragraph: Razlog za vrstni red razredov in razlog, zakaj so bili ljudje postavljeni v določen razred, je bil datum, ko so se predali Mongolom in niso imeli nič opraviti s svojo etnično pripadnostjo. Prej ko so se predali Mongolom, višje so bile postavljene, bolj ko so se zadrževale, nižje so bile uvrščene. Severna Kitajci so bili uvrščeni višje in južna Kitajci so bili uvrščeni nižje, ker je južna Kitajska zdržala in se borila do zadnjega pred jamarstvom. Velika trgovina v tem obdobju je povzročila ugodne pogoje za zasebne južnokitajske proizvajalce in trgovce.
+
+Beam Outputs:
+1: Kaj je povzročilo, da so ljudje uvrščeni v določene razrede?
+2: Kaj je povzročilo, da so ljudje uvrščeni v določeni razred?
+3: Kaj je povzročilo, da so ljudje uvrščeni v določen razred?
+4: Kaj je povzročilo, da so južne Kitajske uvrščene v določene razrede
+5: Kaj je povzročilo, da so južni Kitajci nižji?
+
+Sampling Outputs:
+1: Kaj je povzročilo, da je Južna Kitajska postala višja od Kitajskih?
+2: Kaj so ženske uvrščene v določeni razred?
+3: Kaj je povzročilo, da so se južne Kitajske včasih predali mongolski vladi v tem obdobju?
+4: Kaj je povzročilo, da je Južna Kitajska ostala v ločenem boju s svojimi vojaki?
+5: Kaj je bilo v tem obdobju za trgovce?
+-------------------------------------------
+Paragraph: Za večino človeške zgodovine so višji materialni življenjski standardi – polni želodci, dostop do čiste vode in toplina iz goriva – vodili k boljšemu zdravju in daljšim življenjem. Ta vzorec daljšega življenja z višjimi dohodki je še vedno prisoten med revnejšimi državami, kjer se pričakovana življenjska doba s povečanjem dohodka na prebivalca hitro podaljšuje, vendar se je v zadnjih desetletjih upočasnila med državami s srednjim dohodkom in se ustalila med najbogatejšimi tridesetimi državami na svetu. Američani v povprečju ne živijo več (približno 77 let v letu 2004) kot Grki (78 let) ali Novozelandci (78), čeprav imajo ZDA višji BDP na prebivalca. Pričakovana življenjska doba na Švedskem (80 let) in na Japonskem (82) – kjer je bil dohodek bolj enakomerno porazdeljen – je bila daljša.
+
+Beam Outputs:
+1: Kakšna je bila pričakovana življenjska doba ameriškega prebivalstva?
+2: Kakšna je bila pričakovana življenjska doba v letu 2004?
+3: Kakšna je bila pričakovana življenjska doba Američanov v letu 2004
+4: Kakšna je bila pričakovana življenjska doba Američanov?
+5: Kakšna je bila pričakovana življenjska doba ameriškega prebivalstva
+
+Sampling Outputs:
+1: Kako dolgo je pričakovana življenjska doba ameriških prebivalcev v povprečju s višjim dohodkom na človeškem obrazu?
+2: Koliko ameriških živalnih populacij je bilo v tem obdobju v zadnjih desetletjih?
+3: Kakšen je vzorec, ki omogoča več števila prebivalcev v Ameriki, da živijo v zgodnjih 80-ih letih v letu 2004?
+4: Kaj je bil povzročil vzrok, da je ameriška družba bolj napredovala?
+5: V katerem mestu se je bolj pogosto zgodila pričakovana življenjska doba na Američanh?
+-------------------------------------------
+Paragraph: Harvard je velika, visoko stanovanjska raziskovalna univerza. Nominalni stroški udeležbe je visoka, vendar univerza je velika dotacija omogoča, da ponudi velikodušne pakete finančne pomoči. Poleg knjižnice Harvard, ki je največji akademski in zasebni knjižnični sistem na svetu, upravlja več umetniških, kulturnih in znanstvenih muzejev, ki obsega 79 posameznih knjižnic z več kot 18 milijoni zvezkov. Harvardovi diplomanti vključujejo osem predsednikov ZDA, več tujih voditeljev držav, 62 živih milijarderjev, 335 Rhodes Scholars in 242 Marshall Scholars. Do danes, približno 150 Nobelovih nagrajencev, 18 Fields medalje in 13 Turing Award nagrajenci so bili povezani kot študenti, fakulteta, ali osebje.
+
+Beam Outputs:
+1: Kako se imenuje knjižnica Harvarda?
+2: Kako se imenuje knjižnica Harvard?
+3: Kako se imenuje knjižnica Harvard, ki je upravljala največje raziskovalne institucije na svetu?
+4: Kako se imenuje knjižnica Harvard, ki je upravljala največje raziskovalno središče na svetu?
+5: Kako se imenuje knjižnica Harvard, ki je upravljala največje raziskovalne institucije v ZDA?
+
+Sampling Outputs:
+1: Koliko študentov je vključilo študente v raziskovalno zbirko?
+2: Koliko Harvardovih diplom je bilo uvrstenih v raziskovalno šolo za raziskave sodobnega izobraževanja?
+3: Kako so ZDA ustvarile svoje prve knjižnice?
+4: Koliko oseb je Harvard poskušal upravljati?
+5: V katerem sektorju je Harvard upravljala več posameznih raziskovalnih inštitutov?
+-------------------------------------------
+Paragraph: Zvezni varnostni standardi, kot so NHTSA Federal Motor Vehicle Safety Standard 215 (ki se nanašajo na varnostne odbijače), in kompakti, kot je Mustang I iz leta 1974, so bili uvod v DOT „zmanjšanje“ revizije kategorij vozil. Do leta 1977 so GMovi avtomobili v polni velikosti odražali krizo. Do leta 1979 so se skoraj vsi ameriški avtomobili „popolne velikosti“ skrčili z manjšimi motorji in manjšimi zunanjimi dimenzijami. Chrysler je končal proizvodnjo svojih polnih luksuznih limuzin ob koncu leta 1981, namesto tega se je preselil v polno linijo za pogon na sprednjih kolesih za leto 1982 (razen M-body Dodge Diplomat/Plymouth Gran Fury in Chrysler New Yorker Fifth Avenue limuzina).
+
+Beam Outputs:
+1: Kako se je Chrysler preselil v polno linijo?
+2: Kako se je Chrysler preselil v polno velikost?
+3: Kako se je Chrysler preselil v polni velikosti?
+4: Kaj je bil uvod v ZDA?
+5: Kaj je bil uvod v DST?
+
+Sampling Outputs:
+1: Kaj je podjetje Chrysler leta 1977 spremenilo v polno linijo, ko je začelo proizvajati svoji avtomobili?
+2: Kako so Chrysler in Chrysler povečali svojo velikost v letu 1981?
+3: Na čem je Chrysler menil, da je bil uvod v ZDA?
+4: Kako so se ZDA začele prodajati v polni velikosti?
+5: Kakšne vrste letalskih sil so vključene v ZDA
+-------------------------------------------
+Paragraph: Železniški promet v Viktoriji zagotavlja več zasebnih in javnih prevoznikov v železniškem prometu, ki delujejo na progah v državni lasti. Glavni izvajalci vključujejo: Metro Trains Melbourne, ki vodi obsežen, elektrificiran potniški sistem v Melbournu in predmestju; V/Line, ki je zdaj v lasti viktorijanske vlade, upravlja koncentrirane storitve za večja regionalna središča in storitve na dolge razdalje na drugih progah; Pacific National, CFCL Avstralija, ki opravljajo tovorni promet; Velika južna železnica, ki upravlja Overland Melbourne-Adelaide; in NSW TrainLink, ki upravlja XPTs Melbourne-Sydney.
+
+Beam Outputs:
+1: Kako se imenuje železniški promet v Viktoriji?
+2: Kdo je upravljal železniški promet v Viktoriji?
+3: Kako se imenuje železniški promet v Melbourneju?
+4: Kako se imenuje podjetje, ki upravlja železniški promet?
+5: Kako se imenuje železniški promet Viktorije?
+
+Sampling Outputs:
+1: Kdo upravlja železniški promet v Viktoriji?
+2: Kje so upravljali trgovinske storitve?
+3: Zakaj je Melbourne zapustila svojo železniško infrastrukturo?
+4: Kaj so bili ključni dogodki, ki so vplivali na trgovino s železniško potniško opremo?
+5: Kje je glavna ulica na Viktoriji?
+-------------------------------------------
+Paragraph: Več ovir ščiti organizme pred okužbami, vključno z mehanskimi, kemičnimi in biološkimi pregradami. Voskasta povrhnjica številnih listov, eksoskeleton žuželk, lupine in membrane zunanjih odloženih jajc in koža so primeri mehanskih ovir, ki so prva obrambna linija pred okužbo. Ker organizmov ni mogoče popolnoma zapreti iz okolja, drugi sistemi ščitijo telesne odprtine, kot so pljuča, črevesje in sečilni trakt. V pljučih kašelj in kihanje mehansko izvržejo patogene in druge dražilne snovi iz dihal. Zardevanje solz in urina tudi mehansko izloča patogene, medtem ko sluz, ki se izloča iz dihal in prebavil, služi pasti in zapletanju mikroorganizmov.
+
+Beam Outputs:
+1: Kakšne vrste ovir ščitijo organizme?
+2: Kakšne vrste ovir ščiti organizme?
+3: Kakšne vrste ovir se uporabljajo za zdravljenje bakterij?
+4: Kakšne vrste ovir se uporabljajo za zdravljenje bolezni?
+5: Kakšne vrste ovir imajo organizmi?
+
+Sampling Outputs:
+1: Katere vrste ovir se uporabljajo za razširitev ovir?
+2: Kaj pomeni ovirna membrana?
+3: Kaj je bilo potrebno za izgradnjo zaščite?
+4: Kaj lahko pomaga rastlinam pri razvoju snovi?
+5: Kakšne vrste ovir ščitijo organizme?
+-------------------------------------------
+Paragraph: Regija Zgornjega Rena je bila bistveno spremenjena s programom ravnanja Rena v 19. stoletju. Stopnja pretoka se je povečala, gladina podzemne vode pa se je znatno zmanjšala. Mrtve veje so se posušile in količina gozdov na poplavnih ravnicah se je močno zmanjšala. Na francoski strani je bil izkopan Grand Canal d’Alsace, ki nosi pomemben del rečne vode in ves promet. Na nekaterih mestih obstajajo veliki kompenzacijski bazeni, na primer ogromen Bassin de compensation de Plobsheim v Alzaciji.
+
+Beam Outputs:
+1: Kako se je imenovala regija Zgornjega Rena?
+2: Kako se je imenovala regija Zgornje Rena?
+3: Kako se je imenovala regija zgornjega Rena?
+4: Kakšna je bila stopnja zmanjšanja podzemne vode?
+5: Kako se je imenovala regija Rena?
+
+Sampling Outputs:
+1: Kaj je bilo zgrajeno na Alzaciji leta 1900?
+2: Kaj je naredila vlada Velike Britanije v 19. stoletju?
+3: Kakšna je bila razmerja med Frédéricom in Francijo in Zgornjim Renam?
+4: Kaj je bila sprememba zgradbe, ki so ga oblikovali v 19. stoletju?
+5: Kaj je bil rezultat snovi za pomoč?
+-------------------------------------------
+Paragraph: Leta 2010[posodobitev] je bilo 366.273 gospodinjstev, od katerih je bilo 11,8 % nezasedenih. 23,9 % gospodinjstev je imelo otroke, mlajše od 18 let, 43,8 % poročenih parov, 15,2 % gospodinjstev brez moža, 36,4 % pa jih je bilo nedružinskih. 29,7 % vseh gospodinjstev so sestavljali posamezniki, 7,9 % pa jih je imelo osebo, ki je živela sama in je bila stara 65 let ali več. Povprečna velikost gospodinjstva je bila 2,55, povprečna velikost družine pa 3,21. V mestu se je prebivalstvo razširilo s 23,9 % mlajših od 18 let, 10,5 % od 18 do 24 let, 28,5 % s 25 na 44, 26,2 % od 45 do 64 let in 10,9 % starih 65 let ali več. Mediana starost je bila 35,5 leta. Za vsakih 100 samic je bilo 94,1 samcev. Za vsakih 100 samic, starih 18 let in več, je bilo 91,3 samcev.
+
+Beam Outputs:
+1: Kakšna je bila povprečna velikost gospodinjstev v mestu?
+2: Kolikšen odstotek gospodinjstev je bil v mestu?
+3: Koliko gospodinjstev je bilo v mestu?
+4: Kolikšen odstotek prebivalstva je bil v mestu?
+5: Kakšna je bila povprečna velikost gospodinjstev v letu 2010
+
+Sampling Outputs:
+1: Kolikšna je bila stopnja prebivalstva v mestu?
+2: Kakšna je povprečna starost gospodinjstva na mestu v letu 2010?
+3: Kako je bilo povprečno število žensk v mestu?
+4: Koliko ljudi so v tem obdobju imeli nedružine?
+5: Kolikšen je bil delež gospodinjstev, ki so bili na voljo v letu 2010?
+-------------------------------------------
+Paragraph: Trevithick je nadaljeval svoje poskuse z uporabo trio lokomotiv, ki se je zaključil z Catch Me Who Can leta 1808. Le štiri leta kasneje je uspešno dvovaljno lokomotivo Salamanca Matthewa Murrayja uporabljal rob ograjenega stojala in letev Middleton Railway. Leta 1825 je George Stephenson zgradil lokomocijo za železnico Stockton in Darlington. To je bila prva javna parna železnica na svetu, nato pa je leta 1829 zgradil raketo, ki je vstopila in osvojila Rainhill Trials. Železnica Liverpool in Manchester se je odprla leta 1830 z izključno uporabo parne moči za potniške in tovorne vlake.
+
+Beam Outputs:
+1: Kako se je imenovala prva javna železnica na svetu?
+2: Kako se je imenovala prva javna parna železnica na svetu
+3: Kako se je imenovala železnica Liverpool in Manchester?
+4: Kako se je imenovala prva javna železnica na svetu
+5: Kako se je imenovala prva javna parna železnica?
+
+Sampling Outputs:
+1: Kdaj je Tito zapustil železnico Norfolk leta 1830?
+2: Zakaj so bili uporabljeni tri motorji, ki se uporabljajo za uporabo motorja?
+3: Katera je bila prva javna železnica na svetu?
+4: Katera železnica je bila v letu 1830 na voljo na lokaciji Liverpool in Manchester?
+5: Kaj je bil prvi javni parni železniški center na svetu?
+-------------------------------------------
+Paragraph: Časopis Daily Mail je leta 2012 poročal, da je britanska vladna agencija za prejemke preverjala „Sky TV račune, da bi ugotovili, ali ženska, ki prejema dajatve kot mati samohranilka, napačno trdi, da živi sama“ – kot je trdila, naročnina na športne kanale bi izdala prisotnost moškega v gospodinjstvu. Decembra je britanski parlament prisluhnil trditvi, da je bila naročnina na družbo BSkyB skupaj z alkoholom, tobakom in igrami na srečo „pogosto škodljiva“. Konzervativen MP Alec Shelbrooke je predlagal plačila ugodnosti in davčnih dobropisov na „Welfare Cash Card“, v slogu programa dodatne pomoči pri prehrani, ki bi se lahko uporabil za nakup samo „bistvenih elementov“.
+
+Beam Outputs:
+1: Kaj je BBC poročal, da je ženska, ki prejema naročnino na družbo BSkyB, pogosto škodljiva?
+2: Kaj je BBC poročal, da je ženska, ki prejema naročnino na družbo BSkyB, škodljiva?
+3: Kaj je BBC poročal, da je ženska, ki prejema naročnino na družbo BSkyB, napačno trdila?
+4: Kaj je BBC poročal, da je ženska, ki prejema naročnino na družbo BSkyB?
+5: Kaj je BBC poročal, da je ženska, ki prejema naročnino na družbo BSkyB, napačno trdila o tem, kaj?
+
+Sampling Outputs:
+1: Kakšen je bil dogovor za naročnino na televizijo v letu 2012?
+2: Kakšne so bile odločitve o naročnini na Sky TV
+3: Kako je bilo trdilo, da je britanska agencija za prenosi na srečo imela zaščito od sodobnega nadzora?
+4: Kako se imenuje naročnina na Sky TV?
+5: Kaj je poročala o ženskah na srečo?
+-------------------------------------------
+Paragraph: Giuga domneva pravi, da je ta enačba tudi zadosten pogoj, da je p prazna. Druga posledica Fermatovega malega izreka je: če je p praštevilo, ki ni 2 in 5, je 1/p vedno ponavljajoča se decimalka, katere obdobje je p −1 ali delilec p −1. Frakcija 1/p, izražena prav tako v bazi q (namesto baza 10), ima podoben učinek, pod pogojem, da p ni prafaktor q. Wilsonov izrek pravi, da je celo število p > 1 praktičen, če in samo če faktorial (p −1)! +1 je deljiv s p. Poleg tega je celo število n > 4 sestavljeno, če in samo če (n-1) je deljivo z n.
+
+Beam Outputs:
+1: Kako se imenuje enačba, ki se uporablja za število p?
+2: Kako se imenuje enačba, ki omogoča, da je število p?
+3: Kako se imenuje število p?
+4: Kako se imenuje enačba, ki omogoča, da je število n?
+5: Kako se imenuje enačba, ki omogoča, da je število p n?
+
+Sampling Outputs:
+1: Kdo je napovedal, da je število p enako številnim za število?
+2: Kaj je bilo navedeno s pomembnim razlogom, da je najbolj preprosta za število p?
+3: Kaj je splošno znano kot n?
+4: Kako je n pravilno vplival na to, da je n n?
+5: Kaj so sestavljeni glede na število?
+-------------------------------------------
+Paragraph: Nadzor cen je zaostril krizo v ZDA. Sistem je omejil ceno „stare nafte“ (ki je bila že odkrita), medtem ko je omogočil prodajo na novo odkrite nafte po višji ceni za spodbujanje naložb. Verjetno je bila stara nafta umaknjena s trga, kar je povzročilo večje pomanjkanje. Pravilo je tudi odvračalo od razvoja alternativnih energij. Namen pravila je bil spodbujati iskanje nafte. Pomanjkanje je bilo odpravljeno z razmerjem (kot v številnih državah). Motoristi so se soočili z dolgimi linijami na bencinskih črpalkah, ki so se začele poleti 1972 in povečevale do poletja 1973.
+
+Beam Outputs:
+1: Kaj je povzročilo pomanjkanje nafte v ZDA?
+2: Kaj je povzročilo pomanjkanje nafte?
+3: Kaj je povzročilo pomanjkanje energije v ZDA?
+4: Kaj je povzročilo pomanjkanje nafte na trgu?
+5: Kaj je povzročilo pomanjkanje nafte v ZDA
+
+Sampling Outputs:
+1: Kako so se gospodarski organi odločili o uvrstitvi v gospodarstvo v ZDA?
+2: Zakaj je bila v ZDA pomanjkanje energije povečala?
+3: Kaj je bil ustavljen v zgodnjem času?
+4: Kaj je bil glavni vzrok za zmanjšanje učinkov naložbe v ZDA
+5: Kaj je bilo narejeno na podlagi pravila leta 1973?
+-------------------------------------------
+Paragraph: Leta 1755 se je šest kolonialnih guvernerjev v Severni Ameriki sestalo z generalom Edwardom Braddockom, novo prispelim poveljnikom britanske vojske, in načrtovalo štirismerni napad na Francoze. Nihče ni uspel in glavno prizadevanje Braddocka je bila katastrofa; 9. julija 1755 je bil poražen v bitki pri Monongaheli in nekaj dni kasneje umrl. Britanske operacije v letih 1755, 1756 in 1757 na obmejnih območjih Pensilvanije in New Yorka niso uspele zaradi kombinacije slabega upravljanja, notranjih delitev in učinkovitih kanadskih izvidnikov, francoskih rednih sil in indijskih bojevnikov. Leta 1755 so Britanci zavzeli Fort Beauséjour na meji, ki je ločila Novo Škotsko od Akadije; kmalu zatem so ukazali izgon Akadčanov. Ukaze za deportacijo je dal William Shirley, vrhovni poveljnik Severne Amerike, brez navodil iz Velike Britanije. Akadčani so bili izgnani, tako tisti, ki so prisegli zvestobo njegovemu veličanstvu, kot tisti, ki so prisegli z orožjem. Domači Američani so bili prav tako izgnani iz svoje zemlje, da bi naredili pot za naseljence iz Nove Anglije.
+
+Beam Outputs:
+1: Kaj je bil glavni razlog, da so Britanci izgnani iz svoje zemlje?
+2: Kaj je bil glavni razlog, da so Britanci izgnani iz svojih zemljišč?
+3: Kaj je bil glavni razlog, da so Britanci izgnani iz svoje države?
+4: Kaj je bil glavni razlog, da so Britanci izgnani?
+5: Kaj je bil glavni razlog, da so Britanci izgnani iz Anglije?
+
+Sampling Outputs:
+1: Kakšen je bil rezultat zadnje kampanje na območju Washingtona v 1755?
+2: Kako so bile britanske operacije uspešne?
+3: Na kateri dan se je USS George Washington preselil na Britansko podmornico?
+4: Kakšen je bil primer razglašanja o vojni?
+5: Zakaj je bil leta 1755 izgin?
+-------------------------------------------
+Paragraph: Loudoun, sposoben upravitelj, vendar previden poveljnik na terenu, je načrtoval eno večjo operacijo za leto 1757: napad na prestolnico Nove Francije, Quebec. Zapustil je veliko silo v Fort Williamu Henryju, da bi odvrnil Montcalma in začel organizirati ekspedicijo v Quebecu. Nato mu je William Pitt, državni sekretar, odgovoren za kolonije, ukazal, naj najprej napade Louisbourg. Ob zamudah vseh vrst je bila odprava končno pripravljena za jadranje iz Halifaxa, Nova Škotska v začetku avgusta. Medtem so francoske ladje pobegnile iz britanske blokade francoske obale, flota, ki je bila številčnejša od britanske, pa je čakala Loudouna v Louisbourgu. S to močjo se je Loudoun vrnil v New York sredi novic, da se je zgodil pokol v Fort William Henryju.
+
+Beam Outputs:
+1: Kdaj je bil Loudoun vrnil v New York?
+2: Kdaj je Loudoun vrnil v New York?
+3: Kdaj je bil Loudoun vrnil v New York
+4: Kdaj je bil Loudoun izvoljen?
+5: Kdaj je Loudoun vrnil v New York
+
+Sampling Outputs:
+1: Kdo je bil prvi poveljnik, ki je nadzoroval letališče, ki jih je zgradil Ferdinand?
+2: Kaj je bil Loudoun naredil za splošno, ko je imel dovolj nadzora na vojaškem področju?
+3: Kaj je bilo leta 1757 za predsednika Loudouna?
+4: Kaj je Darwin dokazal v letu 1757?
+5: V katerem letu so britanske ladje zapustile Valencijo v New Yorku
+-------------------------------------------
+Paragraph: Steven Barkan piše, da če obtoženci trdijo, da niso krivi, „morajo odločiti, ali bo njihov glavni cilj zmagati oproščeno in se izogniti zaporni kazni ali denarni kazni, ali uporabiti postopek kot forum za obveščanje žirije in javnosti o političnih okoliščinah primera in njihovih razlogih za kršenje zakona s civilno neposlušnostjo.“ Tehnična obramba lahko poveča možnosti za oprostitev, vendar se za bolj dolgočasne postopke in zmanjša pokritost medijev. V času vietnamske vojne je Chicago Osma uporabil politično obrambo, Benjamin Spock pa tehnično obrambo. V državah, kot so Združene države, katerih zakoni zagotavljajo pravico do sojenja pred poroto, vendar ne opravičujejo kršenja zakonov za politične namene, nekateri civilni neposlušniki iščejo izničenje porote. V preteklih letih je bilo to oteženo zaradi sodnih odločb, kot sta Sparf proti ZDA, ki je menila, da sodniku ni treba obvestiti porotnikov o njihovi razveljavitvi prerogativ, in Združene države proti Dougherty, ki je menila, da sodniku ni treba dovoliti tožencem, da odkrito iščejo izničenje porote.
+
+Beam Outputs:
+1: Kakšna je bila odločitev, ki je omogočila, da so obtoženci ugotovili svoje pravice do sojenja?
+2: Kakšna je bila odločitev, ki je omogočila, da so obtoženci ugotovili svoje pravice?
+3: Kakšna je bila odločitev, ki je omogočila, da so obtoženci prenehali izvajati svoje pravice?
+4: Kakšna je bila odločitev, ki je omogočila, da so obtoženci ugotovili svoje pravice do sodišča?
+5: Kakšna je bila odločitev, ki je omogočila, da so obtoženci ugotovili, kaj?
+
+Sampling Outputs:
+1: Kaj je bil glavni namen zakonodaje o omejevanju zaporne kazni?
+2: Zakaj je bil John Kerry izvoljen za predsednika vlade?
+3: Kaj je bilo mogoče storiti, če se oseba nanaša na svoje omejitve?
+4: Zakaj so nasprotniki odločili, da so nasprotniki predlagali oprostitev?
+5: Kdo je odločil o oprostitvi?
+-------------------------------------------
+Paragraph: Približno 61,1 % viktorijancev sebe opisuje kot kristjane. Rimskokatoličani tvorijo največjo versko skupino v državi s 26,7 % viktorijanskega prebivalstva, sledijo pa anglikanci in člani Združevalne cerkve. Budizem je največja državna nekrščanska religija s 168.637 pripadniki po zadnjem popisu. Victoria je tudi dom 152.775 muslimanov in 45.150 Judov. Hinduizem je najhitreje rastoča religija. Približno 20 % viktorijancev ne trdi nobene vere. Med tistimi, ki razglasijo versko pripadnost, je navzočnost cerkve nizka.
+
+Beam Outputs:
+1: Kolikšen odstotek viktorijancev je vplival na njihovo religijo?
+2: Kolikšen odstotek viktorijancev je vplival na njihovo religijo v državi?
+3: Kolikšen odstotek viktorijancev se je odločil, da se ukvarjajo z versko skupino?
+4: Kolikšen odstotek viktorijancev se je odločil, da se ukvarjajo s religijo?
+5: Kolikšen odstotek viktorijancev se je odločil, da se ukvarjajo z nekrščansko kulturo?
+
+Sampling Outputs:
+1: Kakšna je stopnja viktorijanske religije?
+2: Koliko viktorijanov je ostalo v Victoriaju leta 2007?
+3: Kako veliko je vplivalo na protestantsko cerkev v državi?
+4: Kako je bil viktorijanski prebivalstvo v Victoriaju?
+5: Koliko viktorijancev v Victoriaju je na svetu?
+-------------------------------------------
+Paragraph: Leta 1883–84 je Nemčija začela graditi kolonialni imperij v Afriki in južnem Tihem oceanu, preden je izgubila zanimanje za imperializem. Zgodovinarji so razpravljali o tem, zakaj je Nemčija naredila to nenadno in kratkotrajno potezo. Bismarck se je zavedal, da je javno mnenje začelo zahtevati kolonije zaradi nemškega ugleda. Pod vplivom hamburških trgovcev in trgovcev, njegovih sosedov v Friedrichsruhu. Ustanovitev nemškega kolonialnega imperija je potekala gladko, začenši z Nemško Novo Gvinejo leta 1884.
+
+Beam Outputs:
+1: Kdaj je Nemčija začela graditi kolonialni imperij?
+2: Zakaj je Nemčija začela graditi kolonialni imperij?
+3: Kdaj je Nemčija začela graditi kolonialni imperij v Afriki?
+4: Zakaj je Nemčija začela graditi kolonialni imperij v Afriki?
+5: Kdaj je Nemčija začela graditi kolonialne imperije?
+
+Sampling Outputs:
+1: Kaj je Bismarck videl v letu 1880?
+2: Kaj je bilo pomembno za odločitev Bismarcka o tem, da je vlada začela razviti svoje kolonije?
+3: Zakaj je bil Bismarck odločen o njihovo zaščito?
+4: Kakšen je bil cilj Nemčije v letu 1884?
+5: Kakšna je bila razlog za izboljšanje glede števila kolonij v Franciji?
+-------------------------------------------
+Paragraph: BSkyB je standardna opredelitev oddaj so v DVB-skladen MPEG-2, z Sky Filmi in Sky Box Office kanalov, vključno z neobvezno Dolby Digital soundtracks za nedavne filme, čeprav so ti dostopni le z Sky + polje. Sky + HD material se oddaja z uporabo MPEG-4 in večina HD materiala uporablja standard DVB-S2. Interaktivne storitve in 7-dnevni EPG uporabljajo lastniške OpenTV sistem, s set-top boxi, vključno z modemi za povratno pot. Sky News, med drugimi kanali, zagotavlja psevdo-video na zahtevo interaktivno storitev z oddajanjem looping video tokov.
+
+Beam Outputs:
+1: Katere storitve uporablja Sky News?
+2: Kako se imenuje Sky + HD?
+3: Katere storitve uporabljajo Sky News?
+4: Katere storitve zagotavlja Sky News?
+5: Katere storitve uporablja Sky + HD?
+
+Sampling Outputs:
+1: Kakšna je standardna opredelitev za HD material?
+2: Kako je Sky naredil svojo prvo igro?
+3: Kakšne storitve zagotavlja BSkyB, ki omogočajo HD programski sistem?
+4: Zakaj bi Sky + HD dostopalo v HD formatih?
+5: Na katerih štirih področjih uporablja Sky + HD?
+-------------------------------------------
+Paragraph: Funkcija zeta je tesno povezana s praštevilnimi števili. Na primer, zgoraj omenjeno dejstvo, da je neskončno veliko praštevil, je mogoče videti tudi z uporabo funkcije zeta: če bi bilo le končno veliko praštevil, potem bi (1) imel končno vrednost. Harmonična serija 1 +1/2 +1/3 +1/4 +... se razlikuje (tj. presega določeno število), zato mora biti neskončno veliko praštevil. Drug primer bogastva funkcije eta in vpogled v sodobno algebrsko teorijo števil je naslednja identiteta (Baselov problem) zaradi Eulerja,
+
+Beam Outputs:
+1: Kaj je mogoče videti tudi z uporabo funkcije Zeta?
+2: Kaj je mogoče videti tudi z uporabo funkcije?
+3: Kaj je mogoče videti z uporabo funkcije?
+4: Kaj je mogoče videti tudi z uporabo funkcije za število?
+5: Kaj je mogoče videti tudi z uporabo funkcije, ki se razlikuje od števila?
+
+Sampling Outputs:
+1: Kaj je bilo v sodobnem jeziku leta 2011 v zvezi z število?
+2: Kakšen je primer številne različice števila?
+3: Kaj je ena od razlogov za spremembo števila?
+4: Kaj je bila glavna razlika med vrednostjo števila?
+5: Kako je bilo ugotovljeno, da je bil številni odstotek števil?
+-------------------------------------------
+Paragraph: Ker imajo vsi sodobni ktenoforji, razen beroidov, ličinke, podobne cedippidu, se je splošno domnevalo, da je bil njihov zadnji skupni prednik podoben tudi cidippidom, ki imajo telo v obliki jajčeca in par zložljivih lovk. Povsem morfološka analiza Richarda Harbisona leta 1985 je ugotovila, da cidipidi niso monofiletični, z drugimi besedami, ne vsebujejo vseh in samo potomcev enega skupnega prednika, ki je bil sam cidippid. Namesto tega je ugotovil, da so bile različne družine cedippidov bolj podobne članom drugih ktenofornih redov kot drugim cidippidom. Predlagal je tudi, da je bil zadnji skupni prednik sodobnih ktenoforjev bodisi cidippid podoben ali beroidu podoben. Molekularna filogenska analiza leta 2001 z uporabo 26 vrst, vključno s 4 pred kratkim odkritimi vrstami, je potrdila, da cidippidi niso monofiletični, in ugotovila, da je zadnji skupni prednik sodobnih ktenoforjev cidippid. Ugotovila je tudi, da so bile genetske razlike med temi vrstami zelo majhne – tako majhne, da so razmerja med Lobato, Cestido in Thalassocalycida ostala negotova. To kaže, da je bil zadnji skupni prednik sodobnih ktenoforjev relativno novejši in je morda imel srečo, da je preživel kredonsko-paleogensko izumrtje pred 65,5 milijona leti, medtem ko so ostale linije izumrle. Ko je bila analiza razširjena na predstavnike druge fite, je ugotovila, da so cnidari verjetno tesneje povezani z biliteranci kot katera koli skupina s ktenoforami, vendar je ta diagnoza negotova.
+
+Beam Outputs:
+1: Kdo je ugotovil, da je zadnji skupni prednik sodobnih kteoforjev?
+2: Kdo je ugotovil, da je bil zadnji skupni prednik sodobnih kteoforjev?
+3: Kdo je ugotovil, da je bil zadnji skupni prednik sodobnih kletoforjev?
+4: Kdo je ugotovil, da je zadnji skupni prednik?
+5: Kdo je ugotovil, da je bil zadnji skupni prednik?
+
+Sampling Outputs:
+1: Kaj je bila najbolj pomembna študija sodobne bakterije?
+2: Zakaj se je Darwin odločil, da se števila članov sodobnih ledeničnih sistemov ne bi lahko povečala?
+3: Kakšna je bila razlaga, da so bili cinipidi splošno vključeni v skupine sodobne kleti?
+4: Kdaj so bili cidipidi zelo podobni drugemu kdo?
+5: Kaj je povzročilo pomanjkanje števila ptic in rastlin?
+-------------------------------------------
+Paragraph: Po katastrofalnih britanskih kampanjah leta 1757 (ki so povzročile neuspešno odpravo proti Louisbourgu in obleganju Fort Williama Henryja, ki mu je sledilo indijsko mučenje in pokol britanskih žrtev) je britanska vlada padla. William Pitt je prišel na oblast in znatno povečal britanske vojaške vire v kolonijah v času, ko Francija ni bila pripravljena tvegati velikih konvojov, da bi pomagala omejenim silam, ki jih je imela v Novi Franciji. Francija se je osredotočila na Prusijo in njene zaveznike v evropskem gledališču vojne. Med letoma 1758 in 1760 je britanska vojska začela kampanjo za zajetje kanadske kolonije. Uspelo jim je ujeti ozemlje v okoliških kolonijah in nazadnje Quebecu. Čeprav so Britanci kasneje premagali Sainte Foy v Quebecu, so Francozi odstopili Kanado v skladu s pogodbo iz leta 1763.
+
+Beam Outputs:
+1: Kdaj je bila britanska vojska osredotočena na Francijo?
+2: Kdaj je bila britanska vojska osredotočena na Kanado?
+3: Kako je bila britanska vojska odločena, da bi ohranila ozemlje v Franciji?
+4: Kako je bila britanska vojska odločena, da bi ohranila ozemlje v Kanadi?
+5: Kako je bila britanska vojska odločena, da bo osvobodila kanadsko kolonijo?
+
+Sampling Outputs:
+1: Kateri dve kampanji je povzročila usmrtitev Francije na splošno?
+2: Kako so Britanci imeli nagrado o državljanstvu na splošno?
+3: Zakaj je bila ustanovljena Velika Britanija?
+4: Kdaj so Britanijo ustavila vojna?
+5: Kateri so bili prvi britanski napadi na Francijo?
+-------------------------------------------
+Paragraph: Bodensko jezero je sestavljeno iz treh vodnih teles: Obersee („zgornje jezero“), Untersee („spodnje jezero“) in povezovalni odsek Rena, imenovan Seerhein („jezero Ren“). Jezero se nahaja v Nemčiji, Švici in Avstriji v bližini Alp. Natančneje, njene obale ležijo v nemških deželah Bavarska in Baden-Württemberg, v avstrijski zvezni deželi Vorarlberg ter v švicarskih kantonih Thurgau in St. Gallen. Ren teče vanjo z juga po švicarsko-avstrijski meji. Nahaja se na približno 47°39′ S 9°19′V; 9.317.
+
+Beam Outputs:
+1: Kako se imenuje jezero Ren?
+2: Kako se imenuje jezero, ki se nahaja v Nemčiji?
+3: Kako se imenuje jezero Ren, ki se nahaja v Švici?
+4: Kako se imenuje jezero Ren v Nemčiji?
+5: Kako se imenuje jezero Rena?
+
+Sampling Outputs:
+1: Kakšne so imena jezero?
+2: Kje je jezero Ren?
+3: Kdaj je jezero Ren?
+4: Katere jeziki se nahaja v Bernu?
+5: Kdaj se je nahaja naravne jezero Ren?
+-------------------------------------------
+Paragraph: Iz Italije se je bolezen razširila severozahodno po Evropi in do junija 1348 prizadela Francijo, Španijo, Portugalsko in Anglijo, nato pa se je od 1348 do 1350 obrnila na vzhod skozi Nemčijo in Skandinavijo. Uveden je bil na Norveškem leta 1349, ko je ladja pristala v Askøyu, nato pa se je razširila na Bjørgvin (sodobni Bergen) in Islandijo. Leta 1351 se je razširil na severozahodno Rusijo. Kuga je bila nekoliko manj pogosta v delih Evrope, ki so imeli manjše trgovinske odnose s svojimi sosedami, vključno s Kraljevino Poljsko, večino Baskije, osamljenimi deli Belgije in Nizozemske ter izoliranimi alpskimi vasmi po vsej celini.
+
+Beam Outputs:
+1: Kako se je Kuga razširila po Evropi?
+2: Kako se je Kuga razširila na vzhod?
+3: Kako se je Kuga razširila v Evropo?
+4: Kako se je Kuga razširila?
+5: Kako se je Kuga razširila po Evropi
+
+Sampling Outputs:
+1: Kdaj je bila ladja razširjena v Skandinavijo?
+2: Na katerih dveh področjih je Kuga vplivala na severnoafriški otok?
+3: Kakšno je bilo nagrado ladijske regije v katerem letu?
+4: Kakšne so bile različne vloge med Italijo in Portugalsko?
+5: Kdo je bil prvi predsednik evropske zveze?
+-------------------------------------------
+Paragraph: Newtonov zakon o gravitaciji je bil le v tirnici planeta Mercury, ki ga Newtonov zakon o gravitaciji ni v celoti pojasnil. Nekateri astrofiziki so napovedali obstoj drugega planeta (Vulkana), ki bi pojasnil razlike; vendar, kljub nekaterim zgodnjim znakom, takega planeta ni bilo mogoče najti. Ko je Albert Einstein formuliral svojo teorijo splošne relativnosti (GR) je svojo pozornost usmeril na problem Merkurjeve orbite in ugotovil, da je njegova teorija dodala popravek, ki bi lahko bil vzrok za neskladje. To je bilo prvič, da se je Newtonova teorija gravitacije izkazala za manj pravilno kot alternativo.
+
+Beam Outputs:
+1: Kako je Albert Einstein ugotovil, da je Newtonova teorija splošne relativnosti?
+2: Kako je Albert Einstein ugotovil, da je Newtonova teorija o gravitaciji?
+3: Kako je Albert Einstein ugotovil, da je Newtonova teorija splošne relativnosti vplivala na kaj?
+4: Kako je Albert Einstein ugotovil, da je Newtonova teorija o gravitaciji vplivala na kaj?
+5: Kako je Albert Einstein ugotovil, da je Newtonova teorija o gravitaciji vplivala na razlike?
+
+Sampling Outputs:
+1: Kje je bil prvi napovedan zaradi tega, kar je Einstein ugotovil, da je Newtonova teorija o gravitaciji pravilno?
+2: Kaj je Einstein verjel, da je Newtonova teorija ugotovila, da so se nekateri astrofiziki zanesli na Neptun?
+3: Zakaj se je zgodil Newtonov zakon o gravitaciji?
+4: Kakšen je bil primer Newtonove teorije gravitacije?
+5: Kakšno je bilo prvotno ime za teorijo Newtonovega znanja o gravitaciji?
+-------------------------------------------
+Paragraph: Rankinov cikel in najbolj praktični parni stroji imajo vodno črpalko za recikliranje ali polnjenje kotlovske vode, tako da se lahko neprekinjeno izvajajo. Komunalni in industrijski kotli običajno uporabljajo večstopenjske centrifugalne črpalke; vendar pa se uporabljajo druge vrste. Drugo sredstvo za oskrbo z nizkotlačno dovodno vodo kotla je injektor, ki uporablja parni curek, ki se običajno dobavlja iz kotla. Injektorji so postali priljubljeni v 1850-ih, vendar se ne uporabljajo več pogosto, razen v aplikacijah, kot so parne lokomotive.
+
+Beam Outputs:
+1: Kaj se uporablja za oskrbo z nizkotlačno vodo kotla?
+2: Kaj se uporablja za oskrbo z nizkotlačno dovodno vodo kotla?
+3: Kaj se uporablja za oskrbo z nizkotlačno vodo kotla?
+4: Kaj je najbolj priljubljeno sredstvo za oskrbo z nizozemsko vodo?
+5: Kaj se uporablja za oskrbo z nizkotlačno vodo?
+
+Sampling Outputs:
+1: Kako se imenuje oskrba z nizozemsko vodo kotlišča?
+2: Kateri dve vrsti injektorjev uporabljajo večstopenjske črpalke v letu 1850?
+3: Kaj je eno od sredstvo za učinkovito uporabo v katerih podjetjih?
+4: Kaj se uporablja za upravljanje vodno vode v kotlu?
+5: Kaj so bili najstarejši parni stroji v letu 1850?
+-------------------------------------------
+Paragraph: Južna Kalifornija je sestavljena iz enega kombiniranega statističnega območja, osmih metropolitanskih statističnih območij, enega mednarodnega metropolitanskega območja in več metropolitanskih oddelkov. Regija je dom dveh razširjenih metropolitanskih območij, ki presega pet milijonov prebivalcev. To sta Greater Los Angeles Area na 17.786,419 in San Diego-Tijuana ob 5.105.768. Od teh metropolitanskih območij metropolitansko območje Los Angeles-Long Beach-Santa Ana, metropolitansko območje Riverside-San Bernardino-Ontario in metropolitansko območje Oxnard-Thousand Oaks-Ventura tvorijo večji Los Angeles; medtem ko metropolitansko območje El Centro in metropolitansko območje San Diego-Carlsbad-San Marcos tvorita regijo južne meje. Severno od Velikega Los Angelesa so Santa Barbara, San Luis Obispo in metropolitanska območja Bakersfield.
+
+Beam Outputs:
+1: Koliko metropolitanskih območij je v Los Angelesu?
+2: Koliko metropolitanskih območij je v Veliki Kaliforniji?
+3: Kako se imenuje metropolitanska območja Los Angeles?
+4: Kako se imenuje metropolitanska območja Los Angelesa?
+5: Kako se imenuje metropolitanska območja, ki se nahaja v Los Angelesu?
+
+Sampling Outputs:
+1: Koliko metropolitanskih območij je bilo na Univerzi v Oklahomi?
+2: Kje je največja ameriška država?
+3: Zakaj se južna Kalifornija nanaša na dve razširjeni območji?
+4: Kakšno območje je vključilo Los Angeles?
+5: Zakaj je regija Velikega Los Angelesa delno vključena na večji Los Angeles?
+-------------------------------------------
+Paragraph: Naslednji večji korak se je zgodil, ko je James Watt (1763–1775) razvil izboljšano različico Newcomenovega motorja z ločenim kondenzatorjem. Boulton in Wattovi zgodnji motorji so porabili pol toliko premoga kot izboljšana različica Newcomena Johna Smeatona. Zgodnji motorji Newcomen in Watt so bili „atmosferski“. Poganjal jih je zračni tlak, ki je potiskal bat v delni vakuum, ustvarjen s kondenziranjem pare, namesto pritiska ekspandirane pare. Valji motorja so morali biti veliki, ker je bila edina uporabna sila, ki deluje na njih, zaradi atmosferskega tlaka.
+
+Beam Outputs:
+1: Kako je bilo ime Newcomenovemu motorju?
+2: Kako je bilo ime Newcomenovih motorjev?
+3: Kako je bilo ime Newcomenovemu motorju
+4: Kako je bilo ime Newcomenovemu motorju, ki je bil ustvarjen?
+5: Kako je bilo ime Newcomenovih motorjev
+
+Sampling Outputs:
+1: Kaj je bila prva različica prenosa motorja Newcomena v 20. stoletju?
+2: Kaj je bil naslov, ki ga je ugotovil John?
+3: Katera različica pomeni dvigala motorja Newcomen in Wat?
+4: Kaj je bilo ustvarjeno za zagotovitev, da se je bil rotor uporabil s katerim sistemom?
+5: Kakšno je bilo prvo delo sodobnega motorja New Comen?
+-------------------------------------------
+Paragraph: Howard Zinn je zapisal: &quot;Mogoče je velikokrat, ko se protestniki odločijo, da gredo v zapor, kot način nadaljevanja protesta, kot način, da svoje rojake opomnijo na krivico. Toda to je drugače od ideje, da morajo iti v zapor kot del pravila, povezanega z državljansko neposlušnostjo. Ključna točka je, da se duh protesta ohrani do konca, ne glede na to, ali je to storjeno tako, da ostane v zaporu ali se mu izognemo. Sprejetje zaporne kazni kot pristop k &quot;pravilom&quot; pomeni, da se nenadoma preide v duh podrejenosti, da ponižuje resnost protesta... Zlasti bi bilo treba odpraviti neokonservativno vztrajanje pri priznanju krivde.“
+
+Beam Outputs:
+1: Kakšen je bil razlog za sprejetje zaporne kazni?
+2: Kakšen je bil razlog za sprejetje zaporne kazni v ZDA?
+3: Kakšen je bil razlog za sprejetje zaporne kazni, ki se je zgodilo v ZDA?
+4: Kakšen je bil razlog za sprejetje zaporne kazni, ki se je zgodila v ZDA?
+5: Kakšen je bil razlog za sprejetje zaporne kazni, ki se je zgodilo v letu 2010?
+
+Sampling Outputs:
+1: Kako se imenuje razlog za pobeg protestnikov?
+2: Katera je bila vprašanja, ki sta temeljila na opozorilu?
+3: Kakšno je točko, ki ga je imel zadnji predsednik vlade?
+4: Kaj je bilo v zvezi z zaporno kazen, kot je način za odpravo na ozemlje v času protestov?
+5: Zakaj se protestniki zanašajo na kakšen namen?
+-------------------------------------------
+Paragraph: Nekateri civilni neposlušniki menijo, da so dolžni sprejeti kazen zaradi verovanja v veljavnost socialne pogodbe, ki zavezuje vse k spoštovanju zakonov, ki jih je določila vlada, ki izpolnjuje določene standarde legitimnosti, ali pa trpi za kaznimi, določenimi v zakonu. Drugi civilni neposlušniki, ki podpirajo obstoj vlade, še vedno ne verjamejo v legitimnost svoje vlade ali ne verjamejo v legitimnost določenega zakona, ki ga je sprejela. In še vedno drugi civilni neposlušniki, ki so anarhisti, ne verjamejo v legitimnost katere koli vlade, zato ne vidijo potrebe po sprejemanju kazni za kršitev kazenskega prava, ki ne krši pravic drugih.
+
+Beam Outputs:
+1: Zakaj so nekateri civilni neposlušniki dolžni sprejeti kazen?
+2: Zakaj so nekateri civilni neposlušniki dolžni sprejeti kazen zaradi česa?
+3: Zakaj so nekateri civilni neposlušniki sprejeli kazen?
+4: Zakaj so nekateri civilni neposlušniki sprejeli kazen zaradi česa?
+5: Zakaj so nekateri civilni neposlušniki dolžni sprejeti kazen v zvezi z zakonom?
+
+Sampling Outputs:
+1: Zakaj so bili poslušniki vključeni v svojo pravo?
+2: Kaj so se zgodile z ustavo v primerjavi z zakonom, ki je zahteval, da se ustava sprejema?
+3: Kaj so posamezniki, ki so pomembni za kaj?
+4: Kje so nekatere civilne neposlušne sile dolžne sprejeti kazen?
+5: Kdo je zavezal zaščito civilnega poslušništva?
+-------------------------------------------
+Paragraph: Za mnoge domorodne populacije je odprava francoske moči v Severni Ameriki pomenila izginotje močnega zaveznika in protiutež britanskemu širjenju, kar je privedlo do njihove končne odstranitve. Država Ohio je bila še posebej ranljiva za zakonito in nezakonito naseljevanje zaradi gradnje vojaških cest na tem območju s strani Braddocka in Forbesa. Čeprav je imel španski prevzem ozemlja Louisiana (ki je bil končan šele leta 1769) skromne posledice, je britanski prevzem španske Floride povzročil selitev plemen proti zahodu, ki niso želela poslovati z Britanci, in porast napetosti med Choctawom in Creekom, zgodovinskimi sovražniki, katerih delitve so Britanci včasih izkoriščali. Sprememba nadzora na Floridi je tudi spodbudila večino španskega katoliškega prebivalstva, da zapusti. Večina je šla na Kubo, vključno s celotnimi vladnimi zapisi iz svetega Avguština, čeprav so bili nekateri pokristjani Yamasee preseljeni na obalo Mehike.
+
+Beam Outputs:
+1: Kaj je povzročilo, da so Španci zapustili Florido?
+2: Kaj je povzročilo, da so Španci zapustili Florido leta 1769?
+3: Kaj je povzročilo, da so Španci zapustili ozemlje?
+4: Kaj je povzročilo, da so Španci zapustili Oklahomo?
+5: Kaj je povzročilo, da so Španci zapustili ozemlje Louisiana
+
+Sampling Outputs:
+1: Zakaj se je Španec naselil v Guamu?
+2: Kaj je povzročilo nezakonitost, ki jo je Tennessee ustvaril zaradi španskega prevzema?
+3: Kaj je povzročilo zapuščanje Španske kolonije v letu 1769?
+4: Kakšna je bila razloga španskega napada na Florido?
+5: Kaj se je zgodilo z Oklahomi?
+-------------------------------------------
+Paragraph: Povprečne mesečne temperature se gibljejo od približno 53 F januarja do 82 F v juliju. Visoke temperature v povprečju 64 do 92 °F (18 do 33 °C) skozi vse leto. Visoki indeksi toplote so pogosti za poletne mesece na tem območju, z indeksi nad 110 °F (43,3 °C) mogoče. Najvišja zabeležena temperatura je bila 104 °F (40 °C) 11. julija 1879 in 28. julija 1872. Običajno je, da nevihte izbruhnejo med tipičnim poletnim popoldnevom. To je posledica hitrega segrevanja zemlje glede na vodo v kombinaciji z izjemno visoko vlažnostjo.
+
+Beam Outputs:
+1: Kakšna je povprečna temperatura za poletne mesece?
+2: Kakšna je bila povprečna temperatura v juliju 1872?
+3: Kakšna je povprečna temperatura za poletne mesece v ZDA?
+4: Kakšna je povprečna temperatura za poletni čas?
+5: Kakšna je povprečna temperatura za poletne mesece
+
+Sampling Outputs:
+1: Kakšna je bila povprečna temperatura v poletnih mesecih na področju zemeljskih podnebja?
+2: Kaj je povzročilo nekaj neviht?
+3: Na katerih mesecih je bila prva zabeležena temperatura na območju?
+4: Kaj je bilo najvišje na območju v juliju?
+5: Kakšna je bila vlažnost vode v sezoni?
+-------------------------------------------
+Paragraph: Po Pogodbi iz Nice je prišlo do poskusa reforme ustavnega prava Evropske unije in njegove večje preglednosti; s tem bi bil pripravljen tudi en sam ustavni dokument. Vendar pa zaradi referenduma v Franciji in referenduma na Nizozemskem pogodba o Ustavi za Evropo iz leta 2004 ni nikoli začela veljati. Namesto tega je bila sprejeta Lizbonska pogodba. Njena vsebina je bila zelo podobna predlagani ustavni pogodbi, vendar je bila formalno pogodba o spremembi in – čeprav je bistveno spremenila obstoječe pogodbe – jih ni v celoti nadomestila.
+
+Beam Outputs:
+1: Kdaj je bila sprejeta Lizbonska pogodba?
+2: Kdaj je bila sprejeta pogodba iz Nice?
+3: Kakšna je bila pogodba iz leta 2004?
+4: Kako je bilo ime pogodbi iz leta 2004?
+5: Kako je bilo ime Lizbonske pogodbe?
+
+Sampling Outputs:
+1: Kaj je bilo vključeno v pogodbo iz leta 2004?
+2: Kaj je bilo zaskrbljeno zaradi referenduma leta 2004?
+3: Kaj je bilo zahtevano za spremembo ustavnega prava Evropskega sveta
+4: Kaj je bilo narejeno po zgodnjih referendumih?
+5: Kateri dokument je bil sprejet zaradi sprememb v zvezi z ustavo v Franciji, ki je bila sprejeta leta 2004?
+-------------------------------------------
+Paragraph: Od 7500 yr, razmere s plimovanjem in tokovi, zelo podobne sedanjim. Stopnje dviga morske gladine so se do zdaj znižale, da bi lahko naravna sedimentacija z Renom in obalni procesi skupaj nadomestili preseganje morske gladine; v zadnjih 7000 letih je bila obalna črta približno na isti lokaciji. V južnem Severnem morju se zaradi tektonskega pogrezanja gladina morja še vedno dviguje, in sicer približno 1–3 cm (0,39–1,18 v) na stoletje (1 meter ali 39 palcev v zadnjih 3000 letih).
+
+Beam Outputs:
+1: Kakšna je bila stopnja dviga morske gladine v zadnjih dveh letih?
+2: Kakšna je bila stopnja dviga morske gladine?
+3: Kakšna je bila stopnja dviga morske gladine v zadnjih letih?
+4: Kakšna je bila stopnja dviga morske gladine v zadnjih stoletjih?
+5: Kakšna je bila stopnja dviga morske gladine v južnem Severnem morju
+
+Sampling Outputs:
+1: Zakaj so se začele dvigale morske gladine v južni Severni Ameriki?
+2: V kakšnem obdobju je voda preprečila upad?
+3: Kakšna je bila stopnja upada morskega gladine?
+4: Zakaj je bila obala v zadnjih koliko letih preveč dvignjena?
+5: Kaj je bila višja stopnja dvigala morske gladine v letu 2000?
+-------------------------------------------
+Paragraph: Zgodovinsko merilo energetske učinkovitosti parnega stroja je bila njegova „dolžnost“. Koncept dolžnosti je prvič uvedel Watt, da bi ponazoril, kako učinkoviti so bili njegovi motorji v prejšnjih Newcomenovih modelih. Dolžnost je število čevljev funtov, ki se dostavijo s sežiganjem enega grma (94 funtov) premoga. Najboljši primeri Newcomen modelov so imeli dolžnost približno 7 milijonov, večina pa je bila bližje 5 milijonom. Wattovi prvotni nizkotlačni modeli so bili sposobni dostaviti dolžnost do 25 milijonov, vendar so v povprečju znašali približno 17. To je bilo trikratno izboljšanje v primerjavi s povprečnim dizajnom Newcomen. Zgodnji Watt motorji, opremljeni z visokotlačno paro, so to izboljšali na 65 milijonov.
+
+Beam Outputs:
+1: Kakšna je bila stopnja učinkovitosti Newcomenovih motorjev?
+2: Kakšna je bila povprečna dolžnost Newcomenovih modelov?
+3: Kakšna je bila povprečna dolžnost Newcomenovih motorjev?
+4: Kakšna je bila stopnja učinkovitosti Newcomenovih modelov?
+5: Kakšna je bila stopnja učinkovitosti motorja Newcomen?
+
+Sampling Outputs:
+1: Kako se je zmanjšal odstotek energije iz leta 2014?
+2: Kaj je bilo največjo pridobitev za uporabo visokotlačnega motorja, ki se uporablja na področju?
+3: Koliko ljudi je bilo učinkovito v Newcomenovih modelih?
+4: Kakšno visokotlačno motorje je leta 2010 zmanjšal raven dolžnosti?
+5: Katera je bila prva učinkovitost Newcomenovih modelih?
+-------------------------------------------
+Paragraph: V sodobnem industrializiranem svetu gradbeništvo običajno vključuje prevajanje modelov v resničnost. Za načrtovanje fizičnih postopkov in povezovanje teh postopkov z drugimi deli se lahko sestavi uradna oblikovalska ekipa. Zasnova je običajno sestavljena iz risb in specifikacij, ki jih običajno pripravi oblikovalska ekipa, vključno z arhitektom, gradbenimi inženirji, strojnimi inženirji, inženirji za gradnjo, gradbenimi inženirji, inženirji za požarno zaščito, svetovalci za načrtovanje, arhitekturnimi svetovalci in arheološkimi svetovalci. Oblikovalska ekipa je najpogosteje zaposlena pri lastniku nepremičnine (tj. v pogodbi z) lastnikom nepremičnine. Po tem sistemu se lahko od številnih gradbenih podjetij ali podjetij za upravljanje gradnje, ko projektant zaključi projektiranje, zahteva, da predložijo ponudbo za izvedbo del, bodisi neposredno na podlagi načrta bodisi na podlagi risb in računa količin, ki jih zagotovi količinski nadzornik. Po oceni ponudb lastnik običajno odda naročilo stroškovno najučinkovitejšemu ponudniku.
+
+Beam Outputs:
+1: Kaj se lahko zgodi z oblikovalsko ekipo?
+2: Kaj se lahko zgodi z oblikovalsko ekipo?
+3: Kaj se lahko zgodi z oblikovalskimi ekipami?
+4: Kako se lahko oblikovalska ekipa odloči, da se imenuje?
+5: Kako se lahko oblikovalska ekipa odloči, da se oblikuje?
+
+Sampling Outputs:
+1: Kakšna je oblika organizacije za ustvarjanje nepremičnine?
+2: Kaj pomeni zasnova v ZDA?
+3: Kakšna je bila zasnova oblikovalnika, ki omogoča upravljati?
+4: Kakšne vrste zaposlitve se lahko uporabljajo za izdelavo in oblikovanje dela v sodobnem industrijskem svetu?
+5: Za kaj so ugotovili vlogo oblikovalske ekipe?
+-------------------------------------------
+Paragraph: Ustje Rena v Bodensko jezero tvori notranjo delto. Delto na zahodu razmejuje Alter Rhein („Stari Ren“) in na vzhodu s sodobnim kanaliziranim odsekom. Večina delte je naravni rezervat in ptičje zatočišče. Vključuje avstrijska mesta Gaißau, Höchst in Fußach. Naravni Ren se je prvotno razvejal v vsaj dve kraki in z usedlinami tvoril majhne otoke. V lokalnem alemanskem narečju je ednina izgovorjena „Isel“ in to je tudi lokalna izgovorjava Esel („Donkey“). Veliko lokalnih polj ima uradno ime, ki vsebuje ta element.
+
+Beam Outputs:
+1: Kako se imenuje delo, ki se nahaja na vzhodu?
+2: Kako se imenuje delo, ki tvori notranjo delto?
+3: Kako se imenuje naravni Ren?
+4: Kako se imenuje delo, ki se nahaja na območju?
+5: Kako se imenuje delo, ki se nahaja v mestu?
+
+Sampling Outputs:
+1: Kaj je bil drugi izraz za „Esel“ v narečju?
+2: V kateri deli je bil Ren razvit v letu 2007?
+3: Kaj je bilo ime dele na vzhodu Renu?
+4: Kdo tvori naravni renesansni del?
+5: Kaj je naravno delo na vzhodu
+-------------------------------------------
+Paragraph: Ekonomist Joseph Stiglitz trdi, da bi morale tržne sile namesto razlage koncentracij bogastva in dohodka zavirati takšno koncentracijo, kar je bolje pojasniti z netržno silo, znano kot „iskanje najemnin“. Medtem ko bo trg ponudil nadomestilo za redka in zaželena znanja in spretnosti za nagrajevanje ustvarjanja bogastva, večje produktivnosti itd., bo uspešnim podjetnikom preprečil, da bi zaslužili presežek dobička s spodbujanjem konkurence za znižanje cen, dobičkov in velikih nadomestil. Po mnenju Stiglitza je boljši razlagalec vse večje neenakosti uporaba politične moči, ki jo ustvarja bogastvo nekaterih skupin, da bi oblikovale vladne politike, ki jim koristijo. Ta proces, ki ga ekonomisti poznajo kot iskanje najemnin, prinaša prihodke ne od ustvarjanja bogastva, ampak iz „prilagajanja večjega deleža bogastva, ki bi bilo sicer ustvarjeno brez njihovih prizadevanj“.
+
+Beam Outputs:
+1: Kakšen je bil razlog, da so uspešni podjetniki bolj priljubljeni?
+2: Kaj je predlagal Eisenhower?
+3: Kakšen je bil razlog, da so uspešni podjetniki bolj priljubljeni v gospodarstvu?
+4: Kakšen je bil razlog, da so uspešni podjetniki bolj priljubljeni v ZDA?
+5: Kakšen je bil razlog, da so uspešni podjetniki bolj priljubljeni na trgu?
+
+Sampling Outputs:
+1: Kaj je ključno vplivalo na učinkovitost na upravljane podjetje v mestu?
+2: Zakaj je bil uradni ekonomski kritik boljši od ustvarjanja števila podjetij v ZDA?
+3: Kaj je bil razlog, da je bil nadzor nad uspešnimi podjetji?
+4: Na čem je opozoril, da je podjetje učinkovito zaščiteno?
+5: Kaj je bila vprašanja v teoriji o ustvarjanju bogatega gospodarstva?
+-------------------------------------------
+Paragraph: Kot član škotskega parlamentarnega korporativnega organa je predsedujoči odgovoren za zagotavljanje, da Parlament deluje učinkovito ter da ima osebje, premoženje in vire, ki jih potrebuje za delovanje. Sklic parlamentarnega predsedstva, ki dodeljuje čas in določa delovni dnevni red v sejni dvorani, je še ena od vlog predsedujočega. Predsedstvo v skladu s poslovnikom Parlamenta sestavljajo predsedujoči in po en predstavnik iz vsake politične stranke s petimi ali več sedeži v Parlamentu. Med nalogami predsedstva so tudi dogovor o časovnem razporedu dela v sejni dvorani, določitev števila, pristojnosti in članstva parlamentarnih odborov ter urejanje sprejemanja zakonodaje (računov) prek Parlamenta. Predsedujoči predstavlja tudi škotski parlament doma in v tujini na uradni dolžnosti.
+
+Beam Outputs:
+1: Kaj je glavna funkcija predsedstva?
+2: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamenta?
+3: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarne uprave?
+4: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarnega prava?
+5: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarnega urada?
+
+Sampling Outputs:
+1: Kako je predsedujoče delo v zvezi z predsedniškim odločanjem?
+2: Kaj lahko zagotovi predsedstvo?
+3: Kaj je treba sklicati na zaveznike predsednika?
+4: Kaj je predsedujoči organ zaradi njegovega nadzora?
+5: Kaj je naloge predsedujočega v zvezi z predsedstvom predsedstva?
+-------------------------------------------
+Paragraph: Sociolog Jake Rosenfield z Univerze v Washingtonu trdi, da je upad organiziranega dela v Združenih državah Amerike igral pomembnejšo vlogo pri širjenju dohodkovne vrzeli kot tehnološke spremembe in globalizacija, ki so jih doživeli tudi drugi industrializirani narodi, ki niso doživeli strmih povečanj neenakosti. Poudarja, da imajo države z visokimi stopnjami združevanja v sindikate, zlasti v Skandinaviji, zelo nizko stopnjo neenakosti, in ugotavlja, da je &quot;zgodovinski vzorec jasen; mednarodni vzorec je jasen: visoka neenakost gre z roko v roki s šibkimi delovnimi gibanji in obratno.“
+
+Beam Outputs:
+1: Kakšen je bil razlog za neenakost v Združenih državah?
+2: Kakšen je bil razlog za neenakost med Združenimi državami?
+3: Kakšen je bil razlog za neenakost v Skandinaviji?
+4: Kakšen je bil razlog za neenakost v ZDA?
+5: Kakšen je bil razlog za neenakost?
+
+Sampling Outputs:
+1: Zakaj je bil Rosenfield kritiziran s svojimi odločili o neenkostni odločitvi?
+2: Zakaj se imenuje vprašanje o neenakostnih državah?
+3: Kako je znano, da je vloga neenkosti vplivala na številne druge države?
+4: Kateri sociolog je po mnenju Kerryja, da je vplival na zgodovinske spremembe?
+5: Na katerih dogodkih je imel predsednik vlade, ki je bil naveden leta 2009?
+-------------------------------------------
+Paragraph: Leta 1529 je Varšava prvič postala sedež generala Sejma, stalnega od leta 1569. Leta 1573 je mesto dalo ime Varšavski konfederaciji, ki je formalno vzpostavila versko svobodo v poljsko-litvanski Commonwealth. Varšava je zaradi svoje osrednje lege med prestolnicama Commonwealtha Krakova in Vilne postala glavno mesto Commonwealtha in krone Kraljevine Poljske, ko je kralj Sigismund III Vasa leta 1596 preselil dvor iz Krakova v Varšavo. V naslednjih letih se je mesto razširilo proti predmestju. Ustanovljenih je bilo več zasebnih neodvisnih okrožij, last aristokratov in gentry, ki so vladali po lastnih zakonih. Trikrat med letoma 1655–1658 je bilo mesto oblegano, trikrat pa so ga zavzele in oplenile švedske, Brandenburške in transilvanske sile.
+
+Beam Outputs:
+1: Kdaj je Varšava postala glavno mesto?
+2: Kdaj je Varšava postala glavna mesto?
+3: Kdaj je Varšava postala sedež kraljevine?
+4: Kdaj je Varšava postala glavno mesto Commonwealth?
+5: Kdaj je Varšava postala glavno mesto Commonwealtha
+
+Sampling Outputs:
+1: Kdaj je bila Varšavska konfederacija uradno ustanovljena?
+2: Kje so bile ustanovljene državne cerkve?
+3: Katera vojna je bila vključena v Varšavo leta 1573?
+4: Kaj so bili prvič uveljaveni v Varšavi?
+5: Kaj se je zgodilo med letoma 1573 in 1573?
+-------------------------------------------
+Paragraph: kjer je masa predmeta, je hitrost objekta in razdalja do središča krožne poti in je enota vektor, ki kaže v radialni smeri navzven od središča. To pomeni, da je neuravnotežena centripetalna sila, ki jo čuti kateri koli predmet, vedno usmerjena proti središču ukrivljene poti. Takšne sile delujejo pravokotno na vektor hitrosti, ki je povezan z gibanjem predmeta, in zato ne spreminjajo hitrosti predmeta (magnituda hitrosti), ampak le smer vektorja hitrosti. Neuravnoteženo silo, ki pospešuje objekt, lahko rešimo v komponento, ki je pravokotna na pot, in tista, ki je tangentna na pot. To daje tako tangentno silo, ki pospešuje predmet tako, da ga upočasni ali pospeši, kot tudi radialno (centripetalno) silo, ki spremeni njegovo smer.
+
+Beam Outputs:
+1: Kako se imenuje enota vektorja hitrosti predmeta?
+2: Kako se imenuje neuravnotežena sila, ki jo čuti predmet?
+3: Kako se imenuje enota vektorja hitrosti?
+4: Kako se imenuje enota vektorja hitrosti predmeta, ki jo čuti?
+5: Kako se imenuje neuravnotežena sila?
+
+Sampling Outputs:
+1: Kakšna je bila možnost, da se predmet izboljša z vstopom?
+2: Kaj je ključna funkcija v čem?
+3: Kaj je bil primer, ko je predmet vključen z vektorjem?
+4: Katere so dve glavni stvari, ki so vpleteni v dvig predmeta?
+5: Kaj pomeni najbolj uravnoteženo silo?
+-------------------------------------------
+Paragraph: Nekdanji predsednik Medvladnega foruma o podnebnih spremembah Robert Watson je dejal: &quot;Zdi se, da so vse napake prišle v smeri, da se zdi, da so podnebne spremembe resnejše zaradi prevelikega vpliva. To je zaskrbljujoče. IPCC mora preučiti ta trend napak in vprašati, zakaj se je to zgodilo.“ Martin Parry, strokovnjak za podnebje, ki je sopredsedoval II. delovni skupini Medvladnega foruma o podnebnih spremembah, je dejal, da „se je začelo z eno samo nesrečno napako v zvezi s himalajskimi ledeniki“ in da je IPCC preiskal druge domnevne napake, ki so bile „na splošno neutemeljene in tudi obrobne pri oceni“.
+
+Beam Outputs:
+1: Kdo je dejal, da so podnebne spremembe vplivale na kaj?
+2: Kdo je dejal, da so se podnebne spremembe zgodile?
+3: Kdo je dejal, da so se podnebne spremembe začele?
+4: Kdo je dejal, da so se podnebne spremembe začele v smeri splošnega vpliva?
+5: Kdo je dejal, da so se podnebne spremembe zgodile v smeri splošnega vpliva?
+
+Sampling Outputs:
+1: Kdo je bil strokovnjak za podnebne spremembe?
+2: V katerih treh dogodkih je Darwin napovedal, da so rastline lahko rastline, ki jih ustvari?
+3: Kdo je napovedal o podnebnih spremembah
+4: Kdo je dejal, da je prišlo do sprememb v podnebnih spremembah?
+5: Kakšen je bil naslov izdaje na vprašanju o podnebju v zvezi z podnebnimi spremembami?
+-------------------------------------------
+Paragraph: BSkyB je sprva zaračunal dodatne naročnine za uporabo naprave Sky+ PVR skupaj z njihovo storitvijo; opustitev plačila za naročnike, katerih paket je vključeval dva ali več premium kanalov. To se je spremenilo od 1 Julija 2007, in zdaj stranke, ki imajo Sky+ in se naročite na vse BSkyB naročnino paket dobili Sky+ vključena brez doplačila. Stranke, ki se ne naročijo na kanale BSkyB, lahko še vedno plačajo mesečno pristojbino za omogočanje funkcij Sky+. V januarju 2010 BSkyB prekinil Sky + Box, omejena standard Sky Box na Multiroom nadgradnjo samo in začel izdajati Sky + HD Box kot standard, s čimer daje vsem novim naročnikom funkcije Sky+. Februarja 2011 je BSkyB prekinil ne-HD različico svoje Multiroom polje, ki ponuja manjšo različico SKYHD polje brez funkcionalnosti Sky+. Septembra 2007 je Sky začela novo televizijsko oglaševalsko kampanjo, namenjeno ženskam. Družba Sky je imela 31. marca 2008 393.000 uporabnikov Sky+.
+
+Beam Outputs:
+1: Kdaj je BSkyB prekinil Sky+?
+2: Kako je BSkyB prekinil Sky+?
+3: Kaj je BSkyB zaračunal za uporabo Sky+?
+4: Kaj je BSkyB prekinil?
+5: Kaj je BSkyB zaračunal za naročnike Sky?
+
+Sampling Outputs:
+1: Zakaj je Sky naročil Sky+ vključitev za uporabo s svojim računom?
+2: Kako se je Sky dodelil za naročnike?
+3: Katere so bile prve tri možnosti, ki jih je Sky uporabil v letu 2008?
+4: Kateri del kampanje je imel Sky nadzor nad svoje naročnike Sky+ na kateri dan?
+5: Kaj je spremenilo v zakonodajo za omogočanje Sky+
+-------------------------------------------
+Paragraph: Leta 1939 je okoli 1.300.000 ljudi živelo v Varšavi, vendar leta 1945 – samo 420.000. V prvih letih po vojni je bila rast prebivalstva približno 6 %, zato je mesto kmalu začelo trpeti zaradi pomanjkanja stanovanj in območij za nove hiše. Prvi popravni ukrep je bila širitev območja Varšave (1951), vendar so bile mestne oblasti še vedno prisiljene uvesti omejitve registracije prebivališča: registracija je bila dovoljena le zakoncem in otrokom rezidentov s stalnim prebivališčem ter nekaterim osebam javnega pomena (kot so priznani strokovnjaki), kar je v naslednjih letih prepolovilo rast prebivalstva. Prav tako je okrepil neke vrste prepričanje med Poljaki, da so Varsovčani mislili, da so boljši samo zato, ker so živeli v prestolnici. Žal to prepričanje še vedno živi na Poljskem (čeprav ne toliko, kot je bilo včasih) – čeprav od leta 1990 ni več omejitev za registracijo prebivališča.
+
+Beam Outputs:
+1: Kakšen je bil razlog, da je mesto trpelo v prvih letih po vojni?
+2: Kakšen je bil razlog, da je mesto trpelo v prvih letih po vojni
+3: Kakšen je bil razlog, da je mesto trpelo v prvih letih po vojni leta 1939?
+4: Kakšen je bil razlog, da je mesto trpelo v prvih letih po vojni leta 1945?
+5: Kakšen je bil razlog, da je mesto trpelo v prvih letih?
+
+Sampling Outputs:
+1: Kako se je Varšava začela trpeti
+2: Kaj je mesto naredilo v primerjavi z drugimi državami?
+3: Kako se je imenoval izraz, ki se uporablja pri začasno registraciji prebivališča?
+4: Kaj je bilo mogoče zagotoviti v letu 1939
+5: Zakaj so se poljske ženske preselili v Varšavo?
+-------------------------------------------
+Paragraph: Gradnja je proces gradnje stavbe ali infrastrukture. Gradnja se razlikuje od proizvodnje v tem, da proizvodnja običajno vključuje množično proizvodnjo podobnih predmetov brez imenovanega kupca, medtem ko gradnja običajno poteka na lokaciji znane stranke. Gradbeništvo kot industrija obsega od šest do devet odstotkov bruto domačega proizvoda razvitih držav. Gradnja se začne z načrtovanjem, načrtovanjem in financiranjem ter se nadaljuje, dokler projekt ni zgrajen in pripravljen za uporabo.
+
+Beam Outputs:
+1: Kakšna je razlika med gradnjo in proizvodnjo?
+2: Kako se imenuje gradnja?
+3: Kako se imenuje proces gradnje stavbe?
+4: Kako se imenuje gradnja v ZDA?
+5: Kakšna je razlika med gradnjo in proizvodnjo stavb?
+
+Sampling Outputs:
+1: Kakšna je bila razlika med gradnje?
+2: Koliko proizvodnje so se uporabljale na področju gradnje in opreme na lokaciji znane stranke?
+3: Kaj je ključno v vsakem procesu gradnje stavbe?
+4: Kako napredna gospodarska veja se imenuje, da se gradnja napreduje?
+5: Kaj lahko povzroči razvoj gradnje?
+-------------------------------------------
+Paragraph: Leta 2010 je amazonski deževni gozd doživel še eno hudo sušo, ki je bila v nekaterih pogledih bolj ekstremna kot suša leta 2005. Prizadeta regija je bila približno 1.160.000 kvadratnih milj (3 000 000 km²) deževnega gozda v primerjavi s 734,000 kvadratnimi miljami (1 900 000 km²) leta 2005. Suša 2010 je imela tri epicentre, kjer je odmrla vegetacija, medtem ko je bila leta 2005 suša osredotočena na jugozahodni del. Ugotovitve so bile objavljene v reviji Science. V tipičnem letu Amazon absorbira 1,5 gigatona ogljikovega dioksida; leta 2005 so izdali 5 gigatonov, leta 2010 pa 8 gigatonov.
+
+Beam Outputs:
+1: Koliko deževnega gozda je bilo prizadetih leta 2010?
+2: Kakšna je bila povprečna suša leta 2010?
+3: Koliko deževnega gozda je bilo v letu 2010?
+4: Koliko deževnega gozda je bilo prizadetih leta 2010
+5: Kakšna je bila povprečna suša leta 2010
+
+Sampling Outputs:
+1: Koliko deževnih gozdov je bilo v letu 2010?
+2: Kakšna je bila suša leta 2010?
+3: Koliko deževnih gozdov je bilo ustvarjeno leta 2005?
+4: Koliko deževnih gozdov je imela Velika Britanija leta 2005?
+5: Katero deževno podnebje je imel vrhovnih deževnih gozdov?
+-------------------------------------------
+Paragraph: Kisik predstavlja dva spektrofotometrična absorpcijska pasova, ki dosegata vrhunec pri valovnih dolžinah 687 in 760 nm. Nekateri znanstveniki z daljinskim zaznavanjem so predlagali uporabo merjenja sevanja iz rastlinskih nadstreškov v teh pasovih za opredelitev zdravstvenega stanja rastlin s satelitske platforme. Ta pristop izkorišča dejstvo, da je v teh pasovih mogoče razlikovati odbojnost vegetacije od fluorescence, ki je veliko šibkejša. Merjenje je tehnično težavno zaradi nizkega razmerja med signalom in šumom ter fizične strukture vegetacije; vendar je bila predlagana kot možna metoda za spremljanje ogljikovega cikla satelitov na svetovni ravni.
+
+Beam Outputs:
+1: Kakšna je bila predlagana metoda za opredelitev zdravstvenega stanja rastlin?
+2: Kakšna je bila predlagana metoda za opredelitev zdravstvenega stanja rastline?
+3: Kakšna je bila predlagana metoda za opredelitev zdravstvenega stanja?
+4: Kakšna je bila predlagana metoda za merjenje sevanja iz rastlin?
+5: Kakšna je bila predlagana metoda?
+
+Sampling Outputs:
+1: Kaj je predlagala vrhovno razmerje med dvema spektroma?
+2: Kaj je povzročilo, da je vrednost skozi rastline bolj ali manj različna?
+3: Kakšne so možnosti rastlinskega prebivalstva v ZDA?
+4: Koliko senzorjev je prikazan v primerjavi z rastlinskim zdravstvenim stanjem?
+5: Kakšno je priporočilo, da je bila predlagana metoda za ločitev sevanja iz rastlin?
+-------------------------------------------
+Paragraph: Univerza v Chicagu upravlja upravni odbor skrbnikov. Odbor skrbnikov nadzira dolgoročni razvoj in načrte univerze in upravlja prizadevanja za zbiranje sredstev, in je sestavljen iz 50 članov, vključno s predsednikom univerze. Neposredno pod predsednikom so Provost, štirinajst podpredsednikov (vključno z glavni finančni direktor, Glavni investicijski direktor, in dekan študentov univerze), direktorji Argonne National Laboratorij in Fermilab, sekretar univerze, in študentski varuh človekovih pravic. Od avgusta 2009[posodobitev], predsednik upravnega odbora je Andrew Alper, in predsednik univerze je Robert Zimmer. Decembra 2013 je bilo napovedano, da bo direktor nacionalnega laboratorija Argonne, Eric Isaacs, postal Provost. Isaacs je marca 2016 zamenjal Daniel Diermeier kot Provost.
+
+Beam Outputs:
+1: Kako se imenuje upravni odbor skrbnikov?
+2: Kako se imenuje upravni odbor skrbnikov v Chicagu?
+3: Kako se imenuje odbor skrbnikov?
+4: Kako se imenuje upravni odbor skrbnikov v Chicagu
+5: Kako se imenuje upravni odbor skrbnikov
+
+Sampling Outputs:
+1: Kaj je uradna funkcija Univerze v Chicagu?
+2: V katerem mestu so se vključevale štiri glavne osebnosti?
+3: Kaj je napovedano za zaposlovanje v Notre Dameu?
+4: Kaj pomeni odbor, ki je vodil razvoj študentov?
+5: Kaj je bil napovedan v zvezi z načrtovanjem za zbiranje sredstev, ki so jih upravljali v Chicagu?
+-------------------------------------------

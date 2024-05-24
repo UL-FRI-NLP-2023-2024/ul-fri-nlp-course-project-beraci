@@ -1,0 +1,1600 @@
+Paragraph: To je pogosta napačna predstava, da pripiše togost in togost trdne snovi odbijanju podobnih nabojev pod vplivom elektromagnetne sile. Vendar pa te značilnosti dejansko izhajajo iz Paulijevega načela izključitve. Ker so elektroni fermioni, ne morejo zasedati enakega kvantnega mehanskega stanja kot drugi elektroni. Ko so elektroni v materialu gosto pakirani skupaj, za vse ni dovolj kvantnih energijskih kvantnih stanj, zato morajo biti nekateri od njih v višjih energijskih stanjih. To pomeni, da je potrebna energija, da jih spakirate skupaj. Medtem ko se ta učinek kaže makroskopsko kot strukturna sila, je tehnično le posledica obstoja končnega sklopa elektronskih stanj.
+
+Beam Outputs:
+1: Kako se imenuje teorija, ki omogoča, da se elektronski kondenzatorji spremenijo?
+2: Kako se imenuje teorija, ki temelji na čem?
+3: Kako se imenuje teorija, ki omogoča, da se elektronski kondenzatorji zamenjajo?
+4: Kako se imenuje teorija, ki omogoča, da se elektronski kondenzatorji spremenijo v kaj?
+5: Kako se imenuje teorija, ki omogoča, da se elektronski kondenzatorji uporabljajo?
+
+Sampling Outputs:
+1: Kaj je še ena oblika vprašanja?
+2: Kaj je pogosto napačno o teoriji?
+3: Katera je najbolj pogosta napačna predstava za teorijo, da se električna energija nanaša na kvantno?
+4: Kakšen je bil razlog za neenakomerno vplivanje elektronov?
+5: Kaj je drugi razlog, da ne morejo atomi skozi atomske komponente?
+-------------------------------------------
+Paragraph: Harvard University Library System je osredotočen v knjižnici Widener v Harvard Yardu in obsega skoraj 80 posameznih knjižnic, ki imajo več kot 18 milijonov zvezkov. Po podatkih ameriškega združenja knjižnic je to največja akademska knjižnica v Združenih državah Amerike in ena največjih na svetu. Cabot Science Library, Lamont knjižnica, in Widener knjižnica so tri izmed najbolj priljubljenih knjižnic za dodiplomske študente za uporabo, z enostavnim dostopom in osrednjih lokacijah. Obstajajo redke knjige, rokopisi in druge posebne zbirke v vseh Harvardovih knjižnicah; Knjižnica Houghton, Arthur in Elizabeth Schlesinger knjižnica o zgodovini žensk v Ameriki in Harvard University Archives sestavljajo predvsem redki in edinstveni materiali. Najstarejša ameriška zbirka zemljevidov, gazetteerjev in atlasov tako starih kot novih je shranjena v knjižnici Pusey in odprta za javnost. Največja zbirka vzhodnoazijskega jezikovnega gradiva zunaj vzhodne Azije je v knjižnici Harvard-Yenching.
+
+Beam Outputs:
+1: Kako se imenuje knjižnica v Združenih državah Amerike?
+2: Kako se imenuje knjižnica za dodiplomske študente?
+3: Kako se imenuje največja knjižnica v Ameriki?
+4: Kako se imenuje knjižnica za dodiplomske študente v Ameriki?
+5: Kako se imenuje knjižnica v Združenih državah Amerike
+
+Sampling Outputs:
+1: Zakaj je knjižnica o ženskah najbolj priljubljena v Ameriki?
+2: Kako se imenuje knjižnica, v katerih je bil osredotočen Harvard University?
+3: Katere knjižnice so dostopne za prenos zaradi njihove opreme in dostopa?
+4: Kaj je bil zadnji zbirki v ZDA?
+5: Kaj je temeljni namen knjižnice v ZDA?
+-------------------------------------------
+Paragraph: Harvard University Library System je osredotočen v knjižnici Widener v Harvard Yardu in obsega skoraj 80 posameznih knjižnic, ki imajo več kot 18 milijonov zvezkov. Po podatkih ameriškega združenja knjižnic je to največja akademska knjižnica v Združenih državah Amerike in ena največjih na svetu. Cabot Science Library, Lamont knjižnica, in Widener knjižnica so tri izmed najbolj priljubljenih knjižnic za dodiplomske študente za uporabo, z enostavnim dostopom in osrednjih lokacijah. Obstajajo redke knjige, rokopisi in druge posebne zbirke v vseh Harvardovih knjižnicah; Knjižnica Houghton, Arthur in Elizabeth Schlesinger knjižnica o zgodovini žensk v Ameriki in Harvard University Archives sestavljajo predvsem redki in edinstveni materiali. Najstarejša ameriška zbirka zemljevidov, gazetteerjev in atlasov tako starih kot novih je shranjena v knjižnici Pusey in odprta za javnost. Največja zbirka vzhodnoazijskega jezikovnega gradiva zunaj vzhodne Azije je v knjižnici Harvard-Yenching.
+
+Beam Outputs:
+1: Kako se imenuje knjižnica v Združenih državah Amerike?
+2: Kako se imenuje knjižnica za dodiplomske študente?
+3: Kako se imenuje največja knjižnica v Ameriki?
+4: Kako se imenuje knjižnica za dodiplomske študente v Ameriki?
+5: Kako se imenuje knjižnica v Združenih državah Amerike
+
+Sampling Outputs:
+1: Kdaj so ZDA razdeljene na dva najbolj priljubljena knjižnica?
+2: Koliko knjižnic ima Harvard University?
+3: Katere knjižnice sta s čim na Harvardu?
+4: Kakšne zbirke je imel Univerzi v Washingtonu v letu 2006?
+5: Kakšen je drugi dostop do šolske opreme za študente?
+-------------------------------------------
+Paragraph: Med odsvojitvijo južnoafriškega gibanja v poznih osemdesetih letih prejšnjega stoletja so študentski aktivisti postavili simbolni „shantytown“ na Harvardu Yardu in blokirali govor južnoafriškega podpredsednika vojvode Kent-Browna. Harvard Management Company večkrat zavrnil odprodajo, ki navaja, da „operativni stroški ne smejo biti podvrženi finančno nerealističnih striktur ali carping, ki jih neizkušena ali posebnih interesnih skupin.“ Vendar, univerza je sčasoma zmanjšala svoje južnoafriške deleže za $230 milijonov (od 400 milijonov $) kot odgovor na pritisk.
+
+Beam Outputs:
+1: Kako je Harvard zmanjšal svoje južnoafriške deleže?
+2: Kako je Harvard zmanjšal južnoafriške deleže?
+3: Kako je Harvard zmanjšal svojo južnoafriško delo?
+4: Kako je Harvard zmanjšal svoje južnoafriške deleže
+5: Kako je Harvard zmanjšal južnoafriške deleže
+
+Sampling Outputs:
+1: Koliko je ugledna južnofriška družba zmagala?
+2: Kaj je bil največji pritisk na južnoafriške študente v ZDA?
+3: Kako so študenti protestirali v letu 2010?
+4: Kaj je predlagal Harvard upravljalo v 20. stoletju?
+5: Koliko so bile ZDA zapustile južnoafriške šolske deleže?
+-------------------------------------------
+Paragraph: Med odsvojitvijo južnoafriškega gibanja v poznih osemdesetih letih prejšnjega stoletja so študentski aktivisti postavili simbolni „shantytown“ na Harvardu Yardu in blokirali govor južnoafriškega podpredsednika vojvode Kent-Browna. Harvard Management Company večkrat zavrnil odprodajo, ki navaja, da „operativni stroški ne smejo biti podvrženi finančno nerealističnih striktur ali carping, ki jih neizkušena ali posebnih interesnih skupin.“ Vendar, univerza je sčasoma zmanjšala svoje južnoafriške deleže za $230 milijonov (od 400 milijonov $) kot odgovor na pritisk.
+
+Beam Outputs:
+1: Kako je Harvard zmanjšal svoje južnoafriške deleže?
+2: Kako je Harvard zmanjšal južnoafriške deleže?
+3: Kako je Harvard zmanjšal svojo južnoafriško delo?
+4: Kako je Harvard zmanjšal svoje južnoafriške deleže
+5: Kako je Harvard zmanjšal južnoafriške deleže
+
+Sampling Outputs:
+1: Kaj je bila odločitev Harvarda, da je zmanjšala svoje južnoafriške deleže, vendar so jih zmanjšali z ZDA?
+2: Kaj je bilo prvotno sprejeto kot pritisk na podjetje, ki se je včasih borilo z Harvardom?
+3: Zakaj je Harvard napovedal svojo odprodajo južnoafriškega oddelka?
+4: Koliko je Harvard zmanjšal svojo Južnoafriško delovno delovno delovno vlogo?
+5: Koliko je vložil Harvardu?
+-------------------------------------------
+Paragraph: Harvard ima največjo univerzitetno doživetje na svetu. Septembra 2011[posodobitev] je skoraj ponovno pridobila izgubo, ki jo je utrpela med recesijo leta 2008. Leta 2011 je bil vreden 32 milijard dolarjev, v primerjavi z 28 milijardami v septembru 2010 in 26 milijardami leta 2009. V obdobju 2008–2009 je utrpela približno 30-odstotno izgubo. Decembra 2008 je Harvard napovedal, da je njegova dotacija od julija do oktobra 2008 izgubila 22 % (približno 8 milijard USD), zaradi česar je treba zmanjšati proračun. Kasnejša poročila kažejo, da je bila izguba dejansko več kot dvakrat večja, saj se je samo v prvih štirih mesecih zmanjšala za skoraj 50 %. Forbes je marca 2009 ocenil, da je izguba v razponu 12 milijard dolarjev. Eden od najbolj vidnih rezultatov Harvardovega poskusa, da ponovno uravnoteži svoj proračun, je bila njihova zaustavitev gradnje Allston Science Complex (1,2 milijarde dolarjev), ki naj bi bila končana do leta 2011, kar je povzročilo proteste lokalnih prebivalcev. Od leta 2012[posodobitev], Harvard University je imela skupno finančno pomoč rezervo v višini $159 milijonov za študente, in Pell Grant rezerva $4.093 milijonov na voljo za izplačilo.
+
+Beam Outputs:
+1: Kakšna je bila izguba Harvarda leta 2011?
+2: Kakšna je bila izguba Harvardovega proračuna?
+3: Kakšna je bila izguba Harvarda leta 2008?
+4: Kakšna je bila izguba leta 2011?
+5: Kakšna je bila izguba Harvarda leta 2011
+
+Sampling Outputs:
+1: Koliko je Forbes zagotovil zaradi nekaj raziskav?
+2: Kakšen je bil rezultat Harvardovega razvoja leta 2011
+3: Koliko je imela Univerza v Bostonu leta 2011?
+4: Koliko šol je bilo na voljo, da bi povečalo učinkovitost proračuna leta 2011
+5: Kakšen je bil odstotek proračuna za študentske preglede?
+-------------------------------------------
+Paragraph: Leta 1700 se je več sto francoskih Huguenotov preselilo iz Anglije v kolonijo Virginia, kjer jim je angleška krona obljubila zemljiške donacije v okrožju Spodnji Norfolk. Ko so prispeli, so jim kolonialne oblasti ponudile pristanek 20 milj nad slapovi reke James, v zapuščeni Monacan vasi, poznani kot Manakin Town, zdaj v okrožju Powhatan. Nekateri naseljenci so pristali v današnjem okrožju Chesterfield. 12. maja 1705 je generalna skupščina Virginije sprejela zakon o naturalizaciji 148 Huguenotov, ki so še vedno prebivali v Manakintownu. Od prvotnih 390 naseljencev v izoliranem naselju so mnogi umrli; drugi so živeli zunaj mesta na kmetijah v angleškem slogu; in drugi so se preselili na različna področja. Postopoma sta se poročila s svojimi angleškimi sosedi. V 18. in 19. stoletju so se potomci Francozov preselili na zahod v Piemont in čez apalaško gorovje zahodno od tega, kar je postalo Kentucky, Tennessee, Missouri in druge države. Na območju Manakintowna sta bila v njihovo čast imenovana Huguenot Memorial Bridge čez reko James in Huguenot Road, kot tudi številne lokalne značilnosti, vključno z več šolami, vključno s srednjo šolo Huguenot.
+
+Beam Outputs:
+1: Kdaj so se francoski potomci preselili v Anglijo?
+2: Kako so se francoski potomci preselili v Anglijo?
+3: Kdaj so se francoski potomci preselili v Norfolk?
+4: Kako so se francoski potomci preselili v Norfolk?
+5: Kako so se francoski potomci preselili na zahod v Anglijo
+
+Sampling Outputs:
+1: Kateri so tri glavni deli otoka?
+2: Kaj so bili na voljo, da bi se naselili v Norfolku?
+3: Kdaj so francoski Huguenoti prispeli v zahodno od svojih naseljencev
+4: Kako je bilo ime Richmondu, da so Francozi prišli na zahod v Anglijo?
+5: Kako je bil imenovan Memorial v Richmondu?
+-------------------------------------------
+Paragraph: Leta 1700 se je več sto francoskih Huguenotov preselilo iz Anglije v kolonijo Virginia, kjer jim je angleška krona obljubila zemljiške donacije v okrožju Spodnji Norfolk. Ko so prispeli, so jim kolonialne oblasti ponudile pristanek 20 milj nad slapovi reke James, v zapuščeni Monacan vasi, poznani kot Manakin Town, zdaj v okrožju Powhatan. Nekateri naseljenci so pristali v današnjem okrožju Chesterfield. 12. maja 1705 je generalna skupščina Virginije sprejela zakon o naturalizaciji 148 Huguenotov, ki so še vedno prebivali v Manakintownu. Od prvotnih 390 naseljencev v izoliranem naselju so mnogi umrli; drugi so živeli zunaj mesta na kmetijah v angleškem slogu; in drugi so se preselili na različna področja. Postopoma sta se poročila s svojimi angleškimi sosedi. V 18. in 19. stoletju so se potomci Francozov preselili na zahod v Piemont in čez apalaško gorovje zahodno od tega, kar je postalo Kentucky, Tennessee, Missouri in druge države. Na območju Manakintowna sta bila v njihovo čast imenovana Huguenot Memorial Bridge čez reko James in Huguenot Road, kot tudi številne lokalne značilnosti, vključno z več šolami, vključno s srednjo šolo Huguenot.
+
+Beam Outputs:
+1: Kdaj so se francoski potomci preselili v Anglijo?
+2: Kako so se francoski potomci preselili v Anglijo?
+3: Kdaj so se francoski potomci preselili v Norfolk?
+4: Kako so se francoski potomci preselili v Norfolk?
+5: Kako so se francoski potomci preselili na zahod v Anglijo
+
+Sampling Outputs:
+1: Kje se je rodilo francosko škotsko družbo?
+2: Kako se je Francija preselila v Norfolk?
+3: Kaj je bilo v 19. stoletju?
+4: Kako se je imenovala zgodovinska zgodovina na otoku?
+5: Kdaj je bila prva vključena beseda, ki je bila imenovala „svoboda“?
+-------------------------------------------
+Paragraph: Francoski Huguenots je dvakrat poskušal vzpostaviti zatočišče v Severni Ameriki. Leta 1562 je mornariški častnik Jean Ribault vodil ekspedicijo, ki je raziskovala Florido in današnje Jugovzhodne ZDA ter ustanovila oporišče Charlesforta na otoku Parris v Južni Karolini. Verske vojne so preprečile povratno potovanje in oporišče je bilo zapuščeno. Leta 1564 je Ribaultov nekdanji poročnik René Goulaine de Laudonnière začel drugo potovanje, da bi zgradil kolonijo; ustanovil je Fort Caroline v današnjem Jacksonvillu na Floridi. Vojna doma je spet onemogočila rezervno misijo in kolonija se je borila. Leta 1565 so se Španci odločili, da uveljavijo svojo terjatev do La Florida, in poslali Pedro Menéndez de Avilés, ki je ustanovil naselje svetega Avguština v bližini Fort Caroline. Menéndezove sile so pregnale Francoze in usmrtile večino protestantskih ujetnikov.
+
+Beam Outputs:
+1: Kdo je vodil povratno potovanje v Južni Karolini?
+2: Kdo je vodil povratno potovanje v Južno Karolino?
+3: Kdo je vodil povratno potovanje na Florido?
+4: Kdo je vodil vojno v Južni Karolini?
+5: Kdo je vodil povratno potovanje v Južni Karolini
+
+Sampling Outputs:
+1: Katero leto se je upokojilo Francozo?
+2: Kateri posameznik je leta 1565 uveljavil nazaj svojo državo?
+3: Kdo je vodil drugo potovanje za pomoč na Floridi?
+4: Kaj je bil prvotni razlog za razlog, da je bil narejen za vojno?
+5: Kdaj je bila ustvarjena kolonija?
+-------------------------------------------
+Paragraph: Francoski Huguenots je dvakrat poskušal vzpostaviti zatočišče v Severni Ameriki. Leta 1562 je mornariški častnik Jean Ribault vodil ekspedicijo, ki je raziskovala Florido in današnje Jugovzhodne ZDA ter ustanovila oporišče Charlesforta na otoku Parris v Južni Karolini. Verske vojne so preprečile povratno potovanje in oporišče je bilo zapuščeno. Leta 1564 je Ribaultov nekdanji poročnik René Goulaine de Laudonnière začel drugo potovanje, da bi zgradil kolonijo; ustanovil je Fort Caroline v današnjem Jacksonvillu na Floridi. Vojna doma je spet onemogočila rezervno misijo in kolonija se je borila. Leta 1565 so se Španci odločili, da uveljavijo svojo terjatev do La Florida, in poslali Pedro Menéndez de Avilés, ki je ustanovil naselje svetega Avguština v bližini Fort Caroline. Menéndezove sile so pregnale Francoze in usmrtile večino protestantskih ujetnikov.
+
+Beam Outputs:
+1: Kdo je vodil povratno potovanje v Južni Karolini?
+2: Kdo je vodil povratno potovanje v Južno Karolino?
+3: Kdo je vodil povratno potovanje na Florido?
+4: Kdo je vodil vojno v Južni Karolini?
+5: Kdo je vodil povratno potovanje v Južni Karolini
+
+Sampling Outputs:
+1: Kdo je vodil potovanje, da bi se povratno potoval za otoku?
+2: Katera država je zapustila svojo mesto?
+3: Kdo je poslal mornariško vojaško ekspedicijo v Južno Karolino
+4: Kaj je bilo prvič odločilo Španci, da uveljavijo svojo ustavo zaradi vojaških vojne?
+5: Kateri sodnik je poslal francosko kolonijo do Tennesseeja?
+-------------------------------------------
+Paragraph: Francoski Huguenots je dvakrat poskušal vzpostaviti zatočišče v Severni Ameriki. Leta 1562 je mornariški častnik Jean Ribault vodil ekspedicijo, ki je raziskovala Florido in današnje Jugovzhodne ZDA ter ustanovila oporišče Charlesforta na otoku Parris v Južni Karolini. Verske vojne so preprečile povratno potovanje in oporišče je bilo zapuščeno. Leta 1564 je Ribaultov nekdanji poročnik René Goulaine de Laudonnière začel drugo potovanje, da bi zgradil kolonijo; ustanovil je Fort Caroline v današnjem Jacksonvillu na Floridi. Vojna doma je spet onemogočila rezervno misijo in kolonija se je borila. Leta 1565 so se Španci odločili, da uveljavijo svojo terjatev do La Florida, in poslali Pedro Menéndez de Avilés, ki je ustanovil naselje svetega Avguština v bližini Fort Caroline. Menéndezove sile so pregnale Francoze in usmrtile večino protestantskih ujetnikov.
+
+Beam Outputs:
+1: Kdo je vodil povratno potovanje v Južni Karolini?
+2: Kdo je vodil povratno potovanje v Južno Karolino?
+3: Kdo je vodil povratno potovanje na Florido?
+4: Kdo je vodil vojno v Južni Karolini?
+5: Kdo je vodil povratno potovanje v Južni Karolini
+
+Sampling Outputs:
+1: Kaj je bilo poskušalo Francija?
+2: Kdo je vodil ekspedicijo leta 1566?
+3: Kdo je bil prvi mornariški poročnik, ki je oskrboval Fort Caroline v letu 1565?
+4: Na čem so francoski vojvodili v Franciji?
+5: Kaj je bil prvi dogodek v Južni Karolini?
+-------------------------------------------
+Paragraph: Leta 1564 je skupina Normanov Huguenots pod vodstvom Jeana Ribaulta ustanovila majhno kolonijo Fort Caroline na bregovih reke St. Johns v današnjem Jacksonville na Floridi. Prizadevanja so bila prva v vsakem stalnem evropskem naselju v današnjih kontinentalnih Združenih državah Amerike, vendar so preživela le kratek čas. Francoski pomorski napad septembra 1565 na novo špansko kolonijo v St. Avguštinu ni uspel, ko je njene ladje zadel orkan na poti do španskega tabora v Fort Matanzasu. Na stotine francoskih vojakov je bilo obtičalo in predano številčno nižjim španskim silam, ki jih je vodil Pedro Menendez. Menendez je nadaljeval s pokolom nemočnih Huguenotsov, potem pa je uničil garnizijo Fort Caroline.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena kolonija Fort Caroline?
+2: Kako se je imenovala kolonija Fort Caroline?
+3: Kako je bilo ime francoskemu pomorskim napadu?
+4: Kako je bilo ime francoskemu pomorskim napadu leta 1565
+5: Kdaj je bila ustanovljena kolonija Fort Caroline
+
+Sampling Outputs:
+1: Kdaj je imel Veliki napad s Francozom v Fort Valencijo?
+2: Na čem so se začele francoske prizadevanja?
+3: Na katerem območju je bila ustvarjena vojaška kolonija Fort Caroline?
+4: Kakšno je bilo zgodovinsko obdobje Francoske naselitve v letu 1565?
+5: Kako je ime francoskemu pomorskimu orkanju v St. Avguščini?
+-------------------------------------------
+Paragraph: Leta 1564 je skupina Normanov Huguenots pod vodstvom Jeana Ribaulta ustanovila majhno kolonijo Fort Caroline na bregovih reke St. Johns v današnjem Jacksonville na Floridi. Prizadevanja so bila prva v vsakem stalnem evropskem naselju v današnjih kontinentalnih Združenih državah Amerike, vendar so preživela le kratek čas. Francoski pomorski napad septembra 1565 na novo špansko kolonijo v St. Avguštinu ni uspel, ko je njene ladje zadel orkan na poti do španskega tabora v Fort Matanzasu. Na stotine francoskih vojakov je bilo obtičalo in predano številčno nižjim španskim silam, ki jih je vodil Pedro Menendez. Menendez je nadaljeval s pokolom nemočnih Huguenotsov, potem pa je uničil garnizijo Fort Caroline.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena kolonija Fort Caroline?
+2: Kako se je imenovala kolonija Fort Caroline?
+3: Kako je bilo ime francoskemu pomorskim napadu?
+4: Kako je bilo ime francoskemu pomorskim napadu leta 1565
+5: Kdaj je bila ustanovljena kolonija Fort Caroline
+
+Sampling Outputs:
+1: Katera vojna je bila najprej priljubljena v ZDA
+2: Koliko francoskih vojakov je bilo ranjenih na pomorsko poti v St. Avguštinu
+3: Kaj je bilo prvi naredil v letu 1565?
+4: Kdaj je bil splošni naslov zmagovalnega kralja?
+5: Kdaj je bila zadnja vloga za prenos?
+-------------------------------------------
+Paragraph: Leta 1564 je skupina Normanov Huguenots pod vodstvom Jeana Ribaulta ustanovila majhno kolonijo Fort Caroline na bregovih reke St. Johns v današnjem Jacksonville na Floridi. Prizadevanja so bila prva v vsakem stalnem evropskem naselju v današnjih kontinentalnih Združenih državah Amerike, vendar so preživela le kratek čas. Francoski pomorski napad septembra 1565 na novo špansko kolonijo v St. Avguštinu ni uspel, ko je njene ladje zadel orkan na poti do španskega tabora v Fort Matanzasu. Na stotine francoskih vojakov je bilo obtičalo in predano številčno nižjim španskim silam, ki jih je vodil Pedro Menendez. Menendez je nadaljeval s pokolom nemočnih Huguenotsov, potem pa je uničil garnizijo Fort Caroline.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena kolonija Fort Caroline?
+2: Kako se je imenovala kolonija Fort Caroline?
+3: Kako je bilo ime francoskemu pomorskim napadu?
+4: Kako je bilo ime francoskemu pomorskim napadu leta 1565
+5: Kdaj je bila ustanovljena kolonija Fort Caroline
+
+Sampling Outputs:
+1: Katera skupina je bila prva, ko je bila odločena, da je Charleston napredoval?
+2: Kako se je imenovala vojna z Valencijo?
+3: Kaj je vključevala vojaška zgodovina Charleston?
+4: Kaj je bilo prvotno prvotno nastalo v letu 1565?
+5: Katere tri stvari je imel Enrique II?
+-------------------------------------------
+Paragraph: Leta 1564 je skupina Normanov Huguenots pod vodstvom Jeana Ribaulta ustanovila majhno kolonijo Fort Caroline na bregovih reke St. Johns v današnjem Jacksonville na Floridi. Prizadevanja so bila prva v vsakem stalnem evropskem naselju v današnjih kontinentalnih Združenih državah Amerike, vendar so preživela le kratek čas. Francoski pomorski napad septembra 1565 na novo špansko kolonijo v St. Avguštinu ni uspel, ko je njene ladje zadel orkan na poti do španskega tabora v Fort Matanzasu. Na stotine francoskih vojakov je bilo obtičalo in predano številčno nižjim španskim silam, ki jih je vodil Pedro Menendez. Menendez je nadaljeval s pokolom nemočnih Huguenotsov, potem pa je uničil garnizijo Fort Caroline.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena kolonija Fort Caroline?
+2: Kako se je imenovala kolonija Fort Caroline?
+3: Kako je bilo ime francoskemu pomorskim napadu?
+4: Kako je bilo ime francoskemu pomorskim napadu leta 1565
+5: Kdaj je bila ustanovljena kolonija Fort Caroline
+
+Sampling Outputs:
+1: Kakšna je bila zgodovinska prizadevanja za Francosko kolonijo?
+2: Na kakšni lokaciji je bila ustanovljena vojaška organizacija v St. Avguštinu leta 1565?
+3: Kje se je naselila skupina Huguenot?
+4: Kdaj je bila prva španska kolonija?
+5: Kaj je bilo prvotno udomačeno, da so vojaki prišli v Charleston?
+-------------------------------------------
+Paragraph: Po tem je Huguenots (z ocenami od 200.000 do 1.000.000) pobegnil v okoliške protestantske države: Anglija, Nizozemska, Švica, Norveška, Danska in Prusija – katerih Kalvinistični veliki volivec Frederick Viljem so jih pozdravili, da bi pomagali pri obnovi njegove vojne in premalo naseljene države. Po tem izselitvi je Huguenots ostal v velikem številu samo v eni regiji Francije: razgibana regija Cévennes na jugu. V začetku 18. stoletja se je regionalna skupina, znana kot kamisardi, ki so bili Huguenots, izgrešila proti katoliški cerkvi v regiji, požigala cerkve in ubijala duhovščino. Francoski vojaki so potrebovali leta, da so med letoma 1702 in 1709 lovili in uničili vse skupine Camisardsov.
+
+Beam Outputs:
+1: Katere države so se odločile, da je Huguenot ostal v Franciji?
+2: Katere države so se odločile, da bo Huguenot ostal v Franciji?
+3: Katere države so se odločile, da se je Huguenot izselil?
+4: Kdo je bil Huguenot?
+5: Katere države so se odločile, da se je Huguenot preselil v Francijo
+
+Sampling Outputs:
+1: V katerem letu se je Huguenot rodil v Franciji?
+2: Kakšna je bila vojaška odločitev o tem, da je Huguenote ostal v lasti?
+3: Kdo so vplivali na vojne v Franciji, da bi ustvarili duhovniki na jugu?
+4: Kaj so naredili Huguenoti v 20. stoletju?
+5: V katere države se je Huguenot izselil leta 1699?
+-------------------------------------------
+Paragraph: Paul Revere je bil potomec beguncev iz Huguenota, tako kot Henry Laurens, ki je podpisal članke Konfederacije za Južno Karolino; Jack Jouett, ki se je peljal iz Cuckoo Taverna, da bi opozoril Thomasa Jeffersona in druge, da so Tarleton in njegovi možje na poti, da ga aretirajo zaradi zločinov proti kralju; Francis Marion in številni drugi voditelji ameriške revolucije in kasnejši državniki. Zadnja aktivna kongregacija Huguenot v Severni Ameriki časti v Charlestonu, Južna Karolina, v cerkvi, ki sega v 1844. Ameriško združenje Huguenot ohranja škofovsko cerkev Manakin v Virginiji kot zgodovinsko svetišče z občasnimi storitvami. Društvo ima poglavja v številnih državah, pri čemer je največja v Teksasu.
+
+Beam Outputs:
+1: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki?
+2: Kako se imenuje zadnja aktivna kongregacija Huguenot?
+3: Kako se imenuje zadnja aktivna kongregacija v Severni Karolini?
+4: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki
+5: Kdo je bil prvi predsednik ameriškega združenja Huguenot?
+
+Sampling Outputs:
+1: Kdo so bili prvi ameriški voditelji v zvezi z zgodovinsko šolo v Južni Karolini?
+2: Kaj se je zgodilo med ustanovitvijo ameriškega združenja Huguenot v 1845–1839?
+3: Kaj je bilo mogoče storiti v zvezi z vojno?
+4: Kaj se je zgodilo z Edwardom Kerryjem?
+5: Zakaj je predsednik AFL?
+-------------------------------------------
+Paragraph: Paul Revere je bil potomec beguncev iz Huguenota, tako kot Henry Laurens, ki je podpisal članke Konfederacije za Južno Karolino; Jack Jouett, ki se je peljal iz Cuckoo Taverna, da bi opozoril Thomasa Jeffersona in druge, da so Tarleton in njegovi možje na poti, da ga aretirajo zaradi zločinov proti kralju; Francis Marion in številni drugi voditelji ameriške revolucije in kasnejši državniki. Zadnja aktivna kongregacija Huguenot v Severni Ameriki časti v Charlestonu, Južna Karolina, v cerkvi, ki sega v 1844. Ameriško združenje Huguenot ohranja škofovsko cerkev Manakin v Virginiji kot zgodovinsko svetišče z občasnimi storitvami. Društvo ima poglavja v številnih državah, pri čemer je največja v Teksasu.
+
+Beam Outputs:
+1: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki?
+2: Kako se imenuje zadnja aktivna kongregacija Huguenot?
+3: Kako se imenuje zadnja aktivna kongregacija v Severni Karolini?
+4: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki
+5: Kdo je bil prvi predsednik ameriškega združenja Huguenot?
+
+Sampling Outputs:
+1: Kaj so bile zadnji ugledne osebe Charlestona?
+2: Kdo je bil predsednik ZDA?
+3: Zakaj so bili znani sovjetski voditelji na poti?
+4: Kdo je bil zadnji član združenja Huguenot v 1841?
+5: Kateri člani so našli podporo zgodovinskim organizacijam v zvezi s kraljestvom?
+-------------------------------------------
+Paragraph: Paul Revere je bil potomec beguncev iz Huguenota, tako kot Henry Laurens, ki je podpisal članke Konfederacije za Južno Karolino; Jack Jouett, ki se je peljal iz Cuckoo Taverna, da bi opozoril Thomasa Jeffersona in druge, da so Tarleton in njegovi možje na poti, da ga aretirajo zaradi zločinov proti kralju; Francis Marion in številni drugi voditelji ameriške revolucije in kasnejši državniki. Zadnja aktivna kongregacija Huguenot v Severni Ameriki časti v Charlestonu, Južna Karolina, v cerkvi, ki sega v 1844. Ameriško združenje Huguenot ohranja škofovsko cerkev Manakin v Virginiji kot zgodovinsko svetišče z občasnimi storitvami. Društvo ima poglavja v številnih državah, pri čemer je največja v Teksasu.
+
+Beam Outputs:
+1: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki?
+2: Kako se imenuje zadnja aktivna kongregacija Huguenot?
+3: Kako se imenuje zadnja aktivna kongregacija v Severni Karolini?
+4: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki
+5: Kdo je bil prvi predsednik ameriškega združenja Huguenot?
+
+Sampling Outputs:
+1: Kaj je bil Paul Revere, ki je podpisal zadnji član?
+2: V katerem delu ameriškega predsednika je imel vlogo za ohranjanje zgodovine?
+3: Kako je bil izvoljen zaradi poskusov, povezanih s politiko in politiko?
+4: Kakšno je bilo delo, ki se je zgodilo v zvezi z Charlestonom
+5: Kaj je opozorilo, da je bil Jefferson predsednik?
+-------------------------------------------
+Paragraph: Paul Revere je bil potomec beguncev iz Huguenota, tako kot Henry Laurens, ki je podpisal članke Konfederacije za Južno Karolino; Jack Jouett, ki se je peljal iz Cuckoo Taverna, da bi opozoril Thomasa Jeffersona in druge, da so Tarleton in njegovi možje na poti, da ga aretirajo zaradi zločinov proti kralju; Francis Marion in številni drugi voditelji ameriške revolucije in kasnejši državniki. Zadnja aktivna kongregacija Huguenot v Severni Ameriki časti v Charlestonu, Južna Karolina, v cerkvi, ki sega v 1844. Ameriško združenje Huguenot ohranja škofovsko cerkev Manakin v Virginiji kot zgodovinsko svetišče z občasnimi storitvami. Društvo ima poglavja v številnih državah, pri čemer je največja v Teksasu.
+
+Beam Outputs:
+1: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki?
+2: Kako se imenuje zadnja aktivna kongregacija Huguenot?
+3: Kako se imenuje zadnja aktivna kongregacija v Severni Karolini?
+4: Kako se imenuje zadnja aktivna kongregacija v Severni Ameriki
+5: Kdo je bil prvi predsednik ameriškega združenja Huguenot?
+
+Sampling Outputs:
+1: Kdo je bil prvi predsednik?
+2: Kakšen je bil primer združenja Huguenot v letu 1844?
+3: Kakšne so bile najzgodnejše številke za škofovsko cerkev v Severni Ameriki?
+4: Kaj je naredil John Truman leta 1844?
+5: Kateri znani jeziki so prišli iz Charlestona v 1824
+-------------------------------------------
+Paragraph: Vzorec vojskovanja, ki so mu sledili kratka obdobja miru, se je nadaljeval skoraj še četrt stoletja. Vojna je bila dokončno zadušena leta 1598, ko je Henrik Navarrski, potem ko je uspel na francoski prestol kot Henrik IV. in umaknil protestantizem v korist rimskega katoličanstva, izdal Nantesov edikt. Edikt je ponovno potrdil katolištvo kot francosko državno vero, vendar je protestantom podelil enakopravnost s katoličani pod prestolom in določeno stopnjo verske in politične svobode na njihovih področjih. Edikt je hkrati ščitil katoliške interese z odvračanjem od ustanovitve novih protestantskih cerkva v katoliških regijah.
+
+Beam Outputs:
+1: Kakšen je bil vzrok vojskovanja v Franciji?
+2: Kakšen je bil vzrok vojske v Franciji?
+3: Kakšen je bil vzrok za zadušenje protestantizma?
+4: Kakšen je bil vzrok vojskovanja?
+5: Kakšen je bil vzrok za zadušenje protestantov?
+
+Sampling Outputs:
+1: Kaj je pomenil Nantesov edikt?
+2: Kdaj so protestanti našli katoliške interese v francoščini?
+3: Kakšna je bila vojna za Henrika IV.
+4: Kdaj je Tito odobril protestante?
+5: Kdaj je Nantesov edikt omogočil katoliške in protestantske cerkvi v Franciji?
+-------------------------------------------
+Paragraph: Vzorec vojskovanja, ki so mu sledili kratka obdobja miru, se je nadaljeval skoraj še četrt stoletja. Vojna je bila dokončno zadušena leta 1598, ko je Henrik Navarrski, potem ko je uspel na francoski prestol kot Henrik IV. in umaknil protestantizem v korist rimskega katoličanstva, izdal Nantesov edikt. Edikt je ponovno potrdil katolištvo kot francosko državno vero, vendar je protestantom podelil enakopravnost s katoličani pod prestolom in določeno stopnjo verske in politične svobode na njihovih področjih. Edikt je hkrati ščitil katoliške interese z odvračanjem od ustanovitve novih protestantskih cerkva v katoliških regijah.
+
+Beam Outputs:
+1: Kakšen je bil vzrok vojskovanja v Franciji?
+2: Kakšen je bil vzrok vojske v Franciji?
+3: Kakšen je bil vzrok za zadušenje protestantizma?
+4: Kakšen je bil vzrok vojskovanja?
+5: Kakšen je bil vzrok za zadušenje protestantov?
+
+Sampling Outputs:
+1: Kdaj je Edikt izdal Nantesov edikt?
+2: Kaj je bilo prvotno narejeno z vplivom osmanskih cerkva?
+3: Kaj je Edikt izdal leta 1598?
+4: Kaj je Henrik napisal v svojem prvi knjigi?
+5: Zakaj je bil Edikt izvoljen v Francijo?
+-------------------------------------------
+Paragraph: Izselitev Huguenotov iz Francije je povzročila beg možganov, saj je veliko Huguenotov zasedalo pomembna mesta v družbi. Kraljestvo se leta ni popolnoma opomoglo. Zavrnitev francoske krone, da bi dovolila naselitev nekatoličanom v Novi Franciji, lahko pomaga pojasniti, da je rast prebivalstva kolonija počasna v primerjavi z rastjo sosednjih britanskih kolonij, ki so odprle naselje za verske oporečnike. V času francoske in indijske vojne (Severnoameriška fronta sedemletne vojne) je v britanskih kolonijah živela velika populacija Huguenota in mnogi so sodelovali v britanskem porazu v Novi Franciji v letih 1759–60.
+
+Beam Outputs:
+1: Kaj je povzročilo izselitev Huguenotov iz Francije?
+2: Kaj je povzročilo zavrnitev francoske krone?
+3: Kaj je povzročilo izselitev Huguenotov iz Francije
+4: Kaj je povzročilo izselitev Huguenotov v Francijo?
+5: Kaj je povzročilo izselitev Huguenotov?
+
+Sampling Outputs:
+1: Kakšen je primer raziskave o migracijah Huguenotov?
+2: Kaj je povzročilo velikega števila Huguenotov v Angliji
+3: Zakaj so Huguenoti ostali v državi, ki jih je v Franciji?
+4: Na čem je bila vloga Huguenotov?
+5: Kako je mogoče opaziti, da so Huguenoti vplivali na prebivalstvo kolonij
+-------------------------------------------
+Paragraph: Izselitev Huguenotov iz Francije je povzročila beg možganov, saj je veliko Huguenotov zasedalo pomembna mesta v družbi. Kraljestvo se leta ni popolnoma opomoglo. Zavrnitev francoske krone, da bi dovolila naselitev nekatoličanom v Novi Franciji, lahko pomaga pojasniti, da je rast prebivalstva kolonija počasna v primerjavi z rastjo sosednjih britanskih kolonij, ki so odprle naselje za verske oporečnike. V času francoske in indijske vojne (Severnoameriška fronta sedemletne vojne) je v britanskih kolonijah živela velika populacija Huguenota in mnogi so sodelovali v britanskem porazu v Novi Franciji v letih 1759–60.
+
+Beam Outputs:
+1: Kaj je povzročilo izselitev Huguenotov iz Francije?
+2: Kaj je povzročilo zavrnitev francoske krone?
+3: Kaj je povzročilo izselitev Huguenotov iz Francije
+4: Kaj je povzročilo izselitev Huguenotov v Francijo?
+5: Kaj je povzročilo izselitev Huguenotov?
+
+Sampling Outputs:
+1: Kaj je povzročilo vojno med Francijo in Francijo?
+2: Kakšno je bilo stanje v Franciji v času francoske vojne?
+3: Kaj je povzročilo zmanjšanje prebivalstva v Angliji?
+4: Kaj je povzročilo vlogo v Franciji v 18. stoletju?
+5: Kdaj so bili Huguenoti v Franciji?
+-------------------------------------------
+Paragraph: Več Huguenots je služilo kot župani v Dublinu, Corku, Youghalu in Waterfordu v 17. in 18. stoletju. Številne znake prisotnosti Huguenota je še vedno mogoče videti z imeni, ki se še vedno uporabljajo, in z območji glavnih mest, poimenovanih po ljudeh, ki so se tam naselili. Primera sta okrožje Huguenot in ulica francoske cerkve v mestu Cork; in D’Olier Street v Dublinu, imenovan po visokem šerifu in enem od ustanoviteljev Bank of Ireland. Francoska cerkev v Portarlingtonu sega v leto 1696 in je bila zgrajena, da bi služila pomembni novi Huguenotski skupnosti v mestu. Takrat so predstavljali večino meščanov.
+
+Beam Outputs:
+1: Kako je bilo ime francoske cerkve v Portarlingtonu?
+2: Kako se imenuje cerkev v Portarlingtonu?
+3: Kako se imenuje francoska cerkev v Portarlingtonu
+4: Kako se imenuje ulica v Portarlingtonu?
+5: Kako se imenuje cerkev v Portarlingtonu
+
+Sampling Outputs:
+1: Kateri dve mesti so se pomembno povezani med njimi?
+2: Zakaj so bile imenovane številne cerkve v Portarlingtonu?
+3: Katere vrste območij so se pogosto uporabljali v Burmi?
+4: V katerih dveh lokacijah je bila zgrajena cerkev v Portarlingtonu
+5: Kaj pomeni katedrala, ki se je rodila v Corku?
+-------------------------------------------
+Paragraph: Več Huguenots je služilo kot župani v Dublinu, Corku, Youghalu in Waterfordu v 17. in 18. stoletju. Številne znake prisotnosti Huguenota je še vedno mogoče videti z imeni, ki se še vedno uporabljajo, in z območji glavnih mest, poimenovanih po ljudeh, ki so se tam naselili. Primera sta okrožje Huguenot in ulica francoske cerkve v mestu Cork; in D’Olier Street v Dublinu, imenovan po visokem šerifu in enem od ustanoviteljev Bank of Ireland. Francoska cerkev v Portarlingtonu sega v leto 1696 in je bila zgrajena, da bi služila pomembni novi Huguenotski skupnosti v mestu. Takrat so predstavljali večino meščanov.
+
+Beam Outputs:
+1: Kako je bilo ime francoske cerkve v Portarlingtonu?
+2: Kako se imenuje cerkev v Portarlingtonu?
+3: Kako se imenuje francoska cerkev v Portarlingtonu
+4: Kako se imenuje ulica v Portarlingtonu?
+5: Kako se imenuje cerkev v Portarlingtonu
+
+Sampling Outputs:
+1: Kako je bila prva ulica na Portugalskem?
+2: Kakšne vrste imenovanih je bilo ustvarjene?
+3: Zakaj je bilo prvotno mogoče videti francoski uradniki, ki so imeli večina Huguenove skupnosti v Corku?
+4: Kako so imenovani prvi imeni Huguenove cerkve?
+5: Kaj so uradna imena pomembne?
+-------------------------------------------
+Paragraph: Več Huguenots je služilo kot župani v Dublinu, Corku, Youghalu in Waterfordu v 17. in 18. stoletju. Številne znake prisotnosti Huguenota je še vedno mogoče videti z imeni, ki se še vedno uporabljajo, in z območji glavnih mest, poimenovanih po ljudeh, ki so se tam naselili. Primera sta okrožje Huguenot in ulica francoske cerkve v mestu Cork; in D’Olier Street v Dublinu, imenovan po visokem šerifu in enem od ustanoviteljev Bank of Ireland. Francoska cerkev v Portarlingtonu sega v leto 1696 in je bila zgrajena, da bi služila pomembni novi Huguenotski skupnosti v mestu. Takrat so predstavljali večino meščanov.
+
+Beam Outputs:
+1: Kako je bilo ime francoske cerkve v Portarlingtonu?
+2: Kako se imenuje cerkev v Portarlingtonu?
+3: Kako se imenuje francoska cerkev v Portarlingtonu
+4: Kako se imenuje ulica v Portarlingtonu?
+5: Kako se imenuje cerkev v Portarlingtonu
+
+Sampling Outputs:
+1: Zakaj so bili vključeni v mozaike?
+2: Kje so Huguenoti našli?
+3: Kdo je bil ustanovitelj francoske cerkve v Corku?
+4: Kako so se primeri Huguenotov naselili v Dublinu?
+5: Kateri dve tri imeni sta narejena na vrhu na področju prihodkov v mestu Cork?
+-------------------------------------------
+Paragraph: Več Huguenots je služilo kot župani v Dublinu, Corku, Youghalu in Waterfordu v 17. in 18. stoletju. Številne znake prisotnosti Huguenota je še vedno mogoče videti z imeni, ki se še vedno uporabljajo, in z območji glavnih mest, poimenovanih po ljudeh, ki so se tam naselili. Primera sta okrožje Huguenot in ulica francoske cerkve v mestu Cork; in D’Olier Street v Dublinu, imenovan po visokem šerifu in enem od ustanoviteljev Bank of Ireland. Francoska cerkev v Portarlingtonu sega v leto 1696 in je bila zgrajena, da bi služila pomembni novi Huguenotski skupnosti v mestu. Takrat so predstavljali večino meščanov.
+
+Beam Outputs:
+1: Kako je bilo ime francoske cerkve v Portarlingtonu?
+2: Kako se imenuje cerkev v Portarlingtonu?
+3: Kako se imenuje francoska cerkev v Portarlingtonu
+4: Kako se imenuje ulica v Portarlingtonu?
+5: Kako se imenuje cerkev v Portarlingtonu
+
+Sampling Outputs:
+1: Kako se imenuje prvi imeni ugrabljenih Huguenotov v Portugalskem?
+2: Kako je bil Huguenot prvič uporabljen kot župan?
+3: V katerih okrožjih v mestu so Huguenotji pomembni za njihovo pristojnost?
+4: Katere dva glavnega mestna ulica je pomembna za priljubljenost v mestu?
+5: Katere tri primera sta imela v letu 1696 upodobitev?
+-------------------------------------------
+Paragraph: Drugi dokazi o Valoncih in Huguenotih v Canterburyju vključujejo blok hiš v Turnagain Lane, kjer okna tkalcev preživijo v zgornjem nadstropju, toliko Huguenotov je delovalo kot tkalci. Weavers, pollesena hiša ob reki, je bila kraj tkalske šole od poznega 16. stoletja do okoli leta 1830. (Prilagojeno je bilo kot restavracija – glej zgornjo sliko. Hiša je dobila ime po tkalni šoli, ki se je preselila v zadnjih letih 19. stoletja in je oživila prejšnjo uporabo.) Drugi begunci so izvajali različne poklice, potrebne za ohranjanje skupnosti, ki se razlikuje od avtohtonega prebivalstva. Takšna gospodarska ločitev je bila pogoj za začetno sprejetje beguncev v mestu. Naselili so se tudi drugje v Kentu, zlasti Sandwich, Faversham in Maidstone-mesta, v katerih so bile nekoč begunske cerkve.
+
+Beam Outputs:
+1: Kako se imenuje tkalska šola v Canterburju?
+2: Kako je bilo ime tkalske šole v Canterburyju?
+3: Kako se imenuje tkalska šola v Canterburyju
+4: Kako se imenuje tkalska šola v Canterburiji?
+5: Kako se imenuje tkalska šola?
+
+Sampling Outputs:
+1: Kaj se je zgodilo z uvrstitvijo v mesto?
+2: Kdo je napovedal, da so Begunci imeli različne poklice, ki so jih izvajali v trgovinah?
+3: Katere so bile najstarejše in najstarejše na severu?
+4: Kateri dve drugi hiši so bili izboljšani po razvoju stavbe v mestu?
+5: Kaj je mogoče videti kot v katerih hišah?
+-------------------------------------------
+Paragraph: Drugi dokazi o Valoncih in Huguenotih v Canterburyju vključujejo blok hiš v Turnagain Lane, kjer okna tkalcev preživijo v zgornjem nadstropju, toliko Huguenotov je delovalo kot tkalci. Weavers, pollesena hiša ob reki, je bila kraj tkalske šole od poznega 16. stoletja do okoli leta 1830. (Prilagojeno je bilo kot restavracija – glej zgornjo sliko. Hiša je dobila ime po tkalni šoli, ki se je preselila v zadnjih letih 19. stoletja in je oživila prejšnjo uporabo.) Drugi begunci so izvajali različne poklice, potrebne za ohranjanje skupnosti, ki se razlikuje od avtohtonega prebivalstva. Takšna gospodarska ločitev je bila pogoj za začetno sprejetje beguncev v mestu. Naselili so se tudi drugje v Kentu, zlasti Sandwich, Faversham in Maidstone-mesta, v katerih so bile nekoč begunske cerkve.
+
+Beam Outputs:
+1: Kako se imenuje tkalska šola v Canterburju?
+2: Kako je bilo ime tkalske šole v Canterburyju?
+3: Kako se imenuje tkalska šola v Canterburyju
+4: Kako se imenuje tkalska šola v Canterburiji?
+5: Kako se imenuje tkalska šola?
+
+Sampling Outputs:
+1: V katerih treh primerih je bil poklic Huguenotov?
+2: V katerem obdobju je tkale v Canterburyju?
+3: Kaj velja za primer tkalske šole, ki jo je Tennessee dobil?
+4: Katere so bile najvišje na otoku Canterbury
+5: Kaj je včasih vključevala na otoke v zgodovino?
+-------------------------------------------
+Paragraph: V zvezi s tem bi ime lahko namigovalo na ponižujoče sklepanje vraževernega čaščenja; priljubljena fancy je menila, da je Huguon, vrata kralja Huga, preganjal duh le roi Huguet (ki ga Rimskokatoličani štejejo kot zloglasni podlež) in drugih duhov, ki so se namesto, da bi bili v vicah, vrnili, da bi škodovali živim ponoči. Na tem mestu v Toursu so se prétendus Réformés (ti domnevno „reformirani“) običajno zbirali ponoči, tako za politične namene kot za molitev in petje psalmov. Takšne razlage so sledili sodobniku Reguier de la Plancha (1560), ki je v De l’Estat de France ponudil naslednje podatke o izvoru imena, kot navaja Cape Monthly:
+
+Beam Outputs:
+1: Kaj je sodobna fancy beseda, ki jo je napisal Reguier de la Plancha?
+2: Kaj je sodobna fancy beseda, ki jo je napisal Reguier De la Plancha?
+3: Kaj je sodobna fancy beseda, ki jo je napisal Reguier de La Plancha?
+4: Kaj je sodobna fancy beseda?
+5: Kaj je sodobna fancy beseda, ki jo je napisal Reguier?
+
+Sampling Outputs:
+1: Kateri je bil najzgodnejši vzrok za ozemlje?
+2: Kakšen je primer sodobnega prepovedovanja v zgodovini Francije?
+3: Kakšen je bil sodobni opis imena sodobne sodobne stavbe v Touru?
+4: Kdo se je nanašal na razlago, da se pretretencija lahko zgodi v Franciji?
+5: Kaj je reguer de la Plancha ponudil, da bi se lahko sklicovali na njihova smrt, ko so imeli svoj častni pregled?
+-------------------------------------------
+Paragraph: V zvezi s tem bi ime lahko namigovalo na ponižujoče sklepanje vraževernega čaščenja; priljubljena fancy je menila, da je Huguon, vrata kralja Huga, preganjal duh le roi Huguet (ki ga Rimskokatoličani štejejo kot zloglasni podlež) in drugih duhov, ki so se namesto, da bi bili v vicah, vrnili, da bi škodovali živim ponoči. Na tem mestu v Toursu so se prétendus Réformés (ti domnevno „reformirani“) običajno zbirali ponoči, tako za politične namene kot za molitev in petje psalmov. Takšne razlage so sledili sodobniku Reguier de la Plancha (1560), ki je v De l’Estat de France ponudil naslednje podatke o izvoru imena, kot navaja Cape Monthly:
+
+Beam Outputs:
+1: Kaj je sodobna fancy beseda, ki jo je napisal Reguier de la Plancha?
+2: Kaj je sodobna fancy beseda, ki jo je napisal Reguier De la Plancha?
+3: Kaj je sodobna fancy beseda, ki jo je napisal Reguier de La Plancha?
+4: Kaj je sodobna fancy beseda?
+5: Kaj je sodobna fancy beseda, ki jo je napisal Reguier?
+
+Sampling Outputs:
+1: Kaj je bil sodobni sodobni sodobnik na Touru?
+2: Kdo je splošno menil, da je ime zelo pomembno?
+3: Kakšno je bilo razlago v devetdesetih letih prejšnjega stoletja?
+4: Kateri razlog je bil, da je Madonna verjela, da bi imela vlogo v čem?
+5: V katerih razlagi so bili dogodki, ki so povzročili vojno?
+-------------------------------------------
+Paragraph: Priseljenci iz Huguenota se niso razpršili ali se naselili v različnih delih države, temveč so oblikovali tri družbe ali kongregacije; ena v mestu New York, še 21 milj severno od New Yorka v mestu, ki so ga poimenovali New Rochelle, in še tretja država v New Paltzu. „Huguenot Street Historic District“ v New Paltz je bil imenovan za National Historic Landmark mesto in vsebuje najstarejšo ulico v Združenih državah Amerike. Majhna skupina Huguenots se je prav tako naselila na južni obali Staten Island vzdolž pristanišča New York, po katerem je bila imenovana trenutna soseska Huguenot.
+
+Beam Outputs:
+1: Kako se je Huguenot naselil v New Paltzu?
+2: Kako se je Huguenot naselil v New Yorku?
+3: Kako se je Huguenot naselil v New Paltz?
+4: Kaj je bilo imenovano za National Historic Landmark mesto?
+5: Kaj je bilo imenovano za National Historic Landmark?
+
+Sampling Outputs:
+1: Kaj je bilo prvotno imenovalo v New Paltzu leta 1871?
+2: Kako se imenuje mesto v New Yorku
+3: Kaj je bil imenovan na katerih območjih v ZDA?
+4: Zakaj se je Huguenot razširil po New Yorku?
+5: Kaj so bili oblikovani v New Paltzu v New Paltzu?
+-------------------------------------------
+Paragraph: Priseljenci iz Huguenota se niso razpršili ali se naselili v različnih delih države, temveč so oblikovali tri družbe ali kongregacije; ena v mestu New York, še 21 milj severno od New Yorka v mestu, ki so ga poimenovali New Rochelle, in še tretja država v New Paltzu. „Huguenot Street Historic District“ v New Paltz je bil imenovan za National Historic Landmark mesto in vsebuje najstarejšo ulico v Združenih državah Amerike. Majhna skupina Huguenots se je prav tako naselila na južni obali Staten Island vzdolž pristanišča New York, po katerem je bila imenovana trenutna soseska Huguenot.
+
+Beam Outputs:
+1: Kako se je Huguenot naselil v New Paltzu?
+2: Kako se je Huguenot naselil v New Yorku?
+3: Kako se je Huguenot naselil v New Paltz?
+4: Kaj je bilo imenovano za National Historic Landmark mesto?
+5: Kaj je bilo imenovano za National Historic Landmark?
+
+Sampling Outputs:
+1: Katera so dva najstarejšega mesta v Združenih državah Amerike
+2: Kakšen je bil pomen ozemlja Huguenot Street?
+3: Kaj je naredilo Huguenotov družbeno razpršenje?
+4: Kaj je bilo oblikovano v New Paltzu?
+5: Kako se je ime Huguenot Street?
+-------------------------------------------
+Paragraph: Do leta 1620 so bili Huguenoti na obrambnem področju in vlada je vedno bolj izvajala pritisk. Med letoma 1621 in 1629 je izbruhnila serija treh manjših državljanskih vojn, znanih kot Huguenotski upori, predvsem v jugozahodni Franciji. Vstaja se je zgodila desetletje po smrti Henrika IV., Huguenota, preden se je spreobrnil v katoličanstvo, ki je ščitil protestante z Nanteškim ediktom. Njegov naslednik Ludvik XIII., pod regentstvom svoje italijanske katoliške matere Marie de’ Medici, je postal bolj nestrpn do protestantizma. Huguenoti so se odzvali z vzpostavitvijo neodvisnih političnih in vojaških struktur, vzpostavljanjem diplomatskih stikov s tujimi silami in odprtim uporom proti centralni oblasti. Upore je neizbežno zatrla francoska krona.
+
+Beam Outputs:
+1: Kako se je Huguenot odzval v katoličanstvo?
+2: Kako se je Huguenot odzval v katoliške cerkve?
+3: Kako se je Huguenot odzval v katolištvo?
+4: Kako se je Huguenot odzval na protestantske odnose?
+5: Kako se je Huguenot odzval v katoliške igre?
+
+Sampling Outputs:
+1: Katera vojna je povzročila ugotovitev, ki so temeljila na splošnem prepričanju v zgodovini človeštva?
+2: Kako se je Huguenot začel v vojni?
+3: Kako se je zgodila vojna s Tuvanjem?
+4: Na katerih področjih je bil Huguenot na vojni v Franciji?
+5: Kako je bila Huguenova vstaja z Nanteškim dogodkom?
+-------------------------------------------
+Paragraph: Do leta 1620 so bili Huguenoti na obrambnem področju in vlada je vedno bolj izvajala pritisk. Med letoma 1621 in 1629 je izbruhnila serija treh manjših državljanskih vojn, znanih kot Huguenotski upori, predvsem v jugozahodni Franciji. Vstaja se je zgodila desetletje po smrti Henrika IV., Huguenota, preden se je spreobrnil v katoličanstvo, ki je ščitil protestante z Nanteškim ediktom. Njegov naslednik Ludvik XIII., pod regentstvom svoje italijanske katoliške matere Marie de’ Medici, je postal bolj nestrpn do protestantizma. Huguenoti so se odzvali z vzpostavitvijo neodvisnih političnih in vojaških struktur, vzpostavljanjem diplomatskih stikov s tujimi silami in odprtim uporom proti centralni oblasti. Upore je neizbežno zatrla francoska krona.
+
+Beam Outputs:
+1: Kako se je Huguenot odzval v katoličanstvo?
+2: Kako se je Huguenot odzval v katoliške cerkve?
+3: Kako se je Huguenot odzval v katolištvo?
+4: Kako se je Huguenot odzval na protestantske odnose?
+5: Kako se je Huguenot odzval v katoliške igre?
+
+Sampling Outputs:
+1: Kdaj se je vstaja zgodila?
+2: Kdaj je bilo mogoče najti vsako vojno zaradi protestantizma?
+3: V katerih letih je bilo vstopilo Hugueno?
+4: Kaj je bila Huguenota opozorila na pomoč pri njihovih protestih?
+5: Kaj je bila vstaja v Južni Franciji?
+-------------------------------------------
+Paragraph: Katoliška cerkev v Franciji in mnogi njeni člani so nasprotovali Huguenotom. Nekateri Huguenotovi pridigarji in kongreganti so bili napadeni, ko so se poskušali srečati za čaščenje. Višina tega preganjanja je bil pokol na dan svetega Bartolomeja, ko je bilo ubitih 5.000 do 30.000 ljudi, čeprav so za to obstajali tudi temeljni politični razlogi, saj so bili nekateri Huguenotovi plemiči, ki so poskušali vzpostaviti ločene centre oblasti v južni Franciji. Proti francoskim katoličanom so imeli Huguenots lastno milico.
+
+Beam Outputs:
+1: Kako so bili Huguenotovi pridigarji napadeni v Franciji?
+2: Kako so bili Huguenotovi pridigarji napadeni?
+3: Kako so bili Huguenoti napadeni v Franciji?
+4: Kako so bili Huguenoti napadeni?
+5: Kako so bili Huguenoti napadeni?
+
+Sampling Outputs:
+1: V čem so nekateri Huguenovo plemiči zagovarjali Huguenovo vlado
+2: Kaj je bilo napovedano leta 1815?
+3: Kdo se je poskušal zaščititi zaradi tega, da se je Huguenota pridružila?
+4: Kako so bili Huguenoti zaščiteni od katoličanov?
+5: Kako so bili Huguenov vojaški otoki na splošno ugrabljeni?
+-------------------------------------------
+Paragraph: Katoliška cerkev v Franciji in mnogi njeni člani so nasprotovali Huguenotom. Nekateri Huguenotovi pridigarji in kongreganti so bili napadeni, ko so se poskušali srečati za čaščenje. Višina tega preganjanja je bil pokol na dan svetega Bartolomeja, ko je bilo ubitih 5.000 do 30.000 ljudi, čeprav so za to obstajali tudi temeljni politični razlogi, saj so bili nekateri Huguenotovi plemiči, ki so poskušali vzpostaviti ločene centre oblasti v južni Franciji. Proti francoskim katoličanom so imeli Huguenots lastno milico.
+
+Beam Outputs:
+1: Kako so bili Huguenotovi pridigarji napadeni v Franciji?
+2: Kako so bili Huguenotovi pridigarji napadeni?
+3: Kako so bili Huguenoti napadeni v Franciji?
+4: Kako so bili Huguenoti napadeni?
+5: Kako so bili Huguenoti napadeni?
+
+Sampling Outputs:
+1: Kateri so bili primeri tega, kaj je bil Huguenot?
+2: Kaj je povzročilo vpliv Huguenota v Franciji na to, kaj so bili Huhenoti?
+3: Kakšno je bilo ime protestantskih cerkva?
+4: Kdo je bil naveden po smrti Huguenotov, ko je bil ustanovljen?
+5: Kakšna je bila vrednost tega preganjanja?
+-------------------------------------------
+Paragraph: Mnogi domačini in turisti pogosto južni obali Kalifornije za svoje priljubljene plaže, in puščavsko mesto Palm Springs je priljubljena za svoje letovišče občutek in v bližini odprtih prostorov.
+
+Beam Outputs:
+1: Kaj je priljubljeno v južni obali Kalifornije?
+2: Kako se imenuje puščavsko mesto?
+3: Kaj je priljubljeno v južni obali?
+4: Kako se imenuje puščavsko mesto Palm Springs
+5: Kako se imenuje mesto Palm Springs?
+
+Sampling Outputs:
+1: Katera je najpogostejša priljubljena puščavska obala v USAF?
+2: Kaj je mesto Palm Springs priljubljeno za ljudi na južnem obalnem območju v južni obali?
+3: Kakšna je bila lokacija za otoke Palm Springs?
+4: Kaj je bil primer Južne Kalifornije, ki ga imenujejo Hispanic in Latino?
+5: Kaj je mesto na Južni obali?
+-------------------------------------------
+Paragraph: Mnogi domačini in turisti pogosto južni obali Kalifornije za svoje priljubljene plaže, in puščavsko mesto Palm Springs je priljubljena za svoje letovišče občutek in v bližini odprtih prostorov.
+
+Beam Outputs:
+1: Kaj je priljubljeno v južni obali Kalifornije?
+2: Kako se imenuje puščavsko mesto?
+3: Kaj je priljubljeno v južni obali?
+4: Kako se imenuje puščavsko mesto Palm Springs
+5: Kako se imenuje mesto Palm Springs?
+
+Sampling Outputs:
+1: Kje se nahaja letališče Palm Springs?
+2: Kaj so bili drugi bolj priljubljeni domačini in turistji v Kaliforniji zaradi raziskave, ki jih so uporabili na spletnih strani?
+3: Kaj je priljubljeno mesto za priljubljene letališče v Južni Kaliforniji?
+4: Kje so otoki priljubljeni v Kaliforniji?
+5: Kaj je najbolj priljubljena letovišča v Južni Kaliforniji
+-------------------------------------------
+Paragraph: Južna Kalifornija je tudi dom velik doma goji surf in skateboard kulture. Podjetja, kot so Volcom, Quiksilver, No Fear, RVCA in Body Rokavice, imajo sedež tukaj. Profesionalni rolkar Tony Hawk, profesionalni deskarji Rob Machado, Tim Curran, Bobby Martinez, Pat O’Connell, Dane Reynolds in Chris Ward ter profesionalni deskarji Shaun White živijo v južni Kaliforniji. Nekatere svetovne legendarne surf lise so tudi v južni Kaliforniji, vključno z Trestles, Rincon, The Wedge, Huntington Beach in Malibu, in je druga le na otoku Oahu v smislu znanih surf odmori. Nekateri največji ekstremni športni dogodki na svetu, vključno z igrami X, Boost Mobile Pro in US Open of Surfing, so v južni Kaliforniji. Južna Kalifornija je pomembna tudi za svet jadranja. Letna Transpacific Yacht Race, ali Transpac, od Los Angelesa do Havajev, je eden od glavnih dogodkov jahte. San Diego Yacht Club je imel ameriški pokal, najbolj prestižno nagrado na jahti, od 1988 do 1995 in gostil tri ameriške pokala dirke v tem času.
+
+Beam Outputs:
+1: Kako se imenuje dogodek v južni Kaliforniji?
+2: Kako se imenuje dogodek, ki se je zgodil v južni Kaliforniji?
+3: Kako se imenuje dogodek, ki se je zgodil v Južni Kaliforniji?
+4: Kako se imenuje južna Kalifornija?
+5: Kako se imenuje dogodek, ki se je zgodil v južni Kaliforniji
+
+Sampling Outputs:
+1: Kakšne igre je San Diego naredil leta 1992?
+2: Zakaj se je južna Kalifornija pomembna s svojimi vrstami dogodkov na svetu?
+3: Kakšna je številka svetovnega pokala v južni Kaliforniji?
+4: Na katerih športnih dogodkih je sedež San Diego Yacht Club?
+5: Kje je imela največja družina na svetu?
+-------------------------------------------
+Paragraph: Južna Kalifornija je tudi dom velik doma goji surf in skateboard kulture. Podjetja, kot so Volcom, Quiksilver, No Fear, RVCA in Body Rokavice, imajo sedež tukaj. Profesionalni rolkar Tony Hawk, profesionalni deskarji Rob Machado, Tim Curran, Bobby Martinez, Pat O’Connell, Dane Reynolds in Chris Ward ter profesionalni deskarji Shaun White živijo v južni Kaliforniji. Nekatere svetovne legendarne surf lise so tudi v južni Kaliforniji, vključno z Trestles, Rincon, The Wedge, Huntington Beach in Malibu, in je druga le na otoku Oahu v smislu znanih surf odmori. Nekateri največji ekstremni športni dogodki na svetu, vključno z igrami X, Boost Mobile Pro in US Open of Surfing, so v južni Kaliforniji. Južna Kalifornija je pomembna tudi za svet jadranja. Letna Transpacific Yacht Race, ali Transpac, od Los Angelesa do Havajev, je eden od glavnih dogodkov jahte. San Diego Yacht Club je imel ameriški pokal, najbolj prestižno nagrado na jahti, od 1988 do 1995 in gostil tri ameriške pokala dirke v tem času.
+
+Beam Outputs:
+1: Kako se imenuje dogodek v južni Kaliforniji?
+2: Kako se imenuje dogodek, ki se je zgodil v južni Kaliforniji?
+3: Kako se imenuje dogodek, ki se je zgodil v Južni Kaliforniji?
+4: Kako se imenuje južna Kalifornija?
+5: Kako se imenuje dogodek, ki se je zgodil v južni Kaliforniji
+
+Sampling Outputs:
+1: Kako se imenuje San Diego Yacht Race?
+2: Kaj je splošno zelo pomembno za južno Kalifornijo?
+3: Kdo je bil glavni voditelj ameriškega pokala na otoku?
+4: Kako se imenuje južna Kalifornija?
+5: Kdo je igral v južni Kaliforniji?
+-------------------------------------------
+Paragraph: Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.
+
+Beam Outputs:
+1: Kako se imenuje megaregija Združenih držav Amerike?
+2: Kako se imenuje območje megaregije?
+3: Kako se imenuje megaregija Združenih držav Amerike
+4: Kako se imenuje območje megaregije
+5: Kako se imenuje megaregija?
+
+Sampling Outputs:
+1: Kakšen je bil cilj sodobne države, ki se uporabljajo v ameriškem merilu?
+2: Kaj je bila vloga za uporabo okrožij?
+3: Kdaj se je bolj razvija ZDA?
+4: Kakšne otoke so ustvarile snovi, ki jih niso imeli skozi več kot koliko ameriških otokov?
+5: Kako se imenuje območje, ki se je razvilo v zvezi z Mexico Cityjem
+-------------------------------------------
+Paragraph: Definicije 8- in 10 okrožij se ne uporabljajo za večjo južno kalifornijsko megaregijo, eno od 11 megaregij Združenih držav Amerike. Območje megaregije je bolj razširjeno, sega vzhodno v Las Vegas, Nevada in južno čez mehiško mejo v Tijuano.
+
+Beam Outputs:
+1: Kako se imenuje megaregija Združenih držav Amerike?
+2: Kako se imenuje območje megaregije?
+3: Kako se imenuje megaregija Združenih držav Amerike
+4: Kako se imenuje območje megaregije
+5: Kako se imenuje megaregija?
+
+Sampling Outputs:
+1: Kakšna je razširitev območja megaregije?
+2: Na čem se uporablja definicija okrožij?
+3: Na kakšen je primer, da je Mexico City večje?
+4: Kaj so razmerja med mednarodnimi trgovinami?
+5: Kako je bilo ime megaregije v Združenih državah Amerike?
+-------------------------------------------
+Paragraph: Kot poudarja Fortnow &amp; Homer (2003), se začetek sistematičnih študij v računski kompleksnosti pripisuje semenskemu članku „O računalniški zapletenosti algoritmov“, ki sta ga napisala Juris Hartmanis in Richard Stearns (1965), ki sta določila definicije časovne in prostorske kompleksnosti in dokazala hierarhične izreke. Leta 1965 je Edmonds definiral „dober“ algoritem kot „dober“ algoritem, ki je omejen s polinomom vhodne velikosti.
+
+Beam Outputs:
+1: Kako je Edmonds definiral „dober“ algoritem?
+2: Kaj je Edmonds napisal leta 1965?
+3: Kako je Edmond definiral „dober“ algoritem?
+4: Kako je Edmonds definiral „dober“ Algoritem?
+5: Kako je Edmonds definiral „dober“ algoritme?
+
+Sampling Outputs:
+1: Kaj je Edmunds povedal za strokovnjakov na računalniških študijah, ki so jih izvajali?
+2: Katere knjige opisuje Edmonds?
+3: Kdo je predlagal, da se algoritmi niso zamenjali z enostavnimi oblikami?
+4: Kaj je bil Edmundov prvi naslov o človeške usmerjenosti?
+5: Katere knjige je napisala Frédéric, ki so predlagale „Dobri“ algoritem?
+-------------------------------------------
+Paragraph: Kot poudarja Fortnow &amp; Homer (2003), se začetek sistematičnih študij v računski kompleksnosti pripisuje semenskemu članku „O računalniški zapletenosti algoritmov“, ki sta ga napisala Juris Hartmanis in Richard Stearns (1965), ki sta določila definicije časovne in prostorske kompleksnosti in dokazala hierarhične izreke. Leta 1965 je Edmonds definiral „dober“ algoritem kot „dober“ algoritem, ki je omejen s polinomom vhodne velikosti.
+
+Beam Outputs:
+1: Kako je Edmonds definiral „dober“ algoritem?
+2: Kaj je Edmonds napisal leta 1965?
+3: Kako je Edmond definiral „dober“ algoritem?
+4: Kako je Edmonds definiral „dober“ Algoritem?
+5: Kako je Edmonds definiral „dober“ algoritme?
+
+Sampling Outputs:
+1: Zakaj je Edmunds napovedal, da bi bil narejen za računalnik, ki se pogosto uporablja?
+2: Kaj se zgodi z Darwinovim sodobnim izobraževanjem?
+3: Kakšne vrste je Edward Edwardson predlagal leta 1965?
+4: Kaj je bil Eisenhowerjev primer?
+5: Kaj je Edmonds napisal leta 1965?
+-------------------------------------------
+Paragraph: Podobno ni znano, ali je L (skupek vseh problemov, ki jih je mogoče rešiti v logaritemskem prostoru) strogo vsebovan v P ali enak P. Ponovno obstaja veliko razredov kompleksnosti med obema, kot sta NL in NC, in ni znano, ali so različni ali enaki razredi.
+
+Beam Outputs:
+1: Kako se imenuje razred kompleksnosti med obema razredom?
+2: Kako se imenuje razred kompleksnosti med obema razredi?
+3: Kaj je vprašanje o številu razredov kompleksnosti?
+4: Kaj je vprašanje o številu razredov?
+5: Kako se imenuje razred kompleksnosti?
+
+Sampling Outputs:
+1: Zakaj so številni razredi v P, navedeni v kateri smeri?
+2: Kako se razlikujejo razredi?
+3: Kdaj je bilo znano, da so različni razredi ločeni od enaka?
+4: Kakšne so možnosti, da je bilo vključeno število šol?
+5: Kateri dve vrsti razredov kompleksnosti je bil mogoče oceniti z uporabo standardnega sistema?
+-------------------------------------------
+Paragraph: Podobno ni znano, ali je L (skupek vseh problemov, ki jih je mogoče rešiti v logaritemskem prostoru) strogo vsebovan v P ali enak P. Ponovno obstaja veliko razredov kompleksnosti med obema, kot sta NL in NC, in ni znano, ali so različni ali enaki razredi.
+
+Beam Outputs:
+1: Kako se imenuje razred kompleksnosti med obema razredom?
+2: Kako se imenuje razred kompleksnosti med obema razredi?
+3: Kaj je vprašanje o številu razredov kompleksnosti?
+4: Kaj je vprašanje o številu razredov?
+5: Kako se imenuje razred kompleksnosti?
+
+Sampling Outputs:
+1: Kakšna je bila vprašanje, kjer je sklicevanje z naslovom o sodobnem ugotovitvu?
+2: Kateri drugi izraz je uveden za izboljšanje kompleksnosti?
+3: Kaj je omogočilo zaščito za različne rešitve v različnih razredih?
+4: Kaj je bilo znano tudi o tem, da je L včasih bolj povezan?
+5: Kakšen je razlog za odločitev o kompleksnosti med drugimi skupinami?
+-------------------------------------------
+Paragraph: Vprašanje, ali je P enak NP, je eno najpomembnejših odprtih vprašanj v teoretični računalništvu zaradi širokih posledic rešitve. Če je odgovor pritrdilen, je mogoče dokazati, da imajo številne pomembne težave učinkovitejše rešitve. Te vključujejo različne vrste celoštevilskih programskih problemov pri raziskavah operacij, številne težave v logistiki, napoved beljakovinske strukture v biologiji in sposobnost iskanja formalnih dokazov o čistih matematičnih izrekih. Problem P proti NP je ena od težav tisočletja, ki jih je predlagal Clay Mathematics Institute. Za rešitev problema je na voljo 1.000.000 ameriških dolarjev.
+
+Beam Outputs:
+1: Kaj je vprašanje o učinkovitejših rešitvah?
+2: Kako se imenuje vprašanje o učinkovitosti rešitve?
+3: Kako se imenuje vprašanje o učinkovitejšem reševanju?
+4: Kaj je vprašanje o učinkovitosti rešitve?
+5: Kaj je vprašanje o učinkovitejših rešitih?
+
+Sampling Outputs:
+1: Zakaj je Clay Mathematica imela dovolj visoki odstotek denarja?
+2: Kaj je glavna razlog za njihovo vrednost, ki je pomembna za analizo?
+3: Kaj je vprašanje, ki se nanaša na problem, ki ga predlaga Clay Mathematics Institute?
+4: Kaj je bilo treba izključiti iz vprašanja?
+5: Kaj je vprašanje, ki se imenuje za rešitev problemov, ki jih je Clay predlagal, da je imel?
+-------------------------------------------
+Paragraph: Vprašanje, ali je P enak NP, je eno najpomembnejših odprtih vprašanj v teoretični računalništvu zaradi širokih posledic rešitve. Če je odgovor pritrdilen, je mogoče dokazati, da imajo številne pomembne težave učinkovitejše rešitve. Te vključujejo različne vrste celoštevilskih programskih problemov pri raziskavah operacij, številne težave v logistiki, napoved beljakovinske strukture v biologiji in sposobnost iskanja formalnih dokazov o čistih matematičnih izrekih. Problem P proti NP je ena od težav tisočletja, ki jih je predlagal Clay Mathematics Institute. Za rešitev problema je na voljo 1.000.000 ameriških dolarjev.
+
+Beam Outputs:
+1: Kaj je vprašanje o učinkovitejših rešitvah?
+2: Kako se imenuje vprašanje o učinkovitosti rešitve?
+3: Kako se imenuje vprašanje o učinkovitejšem reševanju?
+4: Kaj je vprašanje o učinkovitosti rešitve?
+5: Kaj je vprašanje o učinkovitejših rešitih?
+
+Sampling Outputs:
+1: V katerih težavah je Darwin menil, da je P enak?
+2: Kakšno je eno od področjev, ki jih je predlagal Clay?
+3: Katere vrste težav je treba najti glede rešitve problema P s kakšnim vprašanjem?
+4: Kaj je bil glavni problem pri analizi podatkov?
+5: Kaj je vprašanje, da je bil P, enako s kakšnim problemom?
+-------------------------------------------
+Paragraph: Mamljivo je misliti, da je pojem funkcijskih problemov veliko bogatejši od pojma težav pri odločanju. Vendar to v resnici ni tako, saj se težave z delovanjem lahko preoblikujejo kot težave pri odločanju. Množenje dveh celih števil se lahko na primer izrazi kot niz trojčkov (a, b, c), tako da razmerje a × b = c drži. Odločanje o tem, ali je določen trojček član tega niza, ustreza reševanju problema množenja dveh številk.
+
+Beam Outputs:
+1: Kako se imenuje vprašanje o množenju dveh celic?
+2: Kako se imenuje vprašanje o množenju dveh celih števil?
+3: Kako se imenuje vprašanje o množenju dveh celičnih števil?
+4: Kako se imenuje vprašanje o množenju številk?
+5: Kako se imenuje razmerje med dvema celicami?
+
+Sampling Outputs:
+1: Kakšno je ime za razmerje v številkah številnih členov?
+2: Kakšne so bile teorije včasih bolj razširjene?
+3: Kateri je bil glavni razlog za usmrtitev?
+4: Kaj je treba vprašati o številu številov številk?
+5: Kakšen je primer ločitve številnih številk?
+-------------------------------------------
+Paragraph: Mamljivo je misliti, da je pojem funkcijskih problemov veliko bogatejši od pojma težav pri odločanju. Vendar to v resnici ni tako, saj se težave z delovanjem lahko preoblikujejo kot težave pri odločanju. Množenje dveh celih števil se lahko na primer izrazi kot niz trojčkov (a, b, c), tako da razmerje a × b = c drži. Odločanje o tem, ali je določen trojček član tega niza, ustreza reševanju problema množenja dveh številk.
+
+Beam Outputs:
+1: Kako se imenuje vprašanje o množenju dveh celic?
+2: Kako se imenuje vprašanje o množenju dveh celih števil?
+3: Kako se imenuje vprašanje o množenju dveh celičnih števil?
+4: Kako se imenuje vprašanje o množenju številk?
+5: Kako se imenuje razmerje med dvema celicami?
+
+Sampling Outputs:
+1: Katere vprašanja so se lahko uporabile za opisovanje različnih oblik?
+2: Kakšna je bila razlaga o tem, da je smisel o tem, kaj?
+3: Kaj se šteje za najbolj priljubljeno teorijo?
+4: Kako učinkovito je vprašanje za uporabo trije celic?
+5: Kaj lahko povzroči razlog za število?
+-------------------------------------------
+Paragraph: Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju?
+2: Kako se je imenovala skupina Normanov?
+3: Kako se imenuje skupina Normanov?
+4: Kako so se Normani imenovali?
+5: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju
+
+Sampling Outputs:
+1: Kje je bila skupina, ki so prispevala k ohranjanju zgodovine?
+2: Katere so štiri vrste besed, ki je mogoče opisati kot?
+3: V katerih državah so francoski ljudje začeli združevati svoje etnične lastnosti?
+4: Kaj so francoski jeziki imenovali?
+5: Katere kulture so bile uporabljene za ohranjanje zgodovine v 19. stoletju?
+-------------------------------------------
+Paragraph: Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju?
+2: Kako se je imenovala skupina Normanov?
+3: Kako se imenuje skupina Normanov?
+4: Kako so se Normani imenovali?
+5: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju
+
+Sampling Outputs:
+1: Kdaj je bilo prvotno ime Normanovih potomcev?
+2: Kako se imenuje zgodovinska antropologija Normandije?
+3: Kako se je imenovala migracija med Frankovi in Norfolki?
+4: Kako se je imenovala prva vrsta migracije?
+5: Kaj je omogočilo Normanski in Normandijski potomci?
+-------------------------------------------
+Paragraph: Nedokazana Riemannova hipoteza iz leta 1859 pravi, da imajo, razen za s = −2, −4,..., vse ničle funkcije, ki je enaka 1/2. Povezava s praštevilnimi števili v bistvu pravi, da so praštevilniki čim bolj redno porazdeljeni.[potrebna je pojasnitev] S fizičnega vidika v grobem navaja, da nepravilnost v porazdelitvi praštevil izhaja le iz naključnega hrupa. Z matematičnega vidika v grobem navaja, da asimptotična porazdelitev praštevil (približno x/log x števil manj kot x praštevil, praštevilski izrek) velja tudi za veliko krajše intervale dolžine okoli kvadratnega korena x (za intervale blizu x). Ta hipoteza se na splošno domneva, da je pravilna. Najenostavnejša predpostavka je, da praštevilke brez utemeljenega razloga ne bi smele imeti večjih nepravilnosti.
+
+Beam Outputs:
+1: Kako se imenuje hipoteza v grobem?
+2: Kako se imenuje hipoteza, ki se nanaša na splošno?
+3: Kako se imenuje hipoteza, ki se nanaša na splošno v grobem?
+4: Kako se imenuje hipoteza, ki se nanaša na splošno v zvezi z praštevilkami?
+5: Kako se imenuje hipoteza, ki se nanaša na splošno v zvezi z praštevilki?
+
+Sampling Outputs:
+1: Kaj je Reynolds predlagal kot utemeljeno hipotezo za številke?
+2: Kaj se navaja tudi v grobem?
+3: Kaj je povzročilo, da se nekateri števili ne razlikujejo od standardnih?
+4: Kaj je splošno splošno opozorilo, da je razlog, da je razmerje med velikostmi?
+5: Kateri izraz pravi, da je približna velikost preštevilnih praštevil, ki so ločene iz naključnih časov, da je?
+-------------------------------------------
+Paragraph: Nedokazana Riemannova hipoteza iz leta 1859 pravi, da imajo, razen za s = −2, −4,..., vse ničle funkcije, ki je enaka 1/2. Povezava s praštevilnimi števili v bistvu pravi, da so praštevilniki čim bolj redno porazdeljeni.[potrebna je pojasnitev] S fizičnega vidika v grobem navaja, da nepravilnost v porazdelitvi praštevil izhaja le iz naključnega hrupa. Z matematičnega vidika v grobem navaja, da asimptotična porazdelitev praštevil (približno x/log x števil manj kot x praštevil, praštevilski izrek) velja tudi za veliko krajše intervale dolžine okoli kvadratnega korena x (za intervale blizu x). Ta hipoteza se na splošno domneva, da je pravilna. Najenostavnejša predpostavka je, da praštevilke brez utemeljenega razloga ne bi smele imeti večjih nepravilnosti.
+
+Beam Outputs:
+1: Kako se imenuje hipoteza v grobem?
+2: Kako se imenuje hipoteza, ki se nanaša na splošno?
+3: Kako se imenuje hipoteza, ki se nanaša na splošno v grobem?
+4: Kako se imenuje hipoteza, ki se nanaša na splošno v zvezi z praštevilkami?
+5: Kako se imenuje hipoteza, ki se nanaša na splošno v zvezi z praštevilki?
+
+Sampling Outputs:
+1: Zakaj so številke zlitine včasih vključene v razmerje med številkami in številkami?
+2: Katere hipoteze verjamejo, da se številki niso v zvezi s prebivalstvom, ki so bili v zvezi z višjim prispevkom glede na kaj?
+3: Na splošno, kaj v grobem navaja Riemanjeva hipoteza?
+4: Kaj je Darwin verjel, da je vplivala na razmerje s praštevilkami?
+5: Kdo je bil utemeljen na hipotezo Riemannove hipoteze v 1861?
+-------------------------------------------
+Paragraph: Dolgo časa je bila teorija števil na splošno in preučevanje praštevil zlasti videti kot kanonični primer čiste matematike, brez uporabe zunaj lastnega interesa preučevanja teme, razen uporabe praštevilskih zobnikov za enakomerno porazdelitev obrabe. Zlasti številčni teoretiki, kot je britanski matematik G. H. Hardy, so se ponosni na delo, ki ni imelo nobenega vojaškega pomena. Vendar pa je bila ta vizija uničena v sedemdesetih letih prejšnjega stoletja, ko je bilo javno objavljeno, da se praštevila lahko uporabijo kot osnova za ustvarjanje algoritmov za kriptografijo javnih ključev. Prime številke se uporabljajo tudi za hash tabele in psevdorandom števil generatorjev.
+
+Beam Outputs:
+1: Kako je bilo ime teorije števil, ki se je zgodilo v katerih letih?
+2: Kako je bilo ime teorije števil, ki se uporablja za ustvarjanje računalnikov?
+3: Kako je bilo ime teorije števil, ki se uporablja za ustvarjanje algoritmov?
+4: Kako je bilo ime teorije števil, ki se je uporabljala za ustvarjanje računalnikov?
+5: Kako je bilo ime teorije števil, ki se je uporabljala za ustvarjanje računalnika?
+
+Sampling Outputs:
+1: Zakaj je znano, da je Darwin uporabljal številke za analizo in pregledovanje?
+2: Kaj je bilo prvotno objavljeno v zgodovini?
+3: Kakšno stanje je bilo v zvezi z napredkom?
+4: Zakaj je imel splošno število za splošno?
+5: Zakaj so teorije številnih teorij vplivale na to?
+-------------------------------------------
+Paragraph: Dolgo časa je bila teorija števil na splošno in preučevanje praštevil zlasti videti kot kanonični primer čiste matematike, brez uporabe zunaj lastnega interesa preučevanja teme, razen uporabe praštevilskih zobnikov za enakomerno porazdelitev obrabe. Zlasti številčni teoretiki, kot je britanski matematik G. H. Hardy, so se ponosni na delo, ki ni imelo nobenega vojaškega pomena. Vendar pa je bila ta vizija uničena v sedemdesetih letih prejšnjega stoletja, ko je bilo javno objavljeno, da se praštevila lahko uporabijo kot osnova za ustvarjanje algoritmov za kriptografijo javnih ključev. Prime številke se uporabljajo tudi za hash tabele in psevdorandom števil generatorjev.
+
+Beam Outputs:
+1: Kako je bilo ime teorije števil, ki se je zgodilo v katerih letih?
+2: Kako je bilo ime teorije števil, ki se uporablja za ustvarjanje računalnikov?
+3: Kako je bilo ime teorije števil, ki se uporablja za ustvarjanje algoritmov?
+4: Kako je bilo ime teorije števil, ki se je uporabljala za ustvarjanje računalnikov?
+5: Kako je bilo ime teorije števil, ki se je uporabljala za ustvarjanje računalnika?
+
+Sampling Outputs:
+1: Zakaj je Darwin menil, da je teorija števil, ki ga je uporabil G. H. Hardy, uporabljena kot osnovo?
+2: Katera je bila prva vizija, ki je sestavljena iz uporabe preštevilskih sodobnih algoritmov?
+3: Kaj je bil vpliv splošnega matematičnega razvoja na prepričanje v času za splošne teorije matematike v 20. stoletju?
+4: Kaj je bila spoznana kot kaj?
+5: Kaj je bil primer števila?
+-------------------------------------------
+Paragraph: Ren (Rimljansko: Rein, nemščina: Rhein, francoščina: le Rhin, nizozemščina: Rijn) je evropska reka, ki se začne v švicarskem kantonu Graubünden v jugovzhodnih švicarskih Alpah, je del švicarsko-avstrijsko-liektenštajnske meje, švicarsko-nemške in nato francosko-nemške meje, nato teče skozi Porenje in se sčasoma izprazni v Severno morje na Nizozemskem. Največje mesto na reki Renu je Köln, Nemčija z več kot 1.050.000 prebivalci. To je druga najdaljša reka v srednji in zahodni Evropi (za Donavo), približno 1 230 km,[opomba 2][opomba 1] s povprečnim izpustom približno 2 900 m³/s.
+
+Beam Outputs:
+1: Kakšna je najdaljša reka v srednji Evropi?
+2: Kakšna je največja reka v srednji Evropi?
+3: Kakšna je najvišja reka v srednji Evropi?
+4: Kakšna je najdaljša reka v Evropi?
+5: Kakšna je največja reka v Evropi?
+
+Sampling Outputs:
+1: Kakšno je razmerje med evropskimi in jugovzhodnimi državami v srednjem in zahodni Evropi?
+2: Kaj se imenuje evropska reka na otoku?
+3: Zakaj se reke Ren zmanjša?
+4: Na katerih območjih v srednji Evropi so bile urejene vzhodnoameriške meje?
+5: Kako je Ren letališče?
+-------------------------------------------
+Paragraph: Ren (Rimljansko: Rein, nemščina: Rhein, francoščina: le Rhin, nizozemščina: Rijn) je evropska reka, ki se začne v švicarskem kantonu Graubünden v jugovzhodnih švicarskih Alpah, je del švicarsko-avstrijsko-liektenštajnske meje, švicarsko-nemške in nato francosko-nemške meje, nato teče skozi Porenje in se sčasoma izprazni v Severno morje na Nizozemskem. Največje mesto na reki Renu je Köln, Nemčija z več kot 1.050.000 prebivalci. To je druga najdaljša reka v srednji in zahodni Evropi (za Donavo), približno 1 230 km,[opomba 2][opomba 1] s povprečnim izpustom približno 2 900 m³/s.
+
+Beam Outputs:
+1: Kakšna je najdaljša reka v srednji Evropi?
+2: Kakšna je največja reka v srednji Evropi?
+3: Kakšna je najvišja reka v srednji Evropi?
+4: Kakšna je najdaljša reka v Evropi?
+5: Kakšna je največja reka v Evropi?
+
+Sampling Outputs:
+1: Kateri dve jezikih je naredi reka, ki jo je naredila skozi reko?
+2: Na kateri območju je mesto v Nemčiji?
+3: Kakšna je največja reka v ZDA na otoku?
+4: Kakšen je bil povprečni izpust v Severni Evropi?
+5: Kakšne so glavne lokacije otoka Ren?
+-------------------------------------------
+Paragraph: V središču Basla, prvega večjega mesta v teku potoka, se nahaja „koleno rena“; to je velik ovinek, kjer se celotna smer Rena spreminja od zahoda proti severu. Tu se Visoki Ren konča. S pravnega vidika je osrednji most meja med Visokim in Zgornjim Renom. Reka zdaj teče severno kot Zgornji Ren skozi nižino Zgornjega Rena, ki je dolga približno 300 km in široka do 40 km. Najpomembnejši pritoki na tem področju so Ill spodaj v Strasbourgu, Neckar v Mannheimu in Mainz nasproti Mainza. V Mainzu Ren zapusti Zgornjo dolino Rena in teče skozi kotlino Mainz.
+
+Beam Outputs:
+1: Kako se imenuje osrednji most v Zgornjem Renu?
+2: Kako se imenuje ovinek, ki se nahaja v Strasbourgu?
+3: Kako se imenuje prvi most v Zgornjem Renu?
+4: Kako se imenuje osrednji most, ki se nahaja v Strasbourgu?
+5: Kako se imenuje ovinek, ki se nahaja v središču mesta?
+
+Sampling Outputs:
+1: Kaj je glavni pritok zgornjega Rena, ki se nahaja na jugu?
+2: Kakšen je vzdevek v tem področju?
+3: Kaj je bila prva reka v Zgornjih Renah?
+4: Kaj se imenuje splošno ime za „koleja Rena“?
+5: Kdaj je reke skozi Zgornji Ren?
+-------------------------------------------
+Paragraph: V središču Basla, prvega večjega mesta v teku potoka, se nahaja „koleno rena“; to je velik ovinek, kjer se celotna smer Rena spreminja od zahoda proti severu. Tu se Visoki Ren konča. S pravnega vidika je osrednji most meja med Visokim in Zgornjim Renom. Reka zdaj teče severno kot Zgornji Ren skozi nižino Zgornjega Rena, ki je dolga približno 300 km in široka do 40 km. Najpomembnejši pritoki na tem področju so Ill spodaj v Strasbourgu, Neckar v Mannheimu in Mainz nasproti Mainza. V Mainzu Ren zapusti Zgornjo dolino Rena in teče skozi kotlino Mainz.
+
+Beam Outputs:
+1: Kako se imenuje osrednji most v Zgornjem Renu?
+2: Kako se imenuje ovinek, ki se nahaja v Strasbourgu?
+3: Kako se imenuje prvi most v Zgornjem Renu?
+4: Kako se imenuje osrednji most, ki se nahaja v Strasbourgu?
+5: Kako se imenuje ovinek, ki se nahaja v središču mesta?
+
+Sampling Outputs:
+1: Katere so najdaljše otoke na Zgornjih Renih?
+2: Kako je bilo ime „kolore“
+3: Kakšno je ime za območje Zgornega Rena?
+4: V katerih dveh območjih se nahaja „koletje Rena“?
+5: Kaj je Velika cesta skozi katere meje?
+-------------------------------------------
+Paragraph: Kot član škotskega parlamentarnega korporativnega organa je predsedujoči odgovoren za zagotavljanje, da Parlament deluje učinkovito ter da ima osebje, premoženje in vire, ki jih potrebuje za delovanje. Sklic parlamentarnega predsedstva, ki dodeljuje čas in določa delovni dnevni red v sejni dvorani, je še ena od vlog predsedujočega. Predsedstvo v skladu s poslovnikom Parlamenta sestavljajo predsedujoči in po en predstavnik iz vsake politične stranke s petimi ali več sedeži v Parlamentu. Med nalogami predsedstva so tudi dogovor o časovnem razporedu dela v sejni dvorani, določitev števila, pristojnosti in članstva parlamentarnih odborov ter urejanje sprejemanja zakonodaje (računov) prek Parlamenta. Predsedujoči predstavlja tudi škotski parlament doma in v tujini na uradni dolžnosti.
+
+Beam Outputs:
+1: Kaj je glavna funkcija predsedstva?
+2: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamenta?
+3: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarne uprave?
+4: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarnega prava?
+5: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarnega urada?
+
+Sampling Outputs:
+1: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti v parlamentu?
+2: Kaj so predsedniki na voljo za predsedovanje?
+3: Kaj je predsedovanje Parlamenta?
+4: Kdo predseduje škotski parlament?
+5: Kakšen je dogovor predsedstva v Parlamentu?
+-------------------------------------------
+Paragraph: Kot član škotskega parlamentarnega korporativnega organa je predsedujoči odgovoren za zagotavljanje, da Parlament deluje učinkovito ter da ima osebje, premoženje in vire, ki jih potrebuje za delovanje. Sklic parlamentarnega predsedstva, ki dodeljuje čas in določa delovni dnevni red v sejni dvorani, je še ena od vlog predsedujočega. Predsedstvo v skladu s poslovnikom Parlamenta sestavljajo predsedujoči in po en predstavnik iz vsake politične stranke s petimi ali več sedeži v Parlamentu. Med nalogami predsedstva so tudi dogovor o časovnem razporedu dela v sejni dvorani, določitev števila, pristojnosti in članstva parlamentarnih odborov ter urejanje sprejemanja zakonodaje (računov) prek Parlamenta. Predsedujoči predstavlja tudi škotski parlament doma in v tujini na uradni dolžnosti.
+
+Beam Outputs:
+1: Kaj je glavna funkcija predsedstva?
+2: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamenta?
+3: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarne uprave?
+4: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarnega prava?
+5: Kaj je predsedujoči odgovoren za zagotavljanje učinkovitosti parlamentarnega urada?
+
+Sampling Outputs:
+1: Kaj predsednik predsedstva določi za uradne pravice v Parlamentu?
+2: Kaj je še ena oblika poslanstva predsednika?
+3: Na čem je predsednik predsedstva odgovoren?
+4: Kaj je ena od nalog predsedstva?
+5: Kako je bil predsedujoči nadzoroval Parlament?
+-------------------------------------------
+Paragraph: V polkrožni dvorani škotskega parlamenta je bil sedež organiziran v polkrožni dvorani, kar odraža željo po spodbujanju soglasja med izvoljenimi poslanci. V dvorani za razpravo je 131 sedežev. Od skupno 131 sedežev jih 129 zasedajo izvoljeni PPN v parlamentu, 2 pa za škotske odvetniške uradnike – Lord Advocate in Solicitor za Škotsko, ki niso izvoljeni člani parlamenta, ampak so člani škotske vlade. Odvetniški uradniki se lahko udeležijo plenarnih zasedanj parlamenta in govorijo na njih, vendar ne morejo glasovati, ker niso izvoljeni za PPN. Člani lahko sedijo kjer koli v dvorani za razpravo, običajno pa sedijo v skupinah za stranke. Prvi minister, škotski ministri kabineta in pravniki sedijo v prvi vrsti, v srednjem delu dvorane. Največja stranka v parlamentu sedi sredi polkroga z nasprotnimi strankami na obeh straneh. Predsedujoči, parlamentarni uradniki in uradniki sedijo nasproti članom na sprednji strani dvorane za razpravo.
+
+Beam Outputs:
+1: Kako se imenuje sedež škotskega parlamenta?
+2: Kako se imenuje sedež v polkrožni dvorani?
+3: Kdo se je udeležil plenarnih zasedanj parlamenta?
+4: Kdo se je udeležil plenarnih zasedanj?
+5: Kako se imenuje sedež v parlamentu?
+
+Sampling Outputs:
+1: Za kaj so uradniki izvoljeni?
+2: Kaj je mogoče zagotoviti, če predsednik izvoljen na parlament, da bo imel nagrado predsednika, ki je zagotovil več glasovanja na volitvah?
+3: Kako so člani škotskega parlamenta?
+4: Katere vrste članov se uporabljajo za usmrtitev?
+5: Katere organizacije imajo splošno nadzor nad škotsko politično stranko
+-------------------------------------------
+Paragraph: V polkrožni dvorani škotskega parlamenta je bil sedež organiziran v polkrožni dvorani, kar odraža željo po spodbujanju soglasja med izvoljenimi poslanci. V dvorani za razpravo je 131 sedežev. Od skupno 131 sedežev jih 129 zasedajo izvoljeni PPN v parlamentu, 2 pa za škotske odvetniške uradnike – Lord Advocate in Solicitor za Škotsko, ki niso izvoljeni člani parlamenta, ampak so člani škotske vlade. Odvetniški uradniki se lahko udeležijo plenarnih zasedanj parlamenta in govorijo na njih, vendar ne morejo glasovati, ker niso izvoljeni za PPN. Člani lahko sedijo kjer koli v dvorani za razpravo, običajno pa sedijo v skupinah za stranke. Prvi minister, škotski ministri kabineta in pravniki sedijo v prvi vrsti, v srednjem delu dvorane. Največja stranka v parlamentu sedi sredi polkroga z nasprotnimi strankami na obeh straneh. Predsedujoči, parlamentarni uradniki in uradniki sedijo nasproti članom na sprednji strani dvorane za razpravo.
+
+Beam Outputs:
+1: Kako se imenuje sedež škotskega parlamenta?
+2: Kako se imenuje sedež v polkrožni dvorani?
+3: Kdo se je udeležil plenarnih zasedanj parlamenta?
+4: Kdo se je udeležil plenarnih zasedanj?
+5: Kako se imenuje sedež v parlamentu?
+
+Sampling Outputs:
+1: Kdo se lahko udeleži plenarnih zasedanjih v parlamentu?
+2: Kaj je glavna stvar, ki se je zgodila med predsedniško in predsedniško volitvijo?
+3: Kateri člani se nahaja na katerih sedežev?
+4: Kaj je največje v Parlamentu?
+5: Katera so štiri vrste članov parlamenta v parlamentu?
+-------------------------------------------
+Paragraph: Ti napadi so odmevali s konzervativnimi muslimani in tudi problem ni izginil s Sadamovim porazom, saj so ameriške čete ostale nameščene v kraljestvu in se je razvilo dejansko sodelovanje s palestinsko-izraelskim mirovnim procesom. Saudova Arabija je poskušala nadomestiti izgubo ugleda med temi skupinami z zatiranjem tistih domačih islamistov, ki so jo napadli (glavni primer je bil Bin Laden), in povečanjem pomoči islamskim skupinam (Islamistične medrese po svetu in celo pomoč nekaterim nasilnim islamističnim skupinam), ki jih niso, vendar je bil njen predvojni vpliv v imenu zmernosti močno zmanjšan. Eden od rezultatov tega je bila kampanja napadov na vladne uradnike in turiste v Egiptu, krvava državljanska vojna v Alžiriji in teroristični napadi Osame bin Ladna, ki so dosegli vrhunec v napadu 11. septembra.
+
+Beam Outputs:
+1: Kakšen je bil rezultat vojne v Alžiriji?
+2: Kakšen je bil rezultat vojne v Alžiriji leta 2011?
+3: Kakšen je bil rezultat vojne v Alžiriji?
+4: Kakšen je bil rezultat vojne v Alžiriji
+5: Kakšen je bil rezultat vojne v Alziji?
+
+Sampling Outputs:
+1: Na katerih razlogih se je uvrstila vloga Saudove Arabije v imenu zmernosti?
+2: Katere druge stvari so vplivale na Sadamovim porzom v Egiptu?
+3: Katere so bile glavne odločitve za usmrtitev v Egiptu?
+4: Kateri so bili največji rezultati za razvoj v Libiji?
+5: Kakšni so bili rezultati, ki so jih vplivali na Egipt?
+-------------------------------------------
+Paragraph: Ti napadi so odmevali s konzervativnimi muslimani in tudi problem ni izginil s Sadamovim porazom, saj so ameriške čete ostale nameščene v kraljestvu in se je razvilo dejansko sodelovanje s palestinsko-izraelskim mirovnim procesom. Saudova Arabija je poskušala nadomestiti izgubo ugleda med temi skupinami z zatiranjem tistih domačih islamistov, ki so jo napadli (glavni primer je bil Bin Laden), in povečanjem pomoči islamskim skupinam (Islamistične medrese po svetu in celo pomoč nekaterim nasilnim islamističnim skupinam), ki jih niso, vendar je bil njen predvojni vpliv v imenu zmernosti močno zmanjšan. Eden od rezultatov tega je bila kampanja napadov na vladne uradnike in turiste v Egiptu, krvava državljanska vojna v Alžiriji in teroristični napadi Osame bin Ladna, ki so dosegli vrhunec v napadu 11. septembra.
+
+Beam Outputs:
+1: Kakšen je bil rezultat vojne v Alžiriji?
+2: Kakšen je bil rezultat vojne v Alžiriji leta 2011?
+3: Kakšen je bil rezultat vojne v Alžiriji?
+4: Kakšen je bil rezultat vojne v Alžiriji
+5: Kakšen je bil rezultat vojne v Alziji?
+
+Sampling Outputs:
+1: Kaj je naredila Saudova Arabija?
+2: Kaj so bili rezultati za vojno?
+3: Kaj je bila razlog za zmanjšanje ugleda med islamskimi skupinami?
+4: Kakšen je bil rezultat sodobnih političnih razmer?
+5: Koliko ljudi je bilo uvrstitev v zahodnoevropsko trgovino?
+-------------------------------------------
+Paragraph: Ti napadi so odmevali s konzervativnimi muslimani in tudi problem ni izginil s Sadamovim porazom, saj so ameriške čete ostale nameščene v kraljestvu in se je razvilo dejansko sodelovanje s palestinsko-izraelskim mirovnim procesom. Saudova Arabija je poskušala nadomestiti izgubo ugleda med temi skupinami z zatiranjem tistih domačih islamistov, ki so jo napadli (glavni primer je bil Bin Laden), in povečanjem pomoči islamskim skupinam (Islamistične medrese po svetu in celo pomoč nekaterim nasilnim islamističnim skupinam), ki jih niso, vendar je bil njen predvojni vpliv v imenu zmernosti močno zmanjšan. Eden od rezultatov tega je bila kampanja napadov na vladne uradnike in turiste v Egiptu, krvava državljanska vojna v Alžiriji in teroristični napadi Osame bin Ladna, ki so dosegli vrhunec v napadu 11. septembra.
+
+Beam Outputs:
+1: Kakšen je bil rezultat vojne v Alžiriji?
+2: Kakšen je bil rezultat vojne v Alžiriji leta 2011?
+3: Kakšen je bil rezultat vojne v Alžiriji?
+4: Kakšen je bil rezultat vojne v Alžiriji
+5: Kakšen je bil rezultat vojne v Alziji?
+
+Sampling Outputs:
+1: Zakaj so bile številne številne skupine v Libiji zmanjšane zaradi razvoja?
+2: Kaj je Burke želel spremeniti v imenu Združenih držav?
+3: Kdaj je bil Sudan uspešn v boju z vojno?
+4: Kako je bilo navedeno, da je bila navedena vojna v Alžiriji in Egiptu?
+5: Zakaj so se nekateri muslimani vzeli v Egipt?
+-------------------------------------------
+Paragraph: Ti napadi so odmevali s konzervativnimi muslimani in tudi problem ni izginil s Sadamovim porazom, saj so ameriške čete ostale nameščene v kraljestvu in se je razvilo dejansko sodelovanje s palestinsko-izraelskim mirovnim procesom. Saudova Arabija je poskušala nadomestiti izgubo ugleda med temi skupinami z zatiranjem tistih domačih islamistov, ki so jo napadli (glavni primer je bil Bin Laden), in povečanjem pomoči islamskim skupinam (Islamistične medrese po svetu in celo pomoč nekaterim nasilnim islamističnim skupinam), ki jih niso, vendar je bil njen predvojni vpliv v imenu zmernosti močno zmanjšan. Eden od rezultatov tega je bila kampanja napadov na vladne uradnike in turiste v Egiptu, krvava državljanska vojna v Alžiriji in teroristični napadi Osame bin Ladna, ki so dosegli vrhunec v napadu 11. septembra.
+
+Beam Outputs:
+1: Kakšen je bil rezultat vojne v Alžiriji?
+2: Kakšen je bil rezultat vojne v Alžiriji leta 2011?
+3: Kakšen je bil rezultat vojne v Alžiriji?
+4: Kakšen je bil rezultat vojne v Alžiriji
+5: Kakšen je bil rezultat vojne v Alziji?
+
+Sampling Outputs:
+1: Kaj je Egipt pomagal zmanjšali za svoje nasilniške sile v Egiptu?
+2: Kakšen je bil rezultat vojne, ki je bilo zagotovljeno v Libiji?
+3: Kaj je bilo vključeno v dogovor za pomoč?
+4: Zakaj so se zanašale ameriške čete na Egipt?
+5: Kakšen je primer razlike med izraelsko in arabsko vojno?
+-------------------------------------------
+Paragraph: Ti napadi so odmevali s konzervativnimi muslimani in tudi problem ni izginil s Sadamovim porazom, saj so ameriške čete ostale nameščene v kraljestvu in se je razvilo dejansko sodelovanje s palestinsko-izraelskim mirovnim procesom. Saudova Arabija je poskušala nadomestiti izgubo ugleda med temi skupinami z zatiranjem tistih domačih islamistov, ki so jo napadli (glavni primer je bil Bin Laden), in povečanjem pomoči islamskim skupinam (Islamistične medrese po svetu in celo pomoč nekaterim nasilnim islamističnim skupinam), ki jih niso, vendar je bil njen predvojni vpliv v imenu zmernosti močno zmanjšan. Eden od rezultatov tega je bila kampanja napadov na vladne uradnike in turiste v Egiptu, krvava državljanska vojna v Alžiriji in teroristični napadi Osame bin Ladna, ki so dosegli vrhunec v napadu 11. septembra.
+
+Beam Outputs:
+1: Kakšen je bil rezultat vojne v Alžiriji?
+2: Kakšen je bil rezultat vojne v Alžiriji leta 2011?
+3: Kakšen je bil rezultat vojne v Alžiriji?
+4: Kakšen je bil rezultat vojne v Alžiriji
+5: Kakšen je bil rezultat vojne v Alziji?
+
+Sampling Outputs:
+1: Kje so se naučili temelji iz razsvetljenstva?
+2: Kako je bil Sadamovi ugled zmanjšan?
+3: Kakšne so bile glavne rešitve za razvoj ugleda med islamsko vojno?
+4: Kaj so bili prvotni rezultati sreče s vojaškimi uradniki, ki so jih napadli?
+5: Kakšno so učinke Saddamovih napadov, ki so jih povzročile, da se je ZDA razvrstila za vojno proti Iranu?
+-------------------------------------------
+Paragraph: Medtem ko so Qutbove ideje postajale vse bolj radikalne med njegovo zaporno kaznijo pred njegovo usmrtitvijo leta 1966, je vodstvo Bratstva pod vodstvom Hasan al-Hudaybija ostalo zmerno in se zanimalo za politična pogajanja in aktivizem. Obrobna ali drobna gibanja, ki so jih navdihnili zadnji Qutbovi zapisi sredi šestdesetih let prejšnjega stoletja (zlasti manifesto Milestones, alias Ma’alim fi-l-Tariq), so se razvila in sledila radikalnejši smeri. V sedemdesetih letih prejšnjega stoletja se je bratovščina odpovedala nasilju kot sredstvo za doseganje svojih ciljev.
+
+Beam Outputs:
+1: Kako se je vodstvo Qutbove ideje razvilo?
+2: Kako se je zgodovina Qutbove ideje razvila?
+3: Kako se je vodstvo Qutbove ideje razvilo v stoletju?
+4: Kako se je vodstvo Qutbove ideje spremenilo?
+5: Kako se je vodstvo Qutbove ideje razvilo v zgodovini?
+
+Sampling Outputs:
+1: Zakaj so razlike med Qutbami ostala zmerne?
+2: Kaj je razlog za vključitev Qutbov v razvoj?
+3: Na katerih področjih je bila ustanovljena vplivna družba?
+4: Kaj se je zgodilo z ustanovitvijo otoka Qutb?
+5: Zakaj so ženske zapustile mesto?
+-------------------------------------------
+Paragraph: Načela imperializma so pogosto posplošena za politike in prakse britanskega imperija „v zadnji generaciji in se nadaljujejo po diagnozi in ne po zgodovinskem opisu“. Britanski imperializem je pogosto uporabljal pojem Terra nullius (latinski izraz, ki izhaja iz rimskega prava in pomeni „prazna dežela“). Država Avstralija služi kot študija primera v zvezi z britansko naselbino in kolonialno vladavino celine v osemnajstem stoletju, saj je bila postavljena na terra nullius, njeni naseljenci pa so menili, da je neuporabljena s svojimi redkimi Aboriginal prebivalci.
+
+Beam Outputs:
+1: Kako se imenuje država Avstralije v osemnajstem stoletju?
+2: Kako se imenuje država Avstralije?
+3: Kako se imenuje država Avstralije, ki je uporabila pojem Terra nullius?
+4: Kako se imenuje država Avstralije v osemnajstem stoletju
+5: Kako se imenuje država Avstralije
+
+Sampling Outputs:
+1: Kaj je vplival na vprašanje o tem, kakšen je bil namen načelnega kraljestva v osemnajstem stoletju?
+2: Kateri drugi deli niso bili uporabljeni za študijo, kaj je bil opisan po zgodovini?
+3: Kakšne prakse so uporabljali britanski imperialisti v osemdesetih letih prejšnjega stoletja?
+4: Zakaj se v čem nanaša na vprašanje, ki jo verjamejo v zgodovini, ki je pogosto navedena v zadnji generaciji?
+5: Kaj je Darwin uporabil za opis primera, ki ga je napisal Victoria?
+-------------------------------------------
+Paragraph: Načela imperializma so pogosto posplošena za politike in prakse britanskega imperija „v zadnji generaciji in se nadaljujejo po diagnozi in ne po zgodovinskem opisu“. Britanski imperializem je pogosto uporabljal pojem Terra nullius (latinski izraz, ki izhaja iz rimskega prava in pomeni „prazna dežela“). Država Avstralija služi kot študija primera v zvezi z britansko naselbino in kolonialno vladavino celine v osemnajstem stoletju, saj je bila postavljena na terra nullius, njeni naseljenci pa so menili, da je neuporabljena s svojimi redkimi Aboriginal prebivalci.
+
+Beam Outputs:
+1: Kako se imenuje država Avstralije v osemnajstem stoletju?
+2: Kako se imenuje država Avstralije?
+3: Kako se imenuje država Avstralije, ki je uporabila pojem Terra nullius?
+4: Kako se imenuje država Avstralije v osemnajstem stoletju
+5: Kako se imenuje država Avstralije
+
+Sampling Outputs:
+1: Kateri dogodek se je zgodil z Avstralijo, ko se je pridružila Britanski cerkvi?
+2: Kako je bila ustanovljena vlada Avstralije?
+3: Kaj je vplivalo na zgodovino?
+4: Na katero vprašanje je Avstralija uporabila pojem Terra nullius?
+5: Na kaj se je nanašala Avstralija?
+-------------------------------------------
+Paragraph: Načela imperializma so pogosto posplošena za politike in prakse britanskega imperija „v zadnji generaciji in se nadaljujejo po diagnozi in ne po zgodovinskem opisu“. Britanski imperializem je pogosto uporabljal pojem Terra nullius (latinski izraz, ki izhaja iz rimskega prava in pomeni „prazna dežela“). Država Avstralija služi kot študija primera v zvezi z britansko naselbino in kolonialno vladavino celine v osemnajstem stoletju, saj je bila postavljena na terra nullius, njeni naseljenci pa so menili, da je neuporabljena s svojimi redkimi Aboriginal prebivalci.
+
+Beam Outputs:
+1: Kako se imenuje država Avstralije v osemnajstem stoletju?
+2: Kako se imenuje država Avstralije?
+3: Kako se imenuje država Avstralije, ki je uporabila pojem Terra nullius?
+4: Kako se imenuje država Avstralije v osemnajstem stoletju
+5: Kako se imenuje država Avstralije
+
+Sampling Outputs:
+1: Kateri izraz so se uporabili v Avstraliji, da bi omogočili izboljšati stanje v zvezi z njim?
+2: Kaj je bilo načelo s strani države Avstralije v zgodnjem stoletju?
+3: Kateri so primeri izjema, ki niso mogoče izključiti v zgodovini, tudi kateri so bili njihovi razlogi?
+4: Kaj so britanski vladarji uvedli z uradno razglasitvijo?
+5: Kaj pomeni „prazna dežela“ v zadnji generaciji?
+-------------------------------------------
+Paragraph: Načela imperializma so pogosto posplošena za politike in prakse britanskega imperija „v zadnji generaciji in se nadaljujejo po diagnozi in ne po zgodovinskem opisu“. Britanski imperializem je pogosto uporabljal pojem Terra nullius (latinski izraz, ki izhaja iz rimskega prava in pomeni „prazna dežela“). Država Avstralija služi kot študija primera v zvezi z britansko naselbino in kolonialno vladavino celine v osemnajstem stoletju, saj je bila postavljena na terra nullius, njeni naseljenci pa so menili, da je neuporabljena s svojimi redkimi Aboriginal prebivalci.
+
+Beam Outputs:
+1: Kako se imenuje država Avstralije v osemnajstem stoletju?
+2: Kako se imenuje država Avstralije?
+3: Kako se imenuje država Avstralije, ki je uporabila pojem Terra nullius?
+4: Kako se imenuje država Avstralije v osemnajstem stoletju
+5: Kako se imenuje država Avstralije
+
+Sampling Outputs:
+1: Kdaj je bila Avstralija postavljena na Terra Nullius?
+2: Kateri izraz se uporablja v razvoju zgodovinskih razmer v času apartheida?
+3: Zakaj je uradna zgodovina v Avstraliji prikazana kot „v zadnji generaciji“?
+4: Katera država je uporabila pojem „praznica“ v osemnajstem stoletju?
+5: Kaj je bil Darwinovo razmišljanje za ozemlje Victoria?
+-------------------------------------------
+Paragraph: Načela imperializma so pogosto posplošena za politike in prakse britanskega imperija „v zadnji generaciji in se nadaljujejo po diagnozi in ne po zgodovinskem opisu“. Britanski imperializem je pogosto uporabljal pojem Terra nullius (latinski izraz, ki izhaja iz rimskega prava in pomeni „prazna dežela“). Država Avstralija služi kot študija primera v zvezi z britansko naselbino in kolonialno vladavino celine v osemnajstem stoletju, saj je bila postavljena na terra nullius, njeni naseljenci pa so menili, da je neuporabljena s svojimi redkimi Aboriginal prebivalci.
+
+Beam Outputs:
+1: Kako se imenuje država Avstralije v osemnajstem stoletju?
+2: Kako se imenuje država Avstralije?
+3: Kako se imenuje država Avstralije, ki je uporabila pojem Terra nullius?
+4: Kako se imenuje država Avstralije v osemnajstem stoletju
+5: Kako se imenuje država Avstralije
+
+Sampling Outputs:
+1: Kateri odnosi so omenjeni kot splošni?
+2: V katerem stoletju je bila narejena zgodovina o plemenskih obredih v Avstraliji?
+3: Kaj so bili navedeni zaradi načel plemena o migraciji, ki jih je Darwin kritiziral v osemdesetih letih prejšnjega stoletja?
+4: Kaj je najbolj pogosto opisana vprašanja o britanskih zgodovinskih načelih
+5: Kaj je bilo včasih opazno v Britanskem imperiju?
+-------------------------------------------
+Paragraph: Orientalizem, kot ga je teoretiziral Edward Said, se nanaša na to, kako je Zahod razvil domiselno geografijo vzhoda. Ta domiselna geografija temelji na esencialnem diskurzu, ki ne predstavlja ne raznolikosti ne družbene realnosti Vzhoda. Z esencializacijo vzhoda ta diskurz uporablja idejo krajevnih identitet, da ustvari razliko in razdaljo med „mi“ Zahodom in „tem“ vzhodom, ali „tukaj“ na zahodu in „obstaja“ na vzhodu. Ta razlika je bila še posebej očitna v besedilnih in vizualnih delih zgodnjih evropskih študij Orienta, ki so postavile vzhod kot nerazumno in nazaj v nasprotju z racionalnim in progresivnim Zahodom. Opredelitev Vzhoda kot negativne vizije samega sebe, kot njegovega slabšega, ni le povečala občutek Zahoda za sebe, ampak je bila tudi način, kako naročiti vzhod in ga seznaniti Zahodu, da bi ga lahko dominirali in nadzirali. Diskurz orientalizma je torej služil kot ideološka utemeljitev zgodnjega zahodnega imperializma, saj je oblikoval telo znanja in idej, ki so racionalizirale družbeni, kulturni, politični in gospodarski nadzor drugih ozemelj.
+
+Beam Outputs:
+1: Kakšen je bil razlog, da je vzhod vplival na kaj?
+2: Kakšen je bil razlog, da je vzhod vplival na raznolikost?
+3: Kakšen je bil razlog, da je vzhod vplival na zahod?
+4: Kakšen je bil razlog, da je vzhod vplival na zahodni svet?
+5: Kakšen je bil razlog, da je vzhod vplival na raznolikost zahodnih držav?
+
+Sampling Outputs:
+1: Kaj se je zgodilo s tem, da so se učenjaki vzhodnega sveta razmislili o čem?
+2: Kaj je zahod pomembno za razširitev vzhodnega gledališča?
+3: Kaj se je zgodilo z zahodnim Darwinom?
+4: Katera razlika je vplivala na raznolikost sodobnega Zahoda?
+5: Zakaj je Darwin uporabil svoje delo v zgodovini vzhodnega sveta?
+-------------------------------------------
+Paragraph: Francija je prevzela nadzor nad Alžirijo leta 1830, vendar je začela resno obnavljati svoj svetovni imperij po letu 1850, s poudarkom predvsem v severni in zahodni Afriki, pa tudi v jugovzhodni Aziji, z drugimi osvajanji v srednji in vzhodni Afriki ter v južnem Tihem oceanu. Republikanci, sprva sovražni do imperija, so postali podporniki šele, ko je Nemčija začela graditi svoj kolonialni imperij. Z razvojem je novo cesarstvo prevzelo vlogo trgovine s Francijo, dobavljalo surovine in kupovalo izdelke ter dajalo ugled domovini in širilo francosko civilizacijo in jezik ter katolištvo. Zagotovil je tudi ključno delovno silo v obeh svetovnih vojnah.
+
+Beam Outputs:
+1: Kdaj je Francija prevzela nadzor nad Alžirijo?
+2: Kdaj je Francija prevzela nadzor nad Alžirjo?
+3: Kdaj je Francija prevzela nadzor nad Alžirijo
+4: Kdaj je Francija začela obnavljati svoj imperij?
+5: Kdaj je Francija začela obnavljati svoj svetovni imperij
+
+Sampling Outputs:
+1: Kaj je Francija naredila med vojno?
+2: Kakšen je bil način nadzora na Alžirji?
+3: Kako so francoski vladarji vplivali na njihov odnos?
+4: Kaj je Francozi opazili v času kolonializma?
+5: Katere skupine so zahtevale evropske sile za ohranjanje prava?
+-------------------------------------------
+Paragraph: Francija je prevzela nadzor nad Alžirijo leta 1830, vendar je začela resno obnavljati svoj svetovni imperij po letu 1850, s poudarkom predvsem v severni in zahodni Afriki, pa tudi v jugovzhodni Aziji, z drugimi osvajanji v srednji in vzhodni Afriki ter v južnem Tihem oceanu. Republikanci, sprva sovražni do imperija, so postali podporniki šele, ko je Nemčija začela graditi svoj kolonialni imperij. Z razvojem je novo cesarstvo prevzelo vlogo trgovine s Francijo, dobavljalo surovine in kupovalo izdelke ter dajalo ugled domovini in širilo francosko civilizacijo in jezik ter katolištvo. Zagotovil je tudi ključno delovno silo v obeh svetovnih vojnah.
+
+Beam Outputs:
+1: Kdaj je Francija prevzela nadzor nad Alžirijo?
+2: Kdaj je Francija prevzela nadzor nad Alžirjo?
+3: Kdaj je Francija prevzela nadzor nad Alžirijo
+4: Kdaj je Francija začela obnavljati svoj imperij?
+5: Kdaj je Francija začela obnavljati svoj svetovni imperij
+
+Sampling Outputs:
+1: Kje se je začela pomembna gospodarska revolucija?
+2: Kako je Francija poskušal vstopiti v svojo vojno?
+3: Zakaj je Nemčija prepoznala svoje državljane, da bi njihove sile prispevale do reform?
+4: Kaj je bilo prvotno delo evropskega cesarstva?
+5: Katere države so se odločile v drugi sezoni vojne?
+-------------------------------------------
+Paragraph: Po nemški invaziji Poljske 1. septembra 1939 se je začela druga svetovna vojna, Varšava je bila zagovarjana do 27. septembra. Osrednja Poljska, vključno z Varšavo, je spadala pod oblast splošne vlade, nemške nacistične kolonialne uprave. Vse visokošolske ustanove so bile takoj zaprte in celotno judovsko prebivalstvo Varšave – več sto tisoč, približno 30 % mesta – se je preselilo v Varšavski geto. Mesto je postalo središče mestnega odpora nacistične vladavine v okupirani Evropi. Ko je ukaz izničil geto kot del Hitlerjeve „končne rešitve“ 19. aprila 1943, so judovski borci sprožili vstajo Varšavskega geta. Kljub močnemu premoženju in številčnosti je geto trajal skoraj mesec dni. Ko so se spopadi končali, so bili skoraj vsi preživeli pobiti, le nekaj jih je uspelo pobegniti ali skriti.
+
+Beam Outputs:
+1: Kdaj je bila Varšava zagovarjana?
+2: Kdaj je Varšava postala zagovarjana?
+3: Kdaj je Varšava zagovarjana?
+4: Kdaj je Varšava postala zagovorna?
+5: Kdaj je Varšava postala uradno zagovarjana?
+
+Sampling Outputs:
+1: Kakšno je bilo ime za Varšavo v času vojne, ko je bila vstaja v Poljsko?
+2: Kdaj je bilo mogoče ugotoviti, da je mogoče osvoboditi Varšavo?
+3: Kaj je povzročilo vstajo Varšave, da bo bila zapuščena od leta 1939
+4: Kaj je bilo vključenih v vojno?
+5: Kako dolgo je bila vojaška reforma za Varšavo?
+-------------------------------------------
+Paragraph: Po nemški invaziji Poljske 1. septembra 1939 se je začela druga svetovna vojna, Varšava je bila zagovarjana do 27. septembra. Osrednja Poljska, vključno z Varšavo, je spadala pod oblast splošne vlade, nemške nacistične kolonialne uprave. Vse visokošolske ustanove so bile takoj zaprte in celotno judovsko prebivalstvo Varšave – več sto tisoč, približno 30 % mesta – se je preselilo v Varšavski geto. Mesto je postalo središče mestnega odpora nacistične vladavine v okupirani Evropi. Ko je ukaz izničil geto kot del Hitlerjeve „končne rešitve“ 19. aprila 1943, so judovski borci sprožili vstajo Varšavskega geta. Kljub močnemu premoženju in številčnosti je geto trajal skoraj mesec dni. Ko so se spopadi končali, so bili skoraj vsi preživeli pobiti, le nekaj jih je uspelo pobegniti ali skriti.
+
+Beam Outputs:
+1: Kdaj je bila Varšava zagovarjana?
+2: Kdaj je Varšava postala zagovarjana?
+3: Kdaj je Varšava zagovarjana?
+4: Kdaj je Varšava postala zagovorna?
+5: Kdaj je Varšava postala uradno zagovarjana?
+
+Sampling Outputs:
+1: V katerem letu je bilo ustanovljeno Varšavsko podjetje?
+2: Kdaj je bila Varšava zagovarjana?
+3: Kako je Varšava postala zagovarjana?
+4: Kateri del je imel pogosto veliko Judov?
+5: Kaj je povzročilo smrt judovskih vojaških obredov?
+-------------------------------------------
+Paragraph: Do julija 1944 je bila Rdeča armada globoko na poljskem ozemlju in zasledovala Nemce proti Varšavi. Ker je bil Stalin sovražen do zamisli o neodvisni Poljski, je poljska vlada v izgnanstvu v Londonu ukazala podzemni domači vojski (AK), naj poskusi prevzeti nadzor nad Varšavo od Nemcev pred prihodom Rdeče armade. Tako se je 1. avgusta 1944, ko se je Rdeča armada približala mestu, začela vstaja v Varšavi. Oborožen boj, ki naj bi trajal 48 ur, je bil delno uspešen, vendar je trajal 63 dni. Sčasoma so bili vojaki domače vojske in civilisti, ki so jim pomagali, prisiljeni v kapitulacijo. Prepeljani so bili v taborišča PoW v Nemčiji, medtem ko je bilo celotno civilno prebivalstvo izgnano. Število smrtnih žrtev na Poljskem je ocenjeno na 150.000 do 200.000 ljudi.
+
+Beam Outputs:
+1: Kakšna je bila stopnja smrti na Poljskem?
+2: Kakšna je bila stopnja smrti v Varšavi?
+3: Kakšna je bila stopnja žrtev na Poljskem?
+4: Kdaj je bila vojna v Varšavi?
+5: Kdaj je bila vojna na Poljskem?
+
+Sampling Outputs:
+1: Zakaj je bila zgrajena vstaja v Varšavi?
+2: Kakšna je bila stopnja smrti, ko je Stalin postal na Poljskem?
+3: Katere stvari so bile na Poljskem v zgodnjem 20. stoletju?
+4: Kako se imenuje boj na Poljskem
+5: Kaj je bil rezultat zahodne vojne v Varšavi?
+-------------------------------------------
+Paragraph: Do julija 1944 je bila Rdeča armada globoko na poljskem ozemlju in zasledovala Nemce proti Varšavi. Ker je bil Stalin sovražen do zamisli o neodvisni Poljski, je poljska vlada v izgnanstvu v Londonu ukazala podzemni domači vojski (AK), naj poskusi prevzeti nadzor nad Varšavo od Nemcev pred prihodom Rdeče armade. Tako se je 1. avgusta 1944, ko se je Rdeča armada približala mestu, začela vstaja v Varšavi. Oborožen boj, ki naj bi trajal 48 ur, je bil delno uspešen, vendar je trajal 63 dni. Sčasoma so bili vojaki domače vojske in civilisti, ki so jim pomagali, prisiljeni v kapitulacijo. Prepeljani so bili v taborišča PoW v Nemčiji, medtem ko je bilo celotno civilno prebivalstvo izgnano. Število smrtnih žrtev na Poljskem je ocenjeno na 150.000 do 200.000 ljudi.
+
+Beam Outputs:
+1: Kakšna je bila stopnja smrti na Poljskem?
+2: Kakšna je bila stopnja smrti v Varšavi?
+3: Kakšna je bila stopnja žrtev na Poljskem?
+4: Kdaj je bila vojna v Varšavi?
+5: Kdaj je bila vojna na Poljskem?
+
+Sampling Outputs:
+1: Kaj je imela vstaja v Varšavi leta 1944?
+2: Kaj se je zgodilo z vojno proti Nemcem?
+3: Kakšna je bila smrt žrtev na Poljskem?
+4: Zakaj je Tito poskušal uveljaviti pogodbo o neodvisnosti v Poljski?
+5: Kakšen je bil naslov vstaja na Poljskem?
+-------------------------------------------
+Paragraph: Po drugi svetovni vojni, pod komunističnim režimom, ki so ga vzpostavili osvajajoči Sovjeti, se je začela kampanja „Bricks for Varšava“, v Varšavi pa so bili postavljeni veliki montažni stanovanjski projekti, da bi odpravili pomanjkanje stanovanj, skupaj z drugimi tipičnimi stavbami vzhodnega bloka, kot je palača kulture in znanosti, darilo Sovjetske zveze. Mesto je ponovno postalo glavno mesto Poljske in središče političnega in gospodarskega življenja v državi. Številne zgodovinske ulice, stavbe in cerkve so bile obnovljene v prvotni obliki. Leta 1980 je bilo zgodovinsko staro mestno jedro Varšave vpisano na Unescov seznam svetovne dediščine.
+
+Beam Outputs:
+1: Kako je Varšava postala glavno mesto Poljske?
+2: Kako je Varšava postala glavna mesto Poljske?
+3: Kako je Varšava postala glavno mesto Poljske
+4: Kako je Varšava postala glavna mesto Poljske
+5: Kako se je Varšava imenovala?
+
+Sampling Outputs:
+1: Kaj je bila najbolj sodobna stavba v Evropi leta 1980?
+2: Kakšen je bil razvoj vpliva na zgodovino Varšave v drugi svetovni vojni?
+3: V katerih letih je mesto ostala najbolj ohranjena v Sovjetski zvezi
+4: Kaj je bila narejena leta 1980?
+5: Kaj je bilo storjeno po vojni?
+-------------------------------------------
+Paragraph: Po drugi svetovni vojni, pod komunističnim režimom, ki so ga vzpostavili osvajajoči Sovjeti, se je začela kampanja „Bricks for Varšava“, v Varšavi pa so bili postavljeni veliki montažni stanovanjski projekti, da bi odpravili pomanjkanje stanovanj, skupaj z drugimi tipičnimi stavbami vzhodnega bloka, kot je palača kulture in znanosti, darilo Sovjetske zveze. Mesto je ponovno postalo glavno mesto Poljske in središče političnega in gospodarskega življenja v državi. Številne zgodovinske ulice, stavbe in cerkve so bile obnovljene v prvotni obliki. Leta 1980 je bilo zgodovinsko staro mestno jedro Varšave vpisano na Unescov seznam svetovne dediščine.
+
+Beam Outputs:
+1: Kako je Varšava postala glavno mesto Poljske?
+2: Kako je Varšava postala glavna mesto Poljske?
+3: Kako je Varšava postala glavno mesto Poljske
+4: Kako je Varšava postala glavna mesto Poljske
+5: Kako se je Varšava imenovala?
+
+Sampling Outputs:
+1: Kaj je bila zadnja faza, ki je povezala zgodovinsko staro mestno jedro?
+2: Katere stavbe so ustvarili Veliki Britaniji?
+3: Kdo je menil, da je Varšava pomembna v zgodovini?
+4: Kaj je prispevalo k zaustavitvi Varšave v drugi svetovni vojni
+5: Kje je bil muzej za kulturno in gospodarsko življenje v državi?
+-------------------------------------------
+Paragraph: Obiski Janeza Pavla II. v letih 1979 in 1983 so prinesli podporo budnemu solidarnostnemu gibanju in spodbudili rastočo protikomunistično vnemo. Leta 1979, manj kot leto dni po tem, ko je postal papež, je John Paul praznoval mašo na trgu zmage v Varšavi in končal svojo pridigo s pozivom „obnoviti obraz“ Poljske: Naj se tvoj Duh spusti! Naj se tvoj Duh spusti in obnovi obličje dežele! Ta dežela! Te besede so bile zelo pomembne za poljske državljane, ki so jih razumeli kot spodbudo za demokratične spremembe.
+
+Beam Outputs:
+1: Kaj je John Paul praznoval v Varšavi leta 1979?
+2: Kdaj je John Paul praznoval svojo pridigo?
+3: Kaj je John Paul praznoval leta 1979?
+4: Kdaj je John Paul praznoval svojo pridigo?
+5: Kaj je John Paul praznoval v Varšavi?
+
+Sampling Outputs:
+1: Kdaj so bili obiski Janeza Pavla II. zelo pomembni za poljske državljane?
+2: Kako se je John Paul končal v Varšavi leta 1979?
+3: Kateri obisk je bil vreden s tem, ko je postal papež?
+4: Kako se je John Paul izognil zmagi na trgu zmage?
+5: Kakšen je prispevek do zmage Johna Paula II.
+-------------------------------------------
+Paragraph: Obiski Janeza Pavla II. v letih 1979 in 1983 so prinesli podporo budnemu solidarnostnemu gibanju in spodbudili rastočo protikomunistično vnemo. Leta 1979, manj kot leto dni po tem, ko je postal papež, je John Paul praznoval mašo na trgu zmage v Varšavi in končal svojo pridigo s pozivom „obnoviti obraz“ Poljske: Naj se tvoj Duh spusti! Naj se tvoj Duh spusti in obnovi obličje dežele! Ta dežela! Te besede so bile zelo pomembne za poljske državljane, ki so jih razumeli kot spodbudo za demokratične spremembe.
+
+Beam Outputs:
+1: Kaj je John Paul praznoval v Varšavi leta 1979?
+2: Kdaj je John Paul praznoval svojo pridigo?
+3: Kaj je John Paul praznoval leta 1979?
+4: Kdaj je John Paul praznoval svojo pridigo?
+5: Kaj je John Paul praznoval v Varšavi?
+
+Sampling Outputs:
+1: Kakšno je bilo prvo pridigo v Varšavi?
+2: Katere besede je John Paul napisal po tem, da so se ukvarjali s budizmom?
+3: Kaj je John Paul II napisal na trgu za sodobne in nove naložbe?
+4: Kako je bilo ime praznovanja Johna Pavla II.
+5: Kaj je bil drugi izraz za praznovanje, ko je bil papež ustanovljen?
+-------------------------------------------
+Paragraph: Newtonov prvi zakon gibanja navaja, da se predmeti še naprej premikajo v stanju stalne hitrosti, razen če nanje ne vpliva zunanja neto sila ali posledična sila. Ta zakon je razširitev spoznanja Galilea, da je bila stalna hitrost povezana s pomanjkanjem neto sile (glej podrobnejši opis tega spodaj). Newton je predlagal, da ima vsak predmet z maso prirojeno vztrajnost, ki deluje kot temeljno ravnovesje „naravnega stanja“ namesto aristotelove ideje o „naravnem stanju počitka“. To pomeni, da je prvi zakon v nasprotju z intuitivnim Aristotelskim prepričanjem, da je potrebna neto sila, da se objekt premika s stalno hitrostjo. Newtonov prvi zakon, ki ga fizično ni mogoče ločiti od stalne hitrosti, ki ni ničelna, neposredno povezuje vztrajnost s pojmom relativne hitrosti. Natančneje, v sistemih, kjer se predmeti gibljejo z različnimi hitrostmi, je nemogoče ugotoviti, kateri predmet je „v gibanju“ in kateri predmet je „v mirovanju“. Z drugimi besedami, besedna zveza je bolj tehnično pomembna, zakoni fizike so enaki v vsakem inercialnem referenčnem okviru, to je v vseh okvirih, povezanih z gailejsko transformacijo.
+
+Beam Outputs:
+1: Zakaj je Newton predlagal, da se predmeti lahko premikajo?
+2: Kaj je Newton predlagal, da se predmeti lahko premikajo?
+3: Zakaj je Newton predlagal, da se predmeti lahko premikajo v kaj?
+4: Zakaj je Newton predlagal, da se predmeti premikajo?
+5: Kaj je Newton predlagal, da se predmeti premikajo?
+
+Sampling Outputs:
+1: Kaj je Newton predlagal zaradi nesoglasja s Darwinom v čem?
+2: Kaj se zgodi z Newtonovim prvim zakonom?
+3: Kaj je Newton rekel, da je bil predmet za prirojeno vztrajnost?
+4: Zakaj je Newtonov zakon?
+5: Ali je Newton prvi zakon za predmete, ki so bili povezani s prirojenimi lastnostimi, enaka v naravi?
+-------------------------------------------
+Paragraph: Newtonov prvi zakon gibanja navaja, da se predmeti še naprej premikajo v stanju stalne hitrosti, razen če nanje ne vpliva zunanja neto sila ali posledična sila. Ta zakon je razširitev spoznanja Galilea, da je bila stalna hitrost povezana s pomanjkanjem neto sile (glej podrobnejši opis tega spodaj). Newton je predlagal, da ima vsak predmet z maso prirojeno vztrajnost, ki deluje kot temeljno ravnovesje „naravnega stanja“ namesto aristotelove ideje o „naravnem stanju počitka“. To pomeni, da je prvi zakon v nasprotju z intuitivnim Aristotelskim prepričanjem, da je potrebna neto sila, da se objekt premika s stalno hitrostjo. Newtonov prvi zakon, ki ga fizično ni mogoče ločiti od stalne hitrosti, ki ni ničelna, neposredno povezuje vztrajnost s pojmom relativne hitrosti. Natančneje, v sistemih, kjer se predmeti gibljejo z različnimi hitrostmi, je nemogoče ugotoviti, kateri predmet je „v gibanju“ in kateri predmet je „v mirovanju“. Z drugimi besedami, besedna zveza je bolj tehnično pomembna, zakoni fizike so enaki v vsakem inercialnem referenčnem okviru, to je v vseh okvirih, povezanih z gailejsko transformacijo.
+
+Beam Outputs:
+1: Zakaj je Newton predlagal, da se predmeti lahko premikajo?
+2: Kaj je Newton predlagal, da se predmeti lahko premikajo?
+3: Zakaj je Newton predlagal, da se predmeti lahko premikajo v kaj?
+4: Zakaj je Newton predlagal, da se predmeti premikajo?
+5: Kaj je Newton predlagal, da se predmeti premikajo?
+
+Sampling Outputs:
+1: Zakaj je Newton predlagal, da je prirojena hitrost v čem?
+2: Zakaj je prvi zakon, ki jo je Newton predlagal, da je predmet bolj vzdržen v vsakem okviru?
+3: Kaj je Newton predlagal za teorijo, ki jo je Newton naredil namesto s stalno hitrosti?
+4: Kako se je Newton odločil, da bo skozi zgodovino?
+5: Na kaj je Newton predlagal, da je posameznik predmetov naveden?
+-------------------------------------------
+Paragraph: Pravo Evropske unije uporabljajo sodišča držav članic in Sodišče Evropske unije. Če zakonodaja držav članic določa manjše pravice, lahko pravo Evropske unije izvršujejo sodišča držav članic. V primeru prava Evropske unije, ki bi ga bilo treba prenesti v zakonodajo držav članic, kot so direktive, lahko Evropska komisija sproži postopek proti državi članici v skladu s Pogodbo o delovanju Evropske unije. Evropsko sodišče je najvišje sodišče, ki lahko razlaga pravo Evropske unije. Dodatni viri prava Evropske unije vključujejo sodno prakso Sodišča, mednarodno pravo in splošna načela prava Evropske unije.
+
+Beam Outputs:
+1: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije?
+2: Kako se imenuje sodišče Evropske unije?
+3: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije
+4: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske Unije?
+5: Kako se imenuje sodišče Evropske unije
+
+Sampling Outputs:
+1: Kaj je vključeval zakon iz Evropske unije?
+2: Kaj je Evropsko sodišče uveljavljalo s sodiščem, ki je nadzoroval pravo Evropske unije?
+3: Kaj so drugi viri prava Evropske unije?
+4: Katere so bile osnove prava Evropske unije, ki so bile vključene v sodišče?
+5: Kaj so državljani predlagali Evropskemu sodišča?
+-------------------------------------------
+Paragraph: Pravo Evropske unije uporabljajo sodišča držav članic in Sodišče Evropske unije. Če zakonodaja držav članic določa manjše pravice, lahko pravo Evropske unije izvršujejo sodišča držav članic. V primeru prava Evropske unije, ki bi ga bilo treba prenesti v zakonodajo držav članic, kot so direktive, lahko Evropska komisija sproži postopek proti državi članici v skladu s Pogodbo o delovanju Evropske unije. Evropsko sodišče je najvišje sodišče, ki lahko razlaga pravo Evropske unije. Dodatni viri prava Evropske unije vključujejo sodno prakso Sodišča, mednarodno pravo in splošna načela prava Evropske unije.
+
+Beam Outputs:
+1: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije?
+2: Kako se imenuje sodišče Evropske unije?
+3: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije
+4: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske Unije?
+5: Kako se imenuje sodišče Evropske unije
+
+Sampling Outputs:
+1: Kakšna je razloga za sodišča v Evropski uniji?
+2: Kaj je Evropska komisija razlagala v svoji zakonodaji?
+3: Kaj so bili navedeni viri pravne ureditve o delovanju Evropske unije
+4: V katerih primerih so evropske sodišča sprejele sodišča?
+5: Kakšno zakonodajo zagotavlja zakonodaja?
+-------------------------------------------
+Paragraph: Pravo Evropske unije uporabljajo sodišča držav članic in Sodišče Evropske unije. Če zakonodaja držav članic določa manjše pravice, lahko pravo Evropske unije izvršujejo sodišča držav članic. V primeru prava Evropske unije, ki bi ga bilo treba prenesti v zakonodajo držav članic, kot so direktive, lahko Evropska komisija sproži postopek proti državi članici v skladu s Pogodbo o delovanju Evropske unije. Evropsko sodišče je najvišje sodišče, ki lahko razlaga pravo Evropske unije. Dodatni viri prava Evropske unije vključujejo sodno prakso Sodišča, mednarodno pravo in splošna načela prava Evropske unije.
+
+Beam Outputs:
+1: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije?
+2: Kako se imenuje sodišče Evropske unije?
+3: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije
+4: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske Unije?
+5: Kako se imenuje sodišče Evropske unije
+
+Sampling Outputs:
+1: Kakšna je bila odločitev o razpravi Evropske unije o pravnih pravicah Evropske unije?
+2: Kje lahko sodišče vključuje pravo Evropske unije?
+3: Kaj je vključevalo sodišče za zakonodajo Evropske unije?
+4: Kaj lahko razlaga sodišče Evropske unije?
+5: Kaj vključuje zakonodajo držav članic, ki lahko izvršijo pravo Evropske unije?
+-------------------------------------------
+Paragraph: Pravo Evropske unije uporabljajo sodišča držav članic in Sodišče Evropske unije. Če zakonodaja držav članic določa manjše pravice, lahko pravo Evropske unije izvršujejo sodišča držav članic. V primeru prava Evropske unije, ki bi ga bilo treba prenesti v zakonodajo držav članic, kot so direktive, lahko Evropska komisija sproži postopek proti državi članici v skladu s Pogodbo o delovanju Evropske unije. Evropsko sodišče je najvišje sodišče, ki lahko razlaga pravo Evropske unije. Dodatni viri prava Evropske unije vključujejo sodno prakso Sodišča, mednarodno pravo in splošna načela prava Evropske unije.
+
+Beam Outputs:
+1: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije?
+2: Kako se imenuje sodišče Evropske unije?
+3: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske unije
+4: Kako se imenuje sodišče, ki lahko razlaga pravo Evropske Unije?
+5: Kako se imenuje sodišče Evropske unije
+
+Sampling Outputs:
+1: Kaj je bil primer vloga Evropske unije?
+2: Kaj je vključeval pravni akt?
+3: Kaj so splošna sodišča, ki lahko razlagajo pravico do pravice glede prava Evropske unije?
+4: Kaj lahko zakonodaja o Evropski uniji spremeni v zakon?
+5: Kaj so drugi viri pravnega prava, ki jih uporabljajo sodišča držav članic
+-------------------------------------------
+Paragraph: Zvezni varnostni standardi, kot so NHTSA Federal Motor Vehicle Safety Standard 215 (ki se nanašajo na varnostne odbijače), in kompakti, kot je Mustang I iz leta 1974, so bili uvod v DOT „zmanjšanje“ revizije kategorij vozil. Do leta 1977 so GMovi avtomobili v polni velikosti odražali krizo. Do leta 1979 so se skoraj vsi ameriški avtomobili „popolne velikosti“ skrčili z manjšimi motorji in manjšimi zunanjimi dimenzijami. Chrysler je končal proizvodnjo svojih polnih luksuznih limuzin ob koncu leta 1981, namesto tega se je preselil v polno linijo za pogon na sprednjih kolesih za leto 1982 (razen M-body Dodge Diplomat/Plymouth Gran Fury in Chrysler New Yorker Fifth Avenue limuzina).
+
+Beam Outputs:
+1: Kako se je Chrysler preselil v polno linijo?
+2: Kako se je Chrysler preselil v polno velikost?
+3: Kako se je Chrysler preselil v polni velikosti?
+4: Kaj je bil uvod v ZDA?
+5: Kaj je bil uvod v DST?
+
+Sampling Outputs:
+1: Kako se imenuje ameriška oprema, ki je imela velika velikost, da bi ostala v polno velikosti?
+2: Kaj je bil uvod v ZDA v Daytona leta 1977?
+3: Kakšne so bile tri vrste avtomobilov, ki so jih kupili leta 1977?
+4: Kdo je leta 1979 spremenil obliko „popolnih“ vozil?
+5: Kaj je bil bil uvod v ZDA, ko je bil AFL prenehal proizvajati avtomobile na splošno?
+-------------------------------------------
+Paragraph: Zvezni varnostni standardi, kot so NHTSA Federal Motor Vehicle Safety Standard 215 (ki se nanašajo na varnostne odbijače), in kompakti, kot je Mustang I iz leta 1974, so bili uvod v DOT „zmanjšanje“ revizije kategorij vozil. Do leta 1977 so GMovi avtomobili v polni velikosti odražali krizo. Do leta 1979 so se skoraj vsi ameriški avtomobili „popolne velikosti“ skrčili z manjšimi motorji in manjšimi zunanjimi dimenzijami. Chrysler je končal proizvodnjo svojih polnih luksuznih limuzin ob koncu leta 1981, namesto tega se je preselil v polno linijo za pogon na sprednjih kolesih za leto 1982 (razen M-body Dodge Diplomat/Plymouth Gran Fury in Chrysler New Yorker Fifth Avenue limuzina).
+
+Beam Outputs:
+1: Kako se je Chrysler preselil v polno linijo?
+2: Kako se je Chrysler preselil v polno velikost?
+3: Kako se je Chrysler preselil v polni velikosti?
+4: Kaj je bil uvod v ZDA?
+5: Kaj je bil uvod v DST?
+
+Sampling Outputs:
+1: Kaj se je zgodilo z ZDA v letu 1979?
+2: Kako je imel GM namesto polnih vozil?
+3: Kaj je bilo prvotno uvod v podjetju Chrysler?
+4: Kako so bili začasni pregledi vozil?
+5: V katerih dveh standardih je bila sprememba standarda motorjev v ZDA?
+-------------------------------------------
+Paragraph: V enem poskusu je Lavoisier opazil, da pri segrevanju kositra in zraka v zaprti posodi ni prišlo do splošnega povečanja teže. Ugotovil je, da je zrak hitel, ko je odprl zabojnik, kar kaže, da je bil del ujetega zraka porabljen. Ugotovil je tudi, da se je kositer povečal v teži in da je povečanje enako kot teža zraka, ki je odhitel nazaj. Ta in drugi poskusi zgorevanja so bili dokumentirani v njegovi knjigi Sur la combustion en général, ki je bila objavljena leta 1777. V tem delu je dokazal, da je zrak mešanica dveh plinov; „vitalni zrak“, ki je bistvenega pomena za zgorevanje in dihanje, in azot (Gk. ίтτον „neživljenjski“), ki prav tako ni podpiral. Azote je kasneje postal dušik v angleščini, čeprav je ohranil ime v francoščini in več drugih evropskih jezikih.
+
+Beam Outputs:
+1: Kaj je Lavoisier ugotovil, da je zrak splošno povečan?
+2: Kako je Lavoisier dokazal, da je zrak bolj učinkovit?
+3: Zakaj je Lavoisier dokazal, da je zrak bolj učinkovit?
+4: Kako je Lavoisier dokazal, da je zrak bolj splošen?
+5: Kaj je Lavoisier ugotovil, da je zrak splošno povečal?
+
+Sampling Outputs:
+1: Kdaj je bil Lavoisier objavljen?
+2: Kaj je bil Lavoisier dodal v tem obdobju?
+3: Kaj je Lavoisier dokazal na splošno v tem delu?
+4: Kako je Lavoisier odkril, da je zrak lažji v katerih jezikih?
+5: Kateri dve stvari je Lavoisier ugotovil?
+-------------------------------------------
+Paragraph: V enem poskusu je Lavoisier opazil, da pri segrevanju kositra in zraka v zaprti posodi ni prišlo do splošnega povečanja teže. Ugotovil je, da je zrak hitel, ko je odprl zabojnik, kar kaže, da je bil del ujetega zraka porabljen. Ugotovil je tudi, da se je kositer povečal v teži in da je povečanje enako kot teža zraka, ki je odhitel nazaj. Ta in drugi poskusi zgorevanja so bili dokumentirani v njegovi knjigi Sur la combustion en général, ki je bila objavljena leta 1777. V tem delu je dokazal, da je zrak mešanica dveh plinov; „vitalni zrak“, ki je bistvenega pomena za zgorevanje in dihanje, in azot (Gk. ίтτον „neživljenjski“), ki prav tako ni podpiral. Azote je kasneje postal dušik v angleščini, čeprav je ohranil ime v francoščini in več drugih evropskih jezikih.
+
+Beam Outputs:
+1: Kaj je Lavoisier ugotovil, da je zrak splošno povečan?
+2: Kako je Lavoisier dokazal, da je zrak bolj učinkovit?
+3: Zakaj je Lavoisier dokazal, da je zrak bolj učinkovit?
+4: Kako je Lavoisier dokazal, da je zrak bolj splošen?
+5: Kaj je Lavoisier ugotovil, da je zrak splošno povečal?
+
+Sampling Outputs:
+1: Kaj je Lavoisier dokazal, da je splošna teža zraka vključena v zrak?
+2: Zakaj je zrak povečal v številu kilometrov?
+3: Kako je Lavoisier dokazal, da je zrak učinkovito ohranjen?
+4: Kaj je imel Notre Dame v tem delu?
+5: Kaj je bil prvi razlog za ugotovitev na ozemlju?
+-------------------------------------------
+Paragraph: Ta kombinacija žigov ter σ in π prekrivanja ima za posledico dvojni značaj in reaktivnost dioksigena ter trojno elektronsko stanje tal. Konfiguracija elektronov z dvema neparnima elektronoma, ki ju najdemo v dioksigenu (glej napolnjene π* orbitale v diagramu), orbitali, ki so enake energije, tj. degenerat-je konfiguracija, imenovana spin trojno stanje. Zato se stanje tal molekule O 2 imenuje trojni kisik.[b] Najvišja energija, delno napolnjene orbitale, so protiveznice, zato njihovo polnjenje oslabi vrstni red vezi od tri do dva. Zaradi neparnih elektronov trojni kisik reagira le počasi z večino organskih molekul, ki imajo par elektronskih vrtljajev; to preprečuje spontano zgorevanje.
+
+Beam Outputs:
+1: Kako se imenuje konfiguracija, ki se uporablja v dioksigenu?
+2: Kako se imenuje stanje tal?
+3: Kako se imenuje konfiguracija, ki se uporablja za zaščito?
+4: Kako se imenuje konfiguracija, ki se uporablja za zaščito oksida?
+5: Kako se imenuje konfiguracija, ki se uporablja v dioksigenu
+
+Sampling Outputs:
+1: Kaj se lahko zgodi z izotopom v dioksigenu?
+2: Kaj so nekateri izrazi, ki jih predlagajo na otoku?
+3: Kaj je ugotovilo, da se stanje plina zmanjša?
+4: Zakaj je oksidacijsko stanje zelo različno od izotopnega oksida?
+5: Kaj se zgodi, če se stanje dioksigena zmanjša?
+-------------------------------------------
+Paragraph: Ta kombinacija žigov ter σ in π prekrivanja ima za posledico dvojni značaj in reaktivnost dioksigena ter trojno elektronsko stanje tal. Konfiguracija elektronov z dvema neparnima elektronoma, ki ju najdemo v dioksigenu (glej napolnjene π* orbitale v diagramu), orbitali, ki so enake energije, tj. degenerat-je konfiguracija, imenovana spin trojno stanje. Zato se stanje tal molekule O 2 imenuje trojni kisik.[b] Najvišja energija, delno napolnjene orbitale, so protiveznice, zato njihovo polnjenje oslabi vrstni red vezi od tri do dva. Zaradi neparnih elektronov trojni kisik reagira le počasi z večino organskih molekul, ki imajo par elektronskih vrtljajev; to preprečuje spontano zgorevanje.
+
+Beam Outputs:
+1: Kako se imenuje konfiguracija, ki se uporablja v dioksigenu?
+2: Kako se imenuje stanje tal?
+3: Kako se imenuje konfiguracija, ki se uporablja za zaščito?
+4: Kako se imenuje konfiguracija, ki se uporablja za zaščito oksida?
+5: Kako se imenuje konfiguracija, ki se uporablja v dioksigenu
+
+Sampling Outputs:
+1: Kaj se imenuje enota, ki je včasih bolj opazna?
+2: Katere so štiri stvari, ki jih uporabljajo drugi senzorji?
+3: Kaj je ugotovilo razmerje med dvigalo in napetostjo, v kateri je bila prva faza žarnice?
+4: Kaj se zgodi z enoto?
+5: Zakaj je ciklona, ki jo imenujejo dve vrsti elektrolitov?
+-------------------------------------------

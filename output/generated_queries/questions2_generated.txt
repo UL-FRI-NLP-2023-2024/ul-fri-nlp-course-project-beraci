@@ -1,0 +1,1600 @@
+Paragraph: Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju?
+2: Kako se je imenovala skupina Normanov?
+3: Kako se imenuje skupina Normanov?
+4: Kako so se Normani imenovali?
+5: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju
+
+Sampling Outputs:
+1: Kaj so bili prvi Normanski ljudje?
+2: Kaj so bili Normanski in Francozi?
+3: Kakšne so različne kulture, ki prispevajo k zgodovini Notre Dame?
+4: Kdo so bili potomci, ki so prišli iz Normandije?
+5: Kdaj so so bili Normani spoznati?
+-------------------------------------------
+Paragraph: Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju?
+2: Kako se je imenovala skupina Normanov?
+3: Kako se imenuje skupina Normanov?
+4: Kako so se Normani imenovali?
+5: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju
+
+Sampling Outputs:
+1: Zakaj je Napoleon prišel v Francijo v zgodovino?
+2: Kakšne oznake so našli francosko besedo s katerimi dvemi jezikom?
+3: V katerih državah so se Normanci povečali v svoje kulture?
+4: Kateri etnični razvoj je vplival na migracijo otrok?
+5: Kako so zgodovinarji imenovali prvi sodobni zgodovinarji?
+-------------------------------------------
+Paragraph: Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju?
+2: Kako se je imenovala skupina Normanov?
+3: Kako se imenuje skupina Normanov?
+4: Kako so se Normani imenovali?
+5: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju
+
+Sampling Outputs:
+1: Kako so se Normani pojavili?
+2: Kakšni so bili načini za izumrtje, ko so našli svojo identiteto na otoku v letu 1855?
+3: Kako je ime prvih Normanov, ki so bili priljubljeni v 19. stoletju?
+4: V katerem stoletju so se Normanski potomci združili v katere regije?
+5: Kako so bili Normanci v letu 2010 zgrajjeni v drugi svetovni vojni?
+-------------------------------------------
+Paragraph: Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju?
+2: Kako se je imenovala skupina Normanov?
+3: Kako se imenuje skupina Normanov?
+4: Kako so se Normani imenovali?
+5: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju
+
+Sampling Outputs:
+1: Kdo je imenoval zahodno frankovsko ozemlje?
+2: Kaj so Normanci učili v 19. stoletju?
+3: Zakaj so Normani prišli v Normandijo?
+4: Katera dva dela zgodovine je bila zgrajena leta 2000?
+5: Kako se je imenovala migracija?
+-------------------------------------------
+Paragraph: Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: Normanni) so bili ljudje, ki so v 10. in 11. stoletju dali ime Normandiji, regiji v Franciji. Bili so potomci nordijskih plenilcev in piratov iz Danske, Islandije in Norveške, ki so pod svojim voditeljem Rollom prisegli zvestobo kralju Karlu III. iz Zahodne Frankovske. Skozi generacije asimilacije in mešanja z domačimi frankovskimi in rimsko-gavskimi populacijami so se njihovi potomci postopoma združili s karolinškimi kulturami Zahodne Frankovske. Posebna kulturna in etnična identiteta Normanov se je sprva pojavila v prvi polovici 10. stoletja in se je razvijala v naslednjih stoletjih.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju?
+2: Kako se je imenovala skupina Normanov?
+3: Kako se imenuje skupina Normanov?
+4: Kako so se Normani imenovali?
+5: Kako se imenuje skupina Normanov, ki se je pojavila v 19. stoletju
+
+Sampling Outputs:
+1: Kdo so bili izumili svoje spomine na Normansko?
+2: Kaj je bil izraz za francoski zgodovinar?
+3: Kaj je bilo glavno vlogo v francoskih tradicijah?
+4: Na katerih dveh ravnih, katere kulture so bile izšle v zgodovino Normana?
+5: Kaj je bilo prebivalstvo francoskih potomcev v 11. stoletju?
+-------------------------------------------
+Paragraph: Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.
+
+Beam Outputs:
+1: Kdo je ustanovil kraljestvo Normandije?
+2: Kdo je ustanovil kraljestvo Normandije leta 1066?
+3: Kdo je ustanovil kraljestvo Normandije
+4: Kdo je ustanovil kraljestvo?
+5: Kako so Normanski pusolci znani?
+
+Sampling Outputs:
+1: Kakšen je bil vpliv Normandije na vzhod v katerem času?
+2: Kakšne so bili Normanski vojaški odnosi?
+3: Kje je bil njihov naslov naveden v zgodovini Normanske dinastije?
+4: Katere so bile prvotne značilnosti francoske dinastije v 19. stoletju?
+5: Kaj je bil vpliv Normanskega prava na francosko?
+-------------------------------------------
+Paragraph: Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.
+
+Beam Outputs:
+1: Kdo je ustanovil kraljestvo Normandije?
+2: Kdo je ustanovil kraljestvo Normandije leta 1066?
+3: Kdo je ustanovil kraljestvo Normandije
+4: Kdo je ustanovil kraljestvo?
+5: Kako so Normanski pusolci znani?
+
+Sampling Outputs:
+1: Kdaj so se Normanci srečali s francoskim jeziki?
+2: Zakaj so Normanki znani po svojih vplivih?
+3: Kakšen je bil vzdevek Normanov v 19. stoletju?
+4: Kako je bila ustanovljena Normandija?
+5: Katere države so ugotovile, da je Normanska dinastija skozi njegovo kulturo in razvoj?
+-------------------------------------------
+Paragraph: Normanska dinastija je imela velik politični, kulturni in vojaški vpliv na srednjeveško Evropo in celo na Bližnji vzhod. Normani so bili znani po svojem borilnem duhu in sčasoma po krščanski pobožnosti, postali eksponenti katoliške ortodoksnosti, v katero so se asimilirali. Sprejeli so galo-Romance jezik frankovske dežele, ki so jo naselili, njihovo narečje pa je postalo znano kot Norman, Normaund ali normanski francoščina, pomemben literarni jezik. Vojvodina Normandija, ki so jo ustanovili s pogodbo s francosko krono, je bila velika fevd srednjeveške Francije in pod Richardom I. Normandijo je bila skovana v kohezivno in mogočno kneževino v fevdalni dobi. Normani so znani po svoji kulturi, kot so njihova edinstvena romanska arhitektura in glasbene tradicije, ter po svojih pomembnih vojaških dosežkih in inovacijah. Normanski pustolovci so ustanovili kraljestvo Sicilije pod vodstvom Rogerja II., potem ko so osvojili južno Italijo na Saracenih in Bizantincih, odprava v imenu njihovega vojvode Viljema Osvajalca pa je pripeljala do normanskega osvajanja Anglije v bitki pri Hastingsu leta 1066. Normanski kulturni in vojaški vpliv se je razširil iz teh novih evropskih središč v križarske države Bližnjega vzhoda, kjer je njihov knez Bohemond I. ustanovil kneževino Antiohijo v Levantu, na Škotsko in Wales v Veliki Britaniji, na Irsko ter na obale severne Afrike in Kanarskih otokov.
+
+Beam Outputs:
+1: Kdo je ustanovil kraljestvo Normandije?
+2: Kdo je ustanovil kraljestvo Normandije leta 1066?
+3: Kdo je ustanovil kraljestvo Normandije
+4: Kdo je ustanovil kraljestvo?
+5: Kako so Normanski pusolci znani?
+
+Sampling Outputs:
+1: Zakaj je Normanska dinastija postala zelo znani?
+2: Zakaj so Normani prišli v vojno s Francijo?
+3: Kako se je Normanska dinastija razvila v Franciji?
+4: Kaj je bilo znano po francoski vplivi na zgodovino v 20. stoletju
+5: Kaj je bil vpliv Normanskega plemena?
+-------------------------------------------
+Paragraph: Angleško ime „Normani“ izhaja iz francoskih besed Normans/Normanz, množina Normanta, moderne francoske norme, ki je sama izposojena od staronizke frankovske Nortmann „Northman“ ali neposredno iz stare nordijske Norðmaðr, latinsko različno kot Nortmannus, Normannus ali Nordmannus (evidentirano v srednjeveški latinščini, 9. stoletje) pomeni „Norseman, Viking“.
+
+Beam Outputs:
+1: Kako se imenuje angleško ime „Norman“?
+2: Kako se imenuje angleško ime „Normani“?
+3: Kako se imenuje beseda „Norman“?
+4: Kako se imenuje francosko ime „Norman“?
+5: Kako se imenuje „Norman“?
+
+Sampling Outputs:
+1: Kakšna je bila različica „Normani“?
+2: Kako se imenuje „Norman“?
+3: Kaj so francoske besedine, ki je znano kot „Norman“, vplivale na katero vrsto francoskega jezika?
+4: Kakšno ime ima „Norman“ na otoku Norfolk?
+5: Kaj je pomenil „Norman“?
+-------------------------------------------
+Paragraph: Angleško ime „Normani“ izhaja iz francoskih besed Normans/Normanz, množina Normanta, moderne francoske norme, ki je sama izposojena od staronizke frankovske Nortmann „Northman“ ali neposredno iz stare nordijske Norðmaðr, latinsko različno kot Nortmannus, Normannus ali Nordmannus (evidentirano v srednjeveški latinščini, 9. stoletje) pomeni „Norseman, Viking“.
+
+Beam Outputs:
+1: Kako se imenuje angleško ime „Norman“?
+2: Kako se imenuje angleško ime „Normani“?
+3: Kako se imenuje beseda „Norman“?
+4: Kako se imenuje francosko ime „Norman“?
+5: Kako se imenuje „Norman“?
+
+Sampling Outputs:
+1: Kako se imenuje angleško ime „Normani“?
+2: Zakaj so bili francoski ljudje znani po angleščini kot „Norman“?
+3: Kakšna je oblika besed, ki govori o Normannih, ki so bili izbrani v srednjeveškem slogu?
+4: Kaj se nanaša na imenovanje „Norman“ v francoski govori?
+5: Kaj so bili nekateri dogodki, ki so se pogosto uporabljali za opis zgodovinske igre?
+-------------------------------------------
+Paragraph: V 10. stoletju so se prvotno uničevalni vdori nordijskih vojnih skupin v francoske reke razvile v trajnejše tabore, ki so vključevali lokalne ženske in osebno lastnino. Vojvodina Normandija, ki se je začela leta 911 kot fevd, je bila ustanovljena s pogodbo Saint-Clair-sur-Epte med kraljem Karlom III. iz Zahodne Frankovske in slavnim vikinškim vladarjem Rollom in je bila v nekdanjem frankovskem kraljestvu Nevstrija. Pogodba je Rollu in njegovim možem ponudila francoskim ozemljem med reko Epte in atlantsko obalo v zameno za njihovo zaščito pred nadaljnjimi vikinškimi vdori. Območje je ustrezalo severnemu delu današnje Zgornje Normandije do reke Sene, vendar se je vojvodina sčasoma razširila zahodno preko Sene. Ozemlje je bilo približno enakovredno stari pokrajini Rouen in je reproduciralo rimsko upravno strukturo Gallia Lugdunensis II (del nekdanje Gallije Lugdunensis).
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena vojvodina Normandije?
+2: Kako se je Normandija razširila?
+3: Kdaj je bila ustanovljena vojvodina Normandija?
+4: Kdaj je bila ustanovljena vojvodina?
+5: Kako se je Normandija razvila?
+
+Sampling Outputs:
+1: Kdo je ustanovil vojvodino v letu 1871?
+2: Kaj je bil vpliv na francosko ozemlje v stoletju?
+3: Kaj je bilo prvotno navedeno, da je Francija imela vpliv na francosko ozemlje?
+4: Zakaj je bila vojska razdeljena v evropsko ozemlje?
+5: Zakaj so bili vidiki francoske vojvodine bolj vplivale na njeno območje?
+-------------------------------------------
+Paragraph: V 10. stoletju so se prvotno uničevalni vdori nordijskih vojnih skupin v francoske reke razvile v trajnejše tabore, ki so vključevali lokalne ženske in osebno lastnino. Vojvodina Normandija, ki se je začela leta 911 kot fevd, je bila ustanovljena s pogodbo Saint-Clair-sur-Epte med kraljem Karlom III. iz Zahodne Frankovske in slavnim vikinškim vladarjem Rollom in je bila v nekdanjem frankovskem kraljestvu Nevstrija. Pogodba je Rollu in njegovim možem ponudila francoskim ozemljem med reko Epte in atlantsko obalo v zameno za njihovo zaščito pred nadaljnjimi vikinškimi vdori. Območje je ustrezalo severnemu delu današnje Zgornje Normandije do reke Sene, vendar se je vojvodina sčasoma razširila zahodno preko Sene. Ozemlje je bilo približno enakovredno stari pokrajini Rouen in je reproduciralo rimsko upravno strukturo Gallia Lugdunensis II (del nekdanje Gallije Lugdunensis).
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena vojvodina Normandije?
+2: Kako se je Normandija razširila?
+3: Kdaj je bila ustanovljena vojvodina Normandija?
+4: Kdaj je bila ustanovljena vojvodina?
+5: Kako se je Normandija razvila?
+
+Sampling Outputs:
+1: Zakaj so se francoske sile uvrstile v Valencijo?
+2: V katerem obdobju je bil prvotni utrip?
+3: Kaj je bil otok Normandije zaradi tega, da so se v Franciji razdelili?
+4: Kateri dve državi sta bili v zgodovini Normandije?
+5: Kako se je oblikovalo ozemlje na Portugalskem?
+-------------------------------------------
+Paragraph: V 10. stoletju so se prvotno uničevalni vdori nordijskih vojnih skupin v francoske reke razvile v trajnejše tabore, ki so vključevali lokalne ženske in osebno lastnino. Vojvodina Normandija, ki se je začela leta 911 kot fevd, je bila ustanovljena s pogodbo Saint-Clair-sur-Epte med kraljem Karlom III. iz Zahodne Frankovske in slavnim vikinškim vladarjem Rollom in je bila v nekdanjem frankovskem kraljestvu Nevstrija. Pogodba je Rollu in njegovim možem ponudila francoskim ozemljem med reko Epte in atlantsko obalo v zameno za njihovo zaščito pred nadaljnjimi vikinškimi vdori. Območje je ustrezalo severnemu delu današnje Zgornje Normandije do reke Sene, vendar se je vojvodina sčasoma razširila zahodno preko Sene. Ozemlje je bilo približno enakovredno stari pokrajini Rouen in je reproduciralo rimsko upravno strukturo Gallia Lugdunensis II (del nekdanje Gallije Lugdunensis).
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena vojvodina Normandije?
+2: Kako se je Normandija razširila?
+3: Kdaj je bila ustanovljena vojvodina Normandija?
+4: Kdaj je bila ustanovljena vojvodina?
+5: Kako se je Normandija razvila?
+
+Sampling Outputs:
+1: Katero obdobje se je spremenilo v vzhodnem delu Francije?
+2: Kdaj se je začela vožnja na otok?
+3: Kaj je Normandija predlagala s francoskimi ozemlji?
+4: Zakaj je bil Norfolk uradno ustanovljen zaradi vikinških vdov?
+5: Kaj je najbolj priljubljeno vojne za Francijo?
+-------------------------------------------
+Paragraph: Pred prihodom Rolla se njegove populacije niso razlikovale od Pikardije ali Île-de-France, ki so veljale za „Francoske“. Prejšnji vikinški naseljenci so začeli prihajati v 880-ih, vendar so bili razdeljeni med kolonije na vzhodu (Roumois in Pays de Caux) okoli nizke doline Sene in na zahodu na polotoku Cotentin in so bili ločeni s tradicionalnimi pagiji, kjer je prebivalstvo ostalo približno enako s skoraj nobenimi tujimi naseljenci. Rollovi kontingenti, ki so napadli in na koncu naselili Normandijo in dele atlantske obale, so bili Danci, Norvežani, Norvežani, Orkney Vikings, morda Švedi in Anglo-Danes iz angleškega Danela pod nordijskim nadzorom.
+
+Beam Outputs:
+1: Kako so bili Rollovi naseljenci razdeljeni?
+2: Kdo so bili Rollovi naseljenci?
+3: Kako so bili Rollovi naseljenci?
+4: Kako so bili Rollovi naseljenci razdeljeni v katere kolonije?
+5: Kako so bili Rollovi naseljenci razdeljeni v katere regije?
+
+Sampling Outputs:
+1: Kako se je pogosto imenovalo naslovništvo v Rimu v letu 1790?
+2: Zakaj so bili Rollovi naseljenci ločeni?
+3: Katere države sta bili pomembne za otoku?
+4: Kako so Rollovi naseljeni na severu?
+5: Kaj se je zgodilo s Rollovim naseljencim v obdobju 88–88?
+-------------------------------------------
+Paragraph: Potomci Rollovih Vikingov in njihovih frankovskih žena so nadomestili nordijsko religijo in staro nordijski jezik s katolištvom (krščanstvo) in galo-romskim jezikom lokalnega prebivalstva, pri čemer so združili svojo materinsko frankovsko dediščino s staro nordijsko tradicijo in običaji, da bi sintetizirali edinstveno „normansko“ kulturo na severu Francije. Normanski jezik je bil skovan s sprejetjem avtohtone veje romantike z nordijsko govorečim vladajočim razredom in se je razvil v regionalni jezik, ki danes preživi.
+
+Beam Outputs:
+1: Kaj je bilo ustvarjeno s francoskim jezikom?
+2: Kaj je bilo ustvarjeno s francoskim jeziki?
+3: Kaj je bilo ustvarjeno s francoskim jezom?
+4: Kaj je bilo ustvarjeno v francoščini?
+5: Kaj je bilo ustvarjeno s francosko kulturo?
+
+Sampling Outputs:
+1: Kateri so bili sodobni francoski jeziki?
+2: Kakšen je bil način, da je nadomestil staro germansko kulturo?
+3: Kaj je pomembno za razvoj tradicionalne germanske kulture?
+4: Kako se je Normanski jezik skoval?
+5: Kaj je bil prvotni namen ustvarjanja jezika Rollovh Vikingov?
+-------------------------------------------
+Paragraph: Potomci Rollovih Vikingov in njihovih frankovskih žena so nadomestili nordijsko religijo in staro nordijski jezik s katolištvom (krščanstvo) in galo-romskim jezikom lokalnega prebivalstva, pri čemer so združili svojo materinsko frankovsko dediščino s staro nordijsko tradicijo in običaji, da bi sintetizirali edinstveno „normansko“ kulturo na severu Francije. Normanski jezik je bil skovan s sprejetjem avtohtone veje romantike z nordijsko govorečim vladajočim razredom in se je razvil v regionalni jezik, ki danes preživi.
+
+Beam Outputs:
+1: Kaj je bilo ustvarjeno s francoskim jezikom?
+2: Kaj je bilo ustvarjeno s francoskim jeziki?
+3: Kaj je bilo ustvarjeno s francoskim jezom?
+4: Kaj je bilo ustvarjeno v francoščini?
+5: Kaj je bilo ustvarjeno s francosko kulturo?
+
+Sampling Outputs:
+1: Kaj so bili prvotno pomembni razlogi, da se je Normanski jezik začel nadomestiti?
+2: Kateri dve vrsti jezika so pobegnili z avtohtonimi plemenami?
+3: Zakaj je bil francoski jezik združen s francoskim jezikom?
+4: Kaj je bila najstarejši izraz, ki se je pojavil v francoščini?
+5: Kako je sodobni jezik v zgodovini postal vključen v staro nordijski jezik?
+-------------------------------------------
+Paragraph: Normani so nato sprejeli rastoče fevdalne doktrine preostale Francije in jih preoblikovali v funkcionalni hierarhični sistem tako v Normandiji kot v Angliji. Novi normanski vladarji so se kulturno in etnično razlikovali od stare francoske aristokracije, od katerih je večina sledila svoji rodbini Frankom iz karolinške dinastije. Večina normanskih vitezov je ostala revna in lačna, do leta 1066 pa je Normandija več kot eno generacijo izvažala bojne konjenike. Mnogi Normani iz Italije, Francije in Anglije so sčasoma služili kot navdušeni križarji pod italo-normanskim princem Bohemundom I. in anglo-normanskim kraljem Richardom Levom-Heartom.
+
+Beam Outputs:
+1: Kako se je Normandija razlikovala od katere države?
+2: Kako se je Normandija razlikovala od drugih držav?
+3: Kako se je Normandija razlikovala?
+4: Kako se je Normandija imenovala?
+5: Kako se je Normandija spremenila?
+
+Sampling Outputs:
+1: Kaj so Normanci storili v Franciji?
+2: Katera veja zgodovine je bila v mestu zahodno od Francije?
+3: Zakaj so francoski vladarji šli v Francijo?
+4: Katere frakcije so bile bolj nasprotne, če se so nekateri narodi iz Normandije prepoznali?
+5: Kaj je bilo prvotno omogočilo našim prebivalstvom?
+-------------------------------------------
+Paragraph: Kmalu po tem, ko so Normani začeli vstopati v Italijo, so vstopili v Bizantinsko cesarstvo in nato v Armenijo, kjer so se borili proti Pechenegom, Bolgarom in še posebej seldžuškim Turkom. Normanske plačance so Langobardi prvič spodbudili, da so prišli na jug, da bi ukrepali proti Bizantincem, vendar so se kmalu borili v bizantinski službi na Siciliji. V sicilijanski kampanji Georga Maniacesa v letih 1038–40 so bili pomembni poleg Varangianskih in Lombardskih kontingentov. Razpravlja se o tem, ali so bili Normani v grški službi dejansko iz Normanske Italije in zdaj se zdi, da jih je od tam verjetno le nekaj. Prav tako ni znano, koliko „Franks“, kot so jih imenovali Bizantinci, so bili Normani in ne drugi Francozi.
+
+Beam Outputs:
+1: Kdaj so Normani vstopili v Bizantinsko cesarstvo?
+2: Kdaj so Normanci vstopili v Bizantinsko cesarstvo?
+3: Kdaj so Normani vstopili v Italijo?
+4: Kdaj so Normanci vstopili v Italijo?
+5: Kdaj so Normanci prišli na jug?
+
+Sampling Outputs:
+1: Na katerih območjih je bila ugotovitev, da so Normani vstopili v Francijo?
+2: V kakšni državi so se Lagonadri vstopili v Bizantinsko cesarstvo?
+3: Kdaj je Napoleon vstopil v Bizantinsko cesarstvo?
+4: Kaj je naredila zgodovinska zgodovina?
+5: Kakšen je bil primer zgodovine, ki se je zgodila s Normanskimi?
+-------------------------------------------
+Paragraph: Eden prvih normanskih plačancev, ki je služil kot bizantinski general, je bil Hervé v 1050-ih. Do takrat so že bili normanski plačanci, ki so služili tako daleč kot Trebizond in Gruzija. Nahajali so se v Malatiji in Edesi, pod bizantinskim vojvodo Antiohijo, Izakom Komnenom. Leta 1060 je Robert Crispin vodil Normane Edessa proti Turkom. Roussel de Bailleul je celo poskušal izrezati neodvisno državo v Mali Aziji s podporo lokalnega prebivalstva, vendar ga je ustavil bizantinski general Aleksej Komnenos.
+
+Beam Outputs:
+1: Kateri so bili prvi normanski plačanci, ki so služili v Malatiji?
+2: Kateri so bili prvi normanski plačanci, ki so služili kot bizantinski general?
+3: Kateri so bili prvi normanski plačanci, ki so služili v Edesu?
+4: Kateri so bili prvi normanski plačanci, ki so služili v Edeji?
+5: Kateri so bili prvi normanski plačanci?
+
+Sampling Outputs:
+1: Kateri so bili največji vojaški plačani, ki se so pojavili v Malatiji?
+2: Kako so bili francoski načelniki in vojaki uradno pomembni?
+3: Kaj je bila glavna skrb britanskega cesarstva?
+4: Kaj je bil Napoleon včasih poskušal zapustiti v mestu?
+5: Kateri so bili prvi, ki so služili na Osmanskem otočju?
+-------------------------------------------
+Paragraph: Eden prvih normanskih plačancev, ki je služil kot bizantinski general, je bil Hervé v 1050-ih. Do takrat so že bili normanski plačanci, ki so služili tako daleč kot Trebizond in Gruzija. Nahajali so se v Malatiji in Edesi, pod bizantinskim vojvodo Antiohijo, Izakom Komnenom. Leta 1060 je Robert Crispin vodil Normane Edessa proti Turkom. Roussel de Bailleul je celo poskušal izrezati neodvisno državo v Mali Aziji s podporo lokalnega prebivalstva, vendar ga je ustavil bizantinski general Aleksej Komnenos.
+
+Beam Outputs:
+1: Kateri so bili prvi normanski plačanci, ki so služili v Malatiji?
+2: Kateri so bili prvi normanski plačanci, ki so služili kot bizantinski general?
+3: Kateri so bili prvi normanski plačanci, ki so služili v Edesu?
+4: Kateri so bili prvi normanski plačanci, ki so služili v Edeji?
+5: Kateri so bili prvi normanski plačanci?
+
+Sampling Outputs:
+1: Kaj je bil drugi največji britanski vladar, ki je služil kot Bizantinski general?
+2: Zakaj je imel Napoleon razvoj vlade v Grčiji leta 1040?
+3: Kako je bilo ime francoskem vojaškemu načelu?
+4: Kakšna je bila uvrstitev enega prvega francoskega vojaškega člana na otoku?
+5: Kaj je Napoleon zahteval v bitki na Edesu?
+-------------------------------------------
+Paragraph: Eden prvih normanskih plačancev, ki je služil kot bizantinski general, je bil Hervé v 1050-ih. Do takrat so že bili normanski plačanci, ki so služili tako daleč kot Trebizond in Gruzija. Nahajali so se v Malatiji in Edesi, pod bizantinskim vojvodo Antiohijo, Izakom Komnenom. Leta 1060 je Robert Crispin vodil Normane Edessa proti Turkom. Roussel de Bailleul je celo poskušal izrezati neodvisno državo v Mali Aziji s podporo lokalnega prebivalstva, vendar ga je ustavil bizantinski general Aleksej Komnenos.
+
+Beam Outputs:
+1: Kateri so bili prvi normanski plačanci, ki so služili v Malatiji?
+2: Kateri so bili prvi normanski plačanci, ki so služili kot bizantinski general?
+3: Kateri so bili prvi normanski plačanci, ki so služili v Edesu?
+4: Kateri so bili prvi normanski plačanci, ki so služili v Edeji?
+5: Kateri so bili prvi normanski plačanci?
+
+Sampling Outputs:
+1: Kdo je leta 1066 ustanovil Edessa?
+2: Kdo je predlagal izrezovanje neodvisnosti na otoku?
+3: Kaj je bil spomenik o tem, kar je bil izvršni direktor vlade?
+4: Na katerih območjih je bila ustanovljena Edessa?
+5: Kaj je Burke ustvaril v letu 1090?
+-------------------------------------------
+Paragraph: Nekateri Normani so združili turške sile in pomagali pri uničenju armenskih vazalnih držav Sassoun in Taron v daljni vzhodni Anatoliji. Kasneje so mnogi začeli služiti armenski državi na jugu v Kilikiji in gorovju Taurus. Norman z imenom Oursel je vodil silo „Franks“ v zgornjo dolino Evfrata v severni Siriji. Od 1073 do 1074 je bilo 8.000 od 20.000 vojakov armenskega generala Philaretus Brachamius Normanov, ki jih je nekoč vodil Raimbaud. Celo svojo etnično pripadnost so posodili imenu svojega gradu: Afranji, kar pomeni Franki. Znana trgovina med Amalfijem in Antiohijo ter med Barijem in Tarsusom je lahko povezana s prisotnostjo Italo-Normanov v teh mestih, medtem ko sta bila Amalfi in Bari v Italiji pod normansko oblastjo.
+
+Beam Outputs:
+1: Kdo je vodil silo „Franks“?
+2: Kdo je vodil silo „Franks“
+3: Kdo je vodil silo „Franks“ v Armeniji?
+4: Kdo je vodil silo „Franks“ v Severni Ameriki
+5: Kdo je vodil armensko vojsko?
+
+Sampling Outputs:
+1: Kdo je vodil silo, ko je bila namenjena?
+2: Kateri so bili nasprotniki Normanov v tem obdobju?
+3: V katerem letu je bila ustanovljena ruska vojska na jugu?
+4: Kakšna je bila pomembna pripadnost Normanov v armenskem cesarstvu?
+5: Kateri vojaki so bili naselljeni s trgovino v kateri državi?
+-------------------------------------------
+Paragraph: Nekateri Normani so združili turške sile in pomagali pri uničenju armenskih vazalnih držav Sassoun in Taron v daljni vzhodni Anatoliji. Kasneje so mnogi začeli služiti armenski državi na jugu v Kilikiji in gorovju Taurus. Norman z imenom Oursel je vodil silo „Franks“ v zgornjo dolino Evfrata v severni Siriji. Od 1073 do 1074 je bilo 8.000 od 20.000 vojakov armenskega generala Philaretus Brachamius Normanov, ki jih je nekoč vodil Raimbaud. Celo svojo etnično pripadnost so posodili imenu svojega gradu: Afranji, kar pomeni Franki. Znana trgovina med Amalfijem in Antiohijo ter med Barijem in Tarsusom je lahko povezana s prisotnostjo Italo-Normanov v teh mestih, medtem ko sta bila Amalfi in Bari v Italiji pod normansko oblastjo.
+
+Beam Outputs:
+1: Kdo je vodil silo „Franks“?
+2: Kdo je vodil silo „Franks“
+3: Kdo je vodil silo „Franks“ v Armeniji?
+4: Kdo je vodil silo „Franks“ v Severni Ameriki
+5: Kdo je vodil armensko vojsko?
+
+Sampling Outputs:
+1: Kaj se je zgodilo s Francozom in Osmansko cesarstvo?
+2: Zakaj je bil Napoleon pripaden v Egiptu?
+3: Kaj so vplivale na njihove priseljence v Eritreji?
+4: Kaj so Normani opazili leta 1074 v Anatoliji?
+5: Kaj je bil glavni izraz za nekaj Normanov?
+-------------------------------------------
+Paragraph: Nekateri Normani so združili turške sile in pomagali pri uničenju armenskih vazalnih držav Sassoun in Taron v daljni vzhodni Anatoliji. Kasneje so mnogi začeli služiti armenski državi na jugu v Kilikiji in gorovju Taurus. Norman z imenom Oursel je vodil silo „Franks“ v zgornjo dolino Evfrata v severni Siriji. Od 1073 do 1074 je bilo 8.000 od 20.000 vojakov armenskega generala Philaretus Brachamius Normanov, ki jih je nekoč vodil Raimbaud. Celo svojo etnično pripadnost so posodili imenu svojega gradu: Afranji, kar pomeni Franki. Znana trgovina med Amalfijem in Antiohijo ter med Barijem in Tarsusom je lahko povezana s prisotnostjo Italo-Normanov v teh mestih, medtem ko sta bila Amalfi in Bari v Italiji pod normansko oblastjo.
+
+Beam Outputs:
+1: Kdo je vodil silo „Franks“?
+2: Kdo je vodil silo „Franks“
+3: Kdo je vodil silo „Franks“ v Armeniji?
+4: Kdo je vodil silo „Franks“ v Severni Ameriki
+5: Kdo je vodil armensko vojsko?
+
+Sampling Outputs:
+1: V čem je bil Normanov imenu?
+2: Kaj je sčasoma povezan z Armenijo?
+3: Kaj je bilo v zgodovini Eritreje?
+4: Kaj je bilo splošno opazno?
+5: Koliko Normanov je imel v Armeniji leta 1072?
+-------------------------------------------
+Paragraph: Več družin bizantinske Grčije je bilo normanskega plačanca v obdobju Komnenske obnove, ko so bizantinski cesarji iskali zahodnoevropske bojevnike. Raoulii so bili potomci italo-normana po imenu Raoul, Petralifae so potomci Pierra d’Aulpsa, skupina albanskih klanov, znana kot Manjakati, pa je bila potomka Normanov, ki so služili pod Georgeom Maniacesom na sicilijanski ekspediciji leta 1038.
+
+Beam Outputs:
+1: Kdo je bil Raoul?
+2: Kaj je bil Raoul?
+3: Kdo je bil potomek Raoulja?
+4: Kdo je bil potomek Raoul?
+5: Kdo je bil potomec Raoul?
+
+Sampling Outputs:
+1: Katera skupina je bila znana kot vpliv na zahodnoevropske migracije v času vojne?
+2: Kaj so bili potomci Normanov v 16. stoletju?
+3: Katera skupina je bil izgnana s kom?
+4: Kateri učenjaki so bili zahodnoevropski in francoski vplivni v obdobju Komnenske obnove?
+5: Kdo je bil Raoul?
+-------------------------------------------
+Paragraph: Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.
+
+Beam Outputs:
+1: Kaj je povzročilo, da so Normani pridobili soglasje?
+2: Kaj je povzročilo, da so Normani prišli v Italijo?
+3: Kaj je povzročilo, da so Normani pridobili soglasje s papežem?
+4: Kaj je povzročilo, da so Normani pridobili soglasje o vojni?
+5: Kaj je povzročilo, da so Normani pridobili soglasje za vojno?
+
+Sampling Outputs:
+1: Kateri je bil drugi prvi Normanov vojski?
+2: Kaj je povzročilo nesoglasje v trgovini z uradniki?
+3: Kaj je povzročilo, da je vojaški uradnik pridobil soglasje v trgovini?
+4: Kdaj je bila vladavina osmanskih vojaških sil zahtevana za zmanjšanje prebivalstva?
+5: Kateri vojaški uspehi so bili vplivni na zgodovino Apolije?
+-------------------------------------------
+Paragraph: Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.
+
+Beam Outputs:
+1: Kaj je povzročilo, da so Normani pridobili soglasje?
+2: Kaj je povzročilo, da so Normani prišli v Italijo?
+3: Kaj je povzročilo, da so Normani pridobili soglasje s papežem?
+4: Kaj je povzročilo, da so Normani pridobili soglasje o vojni?
+5: Kaj je povzročilo, da so Normani pridobili soglasje za vojno?
+
+Sampling Outputs:
+1: Kaj so ugotovili o njegovem pridobivanju v trgovini?
+2: Kako je bil ustvarjen prvi otok?
+3: Kaj je bila zahtevka, da se vojaška vojska umakne?
+4: Kako je bil sčasoma uveden zakon o trgovini na območju?
+5: Kdo je imel nagrado za ohranjanje?
+-------------------------------------------
+Paragraph: Robert Guiscard, drugi normanski pustolovec, ki je bil zaradi svojih vojaških uspehov povzdignjen v dostojanstvo Apulije, je Bizantince izrinil iz južne Italije. Potem ko je pridobil soglasje papeža Gregorja VII. in deloval kot njegov vazal, je nadaljeval svojo kampanjo osvajanja balkanskega polotoka kot opora zahodnim fevdalnim gospodarjem in katoliški cerkvi. Potem ko se je povezal s Hrvaško in katoliškimi mesti Dalmacije, je leta 1081 vodil vojsko 30.000 mož na 300 ladjah, ki so pristale na južni obali Albanije, zajele Valono, Kanino, Jericho (Orikumi) in dosegle Butrint po številnih ropih. Pridružili so se floti, ki je prej osvojila Krf in napadla Dyrrachium s kopnega in morja, kar je uničilo vse na poti. V teh težkih okoliščinah so domačini sprejeli poziv cesarja Alekseja I. Komnena, naj združi moči z Bizantinci proti Normanom. Albanske sile niso mogle sodelovati v bitki, ki je sledila, ker se je začela pred njihovim prihodom. Tik pred bitko je beneška flota zagotovila zmago na obali, ki obkroža mesto. Aleksej je odstopil poveljstvo visokemu albanskemu uradniku po imenu Comiscortes v službi Bizanca. Mestna garnizija se je upirala do februarja 1082, ko so ga Normanom izdali beneški in amalfitski trgovci, ki so se tam naselili. Normani so bili zdaj svobodni pri prodiranju v zaledje; zavzeli so Ioannino in nekaj manjših mest v jugozahodni Makedoniji in Tesaliji, preden so se pojavili pri vratih Solunije. Nesoglasje med visokimi položaji je prisililo Normane, da se umaknejo v Italijo. Leta 1085 so izgubili Dyrrachium, Valona in Butrint, po Robertovi smrti.
+
+Beam Outputs:
+1: Kaj je povzročilo, da so Normani pridobili soglasje?
+2: Kaj je povzročilo, da so Normani prišli v Italijo?
+3: Kaj je povzročilo, da so Normani pridobili soglasje s papežem?
+4: Kaj je povzročilo, da so Normani pridobili soglasje o vojni?
+5: Kaj je povzročilo, da so Normani pridobili soglasje za vojno?
+
+Sampling Outputs:
+1: Kaj je povzročilo razvoj narodov v letu 1072?
+2: Kateri dve vrsti vojakov je bil namenjen za zaščito?
+3: Kdo je zagotovil vlogo za obnovo makedonskega jezika na Cipru?
+4: Kaj je bilo odločjeno za vstop v bitko v Burmo?
+5: Kdo je bil v letu 1085 v bitki v Eritreji?
+-------------------------------------------
+Paragraph: Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.
+
+Beam Outputs:
+1: Kdaj so Normani prišli v Valoni?
+2: Kdaj so se Normani pridružili v Valoni?
+3: Kaj je povzročilo, da so Normani pridružili Bizantinci?
+4: Kaj je povzročilo, da so Normani prišli v Valoni?
+5: Kaj je povzročilo, da so Normani prišli v vojno?
+
+Sampling Outputs:
+1: Kaj so Normani storili v vojni med bizantinami?
+2: Katere države so se združile v Deabolisi?
+3: Kaj je bil glavni posel Normanov, ki je imel v Valoni?
+4: Kako so Normani pridružili bizantinci v vojni?
+5: Kaj je povzročilo, da so Normani osvobodili svoje meje v Debeleni?
+-------------------------------------------
+Paragraph: Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.
+
+Beam Outputs:
+1: Kdaj so Normani prišli v Valoni?
+2: Kdaj so se Normani pridružili v Valoni?
+3: Kaj je povzročilo, da so Normani pridružili Bizantinci?
+4: Kaj je povzročilo, da so Normani prišli v Valoni?
+5: Kaj je povzročilo, da so Normani prišli v vojno?
+
+Sampling Outputs:
+1: Katera dva dogodka sta se Normani izmislila leta 1106?
+2: Kako so bili Normani prisiljeni v vojno v Valoni in ozemlju?
+3: Kaj se je zgodilo z Anglijo?
+4: Kako je bilo ime Normanovim vojnim silam v letu 1106?
+5: Kdo je pridružil sodobno letališče v Valoni?
+-------------------------------------------
+Paragraph: Nekaj let po prvi križarski vojni leta 1107 so Normani pod poveljstvom Bohemonda, Robertovega sina, pristali v Valoni in oblegali Dyrrachium z najsodobnejšo vojaško opremo tistega časa, vendar brez uspeha. Medtem so zasedli Petrelo, citadela Mili na bregovih reke Deabolis, Gllavenica (Ballsh), Kanina in Jericho. Tokrat so se Albanci pridružili Normanom, nezadovoljni z visokimi davki, ki so jim jih naložili Bizantinci. Z njihovo pomočjo so Normani zavarovali prelaze Arbanon in odprli svojo pot do Dibre. Pomanjkanje zalog, bolezni in bizantinskega odpora je prisililo Bohemonda, da se umakne iz svoje kampanje in podpiše mirovno pogodbo z Bizantinci v mestu Deabolis.
+
+Beam Outputs:
+1: Kdaj so Normani prišli v Valoni?
+2: Kdaj so se Normani pridružili v Valoni?
+3: Kaj je povzročilo, da so Normani pridružili Bizantinci?
+4: Kaj je povzročilo, da so Normani prišli v Valoni?
+5: Kaj je povzročilo, da so Normani prišli v vojno?
+
+Sampling Outputs:
+1: Kaj je Normani naredili leta 1811?
+2: Kaj je povzročilo, da so Normani prišli iz svoje kampanje v Valoni in skozi katero regijo?
+3: Kdaj so Normani prisilili, da bi ohranili svojo vojaško opremo?
+4: Kaj je povzročilo konec vojne o francoskih vojaških dogodkih?
+5: Katere so bile drugi razlogi za začasno razpravo Normanov?
+-------------------------------------------
+Paragraph: Nadaljnje upadanje bizantinske države je utrlo pot do tretjega napada leta 1185, ko je velika normanska vojska napadla Dirrachium zaradi izdaje visokih bizantinskih uradnikov. Nekaj časa kasneje je Dyrrachium, eden najpomembnejših pomorskih baz Jadrana, ponovno padel v bizantinske roke.
+
+Beam Outputs:
+1: Kaj je povzročilo nadaljnje upadanje bizantinske države?
+2: Kaj je povzročilo nadaljnje upadanje bizantinskega imperija?
+3: Kaj je povzročilo nadaljnje upadanje bizantinskega cesarstva?
+4: Kaj je povzročilo upadanje bizantinske države?
+5: Kaj je povzročilo upadanje bizantinskega imperija?
+
+Sampling Outputs:
+1: Kdaj je bil prvi dogodek?
+2: Kaj je povzročilo, da se je vojna povečala zaradi učinkovitosti?
+3: Katera je bila najpomembnejši uradni muzej v bizantinski zgodovini
+4: Katero leto je bil izvoljen predsednik vlade?
+5: Kaj je povzročilo zadnje upadanje bizantinske države v letu 1185?
+-------------------------------------------
+Paragraph: Nadaljnje upadanje bizantinske države je utrlo pot do tretjega napada leta 1185, ko je velika normanska vojska napadla Dirrachium zaradi izdaje visokih bizantinskih uradnikov. Nekaj časa kasneje je Dyrrachium, eden najpomembnejših pomorskih baz Jadrana, ponovno padel v bizantinske roke.
+
+Beam Outputs:
+1: Kaj je povzročilo nadaljnje upadanje bizantinske države?
+2: Kaj je povzročilo nadaljnje upadanje bizantinskega imperija?
+3: Kaj je povzročilo nadaljnje upadanje bizantinskega cesarstva?
+4: Kaj je povzročilo upadanje bizantinske države?
+5: Kaj je povzročilo upadanje bizantinskega imperija?
+
+Sampling Outputs:
+1: Kateri je bil prvi nadaljnji napad na dirrachijsko morsko območje?
+2: Kakšna je bila pot s bizantinskimi uradnikov?
+3: Kakšen je bil primer nadaljnjega upada bizantinskih vlad?
+4: Kakšen je bil rezultat prvega napada bizantinskih vladarjev leta 1183?
+5: V katerih okrožjih so bil izvoljen največji vojaški objekt?
+-------------------------------------------
+Paragraph: Nadaljnje upadanje bizantinske države je utrlo pot do tretjega napada leta 1185, ko je velika normanska vojska napadla Dirrachium zaradi izdaje visokih bizantinskih uradnikov. Nekaj časa kasneje je Dyrrachium, eden najpomembnejših pomorskih baz Jadrana, ponovno padel v bizantinske roke.
+
+Beam Outputs:
+1: Kaj je povzročilo nadaljnje upadanje bizantinske države?
+2: Kaj je povzročilo nadaljnje upadanje bizantinskega imperija?
+3: Kaj je povzročilo nadaljnje upadanje bizantinskega cesarstva?
+4: Kaj je povzročilo upadanje bizantinske države?
+5: Kaj je povzročilo upadanje bizantinskega imperija?
+
+Sampling Outputs:
+1: Zakaj je bil omenjen dogodek o tem, da je vlada prišla do vrha?
+2: Kdaj je bil izvoljen prvi uradnik vojaških letal, ki so se udeležili zaradi svoje smrti?
+3: Kdaj je bil Veliki otok v Veliki Britaniji?
+4: Katera je največja pomorska baza Jadrana
+5: Kateri napad je vplival na splošno razvoj v zgodovini?
+-------------------------------------------
+Paragraph: Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.
+
+Beam Outputs:
+1: Kdo je bil prvotni vikinški brat?
+2: Kdo je bil prvi vikinški brat?
+3: Kdo je bil prvotni vikinški brat v Normandiji
+4: Kdo je bil prvotni vikinški brat v Angliji?
+5: Kdo je bil prvi vikinški brat v Normandiji
+
+Sampling Outputs:
+1: Kaj je bilo splošno sporočilo na otoku Knut v letu 1015?
+2: Kdo so bili nasprotniki Normancev, ki so se poročili leta 1012?
+3: Zakaj je Ekelred vstopil v Normandijo?
+4: Kaj je bil razlog za zadnje prizadevanje v Normandiji
+5: Kdo je bil izvoljen za guvernerja v Normandiji?
+-------------------------------------------
+Paragraph: Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.
+
+Beam Outputs:
+1: Kdo je bil prvotni vikinški brat?
+2: Kdo je bil prvi vikinški brat?
+3: Kdo je bil prvotni vikinški brat v Normandiji
+4: Kdo je bil prvotni vikinški brat v Angliji?
+5: Kdo je bil prvi vikinški brat v Normandiji
+
+Sampling Outputs:
+1: Kaj je pomenilo nagrado Normandov, ki je ugotovil, da so se njihovi prvotni viki nadomestili?
+2: Kaj je bil namen britanskega kraljestva v letu 1031?
+3: Zakaj so Normani pobili več lokacij v Normandiji?
+4: Kaj je bilo prvotno vplivalo na njihovo zgodovino?
+5: Kakšne so bile lastnosti otoka knutskega očeta?
+-------------------------------------------
+Paragraph: Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.
+
+Beam Outputs:
+1: Kdo je bil prvotni vikinški brat?
+2: Kdo je bil prvi vikinški brat?
+3: Kdo je bil prvotni vikinški brat v Normandiji
+4: Kdo je bil prvotni vikinški brat v Angliji?
+5: Kdo je bil prvi vikinški brat v Normandiji
+
+Sampling Outputs:
+1: Kako so zgodovinarji opazili vpliv na francoske in angleške vojske v letu 1013?
+2: Kdo je bil vpliven na njegovo zgodovino?
+3: Kako je bil edini dogodek na otoku, ki je bil prvotno zgrajen v Normaniji?
+4: Kdo je bil glavni vikinški vojaški dogodek?
+5: Katere države so bili v lasti Normanske cerkve?
+-------------------------------------------
+Paragraph: Normani so bili že zgodaj v stiku z Anglijo. Ne samo, da so njihovi prvotni vikinški bratje še vedno divjali po angleški obali, ampak so zasedli večino pomembnih pristanišč nasproti Anglije preko Rokavskega preliva. S poroko Emme, sestre vojvode Riharda II. iz Normandije in kralja Ethelreda II. Zaradi tega je Ethelred leta 1013 pobegnil v Normandijo, ko ga je Sweyn Forkbeard izgnal iz svojega kraljestva. Njegovo bivanje v Normandiji (do leta 1016) je vplivalo nanj in njegove sinove Emme, ki je ostala v Normandiji po osvojitvi otoka Knut Velikega.
+
+Beam Outputs:
+1: Kdo je bil prvotni vikinški brat?
+2: Kdo je bil prvi vikinški brat?
+3: Kdo je bil prvotni vikinški brat v Normandiji
+4: Kdo je bil prvotni vikinški brat v Angliji?
+5: Kdo je bil prvi vikinški brat v Normandiji
+
+Sampling Outputs:
+1: Kako so se Normanci spremenili v Anglijo, ko je postal v Southamptonu?
+2: Kaj je bil vzrok vojne v Angliji, ko je bil izgnan iz otoka?
+3: Kaj je bil vzrok za izgubo Emmera?
+4: Kako je bil vikinški vpliv na Normandijo?
+5: Kako se je imenovalo mesto v Southamptonu leta 1013?
+-------------------------------------------
+Paragraph: Ko se je Edvard Spovednik leta 1041 vrnil iz očetovega zatočišča na povabilo njegovega polbrata Harthacnuta, je s seboj prinesel normansko izobražen um. Pripeljal je tudi veliko normanskih svetovalcev in borcev, od katerih so nekateri ustanovili angleško konjeniško silo. Ta koncept se nikoli ni zares ukoreninil, vendar je tipičen primer Edwardovega odnosa. Imenoval je Roberta Jumiègesovega nadškofa Canterburyja in Ralpha imenoval za grofa Hereforda. Svojega svaka Eustacea II., grofa Boulogna, je povabil na sodišče leta 1051, dogodek, ki je privedel do največjih zgodnjih konfliktov med Saškim in Normanom in na koncu privedel do izgnanstva grofa Godvina iz Wessexa.
+
+Beam Outputs:
+1: Kako je Edvard Spovednik pripeljal na sodišče leta 1041?
+2: Kako je Edvard Spovednik pripeljal na sodišče leta 1051?
+3: Kako je Edvard Spovednik pripeljal na sodišče leta 1040?
+4: Kako je Edvard Spovednik pripeljal na sodišče leta 1031?
+5: Kako je Edvard Spovednik pripeljal na sodišče leta 1049?
+
+Sampling Outputs:
+1: Zakaj je bil Edvard Spovednik vplivan na zgodovino?
+2: Kakšna je bila pomembna funkcija Edmunda Spovednika?
+3: Kdo je imenoval strokovnjakov na področju šolskih odnosov?
+4: Kakšno so lastnosti, s katerimi je bil Edward Svobodnik pogosto ustavljen v zgodovino?
+5: Zakaj je Edward Spovednik imel velik odstotek vpliva na razvoj?
+-------------------------------------------
+Paragraph: Ko se je Edvard Spovednik leta 1041 vrnil iz očetovega zatočišča na povabilo njegovega polbrata Harthacnuta, je s seboj prinesel normansko izobražen um. Pripeljal je tudi veliko normanskih svetovalcev in borcev, od katerih so nekateri ustanovili angleško konjeniško silo. Ta koncept se nikoli ni zares ukoreninil, vendar je tipičen primer Edwardovega odnosa. Imenoval je Roberta Jumiègesovega nadškofa Canterburyja in Ralpha imenoval za grofa Hereforda. Svojega svaka Eustacea II., grofa Boulogna, je povabil na sodišče leta 1051, dogodek, ki je privedel do največjih zgodnjih konfliktov med Saškim in Normanom in na koncu privedel do izgnanstva grofa Godvina iz Wessexa.
+
+Beam Outputs:
+1: Kako je Edvard Spovednik pripeljal na sodišče leta 1041?
+2: Kako je Edvard Spovednik pripeljal na sodišče leta 1051?
+3: Kako je Edvard Spovednik pripeljal na sodišče leta 1040?
+4: Kako je Edvard Spovednik pripeljal na sodišče leta 1031?
+5: Kako je Edvard Spovednik pripeljal na sodišče leta 1049?
+
+Sampling Outputs:
+1: Kaj je bil Edwardov svek leta 1041?
+2: Kdo je imel več strokovnjakov?
+3: Kateri so bili primeri Edwardovega odnosa, ki so ga ustanovili v Angliji?
+4: Kdo je bil vodja zahodnoafriške konjeniške sile?
+5: V katerih letih so se Britanci vrnili iz Anglije v Wales
+-------------------------------------------
+Paragraph: Ko se je Edvard Spovednik leta 1041 vrnil iz očetovega zatočišča na povabilo njegovega polbrata Harthacnuta, je s seboj prinesel normansko izobražen um. Pripeljal je tudi veliko normanskih svetovalcev in borcev, od katerih so nekateri ustanovili angleško konjeniško silo. Ta koncept se nikoli ni zares ukoreninil, vendar je tipičen primer Edwardovega odnosa. Imenoval je Roberta Jumiègesovega nadškofa Canterburyja in Ralpha imenoval za grofa Hereforda. Svojega svaka Eustacea II., grofa Boulogna, je povabil na sodišče leta 1051, dogodek, ki je privedel do največjih zgodnjih konfliktov med Saškim in Normanom in na koncu privedel do izgnanstva grofa Godvina iz Wessexa.
+
+Beam Outputs:
+1: Kako je Edvard Spovednik pripeljal na sodišče leta 1041?
+2: Kako je Edvard Spovednik pripeljal na sodišče leta 1051?
+3: Kako je Edvard Spovednik pripeljal na sodišče leta 1040?
+4: Kako je Edvard Spovednik pripeljal na sodišče leta 1031?
+5: Kako je Edvard Spovednik pripeljal na sodišče leta 1049?
+
+Sampling Outputs:
+1: Kaj je pomenil Svoboda?
+2: Kdaj je Edward Spovednik pripeljal svoja strokovnjaka za konjeniško silo?
+3: Kako se je zgodilo, ko se je Edvard Spovednik vrnil iz očetove zaščite?
+4: Kaj je bil prvi dogodek Edwarda Spovednika?
+5: Kaj je Edvard Spovednik videl, da je pripeljal do smrti v ZDA?
+-------------------------------------------
+Paragraph: Leta 1066 je normandijski vojvoda Viljem II. osvojil Anglijo in ubil kralja Harolda II. v bitki pri Hastingsu. Osvajajoči Normani in njihovi potomci so nadomestili anglosaške kot vladajoči razred Anglije. Plemstvo Anglije je bilo del ene Normanske kulture in mnogi so imeli zemljišča na obeh straneh kanala. Zgodnji normanski kralji Anglije, kot vojvode Normandije, so se poklonili francoskemu kralju za svojo zemljo na celini. Menili so, da je Anglija njihova najpomembnejša lastnost (s seboj je prinesla naslov kralja – pomemben statusni simbol).
+
+Beam Outputs:
+1: Kdo je bil prvi, ki je osvojil Anglijo?
+2: Kdo je bil izvoljen za kralja?
+3: Kdo je bil izvoljen za kralja v Angliji?
+4: Kdo je bil prvi, ki je osvojil Anglijo leta 1066
+5: Kako je bilo ime Angliji?
+
+Sampling Outputs:
+1: Kakšno je bilo ime kraljevega naroda?
+2: Kaj je bil prvi del Anglije v letu 1066?
+3: Kdo je bil kralj Anglije leta 1066?
+4: Kje je bila Anglija prvič vpletena v bitko pri Hastingsu leta 1066?
+5: Kaj so anglosaksonski kolonisti mislili, da je bila Anglija njena najpomembnejša lastnost?
+-------------------------------------------
+Paragraph: Leta 1066 je normandijski vojvoda Viljem II. osvojil Anglijo in ubil kralja Harolda II. v bitki pri Hastingsu. Osvajajoči Normani in njihovi potomci so nadomestili anglosaške kot vladajoči razred Anglije. Plemstvo Anglije je bilo del ene Normanske kulture in mnogi so imeli zemljišča na obeh straneh kanala. Zgodnji normanski kralji Anglije, kot vojvode Normandije, so se poklonili francoskemu kralju za svojo zemljo na celini. Menili so, da je Anglija njihova najpomembnejša lastnost (s seboj je prinesla naslov kralja – pomemben statusni simbol).
+
+Beam Outputs:
+1: Kdo je bil prvi, ki je osvojil Anglijo?
+2: Kdo je bil izvoljen za kralja?
+3: Kdo je bil izvoljen za kralja v Angliji?
+4: Kdo je bil prvi, ki je osvojil Anglijo leta 1066
+5: Kako je bilo ime Angliji?
+
+Sampling Outputs:
+1: Kateri monarhi so bili izvoljeni v Anglijo v 1066?
+2: Kateri narod je osvojil Anglijo v katerem letu?
+3: Kdo je bil prvi, ki je bil ustanovljen v Normandiji?
+4: Kateri kralji so se v Franciji odločili, da bo Anglija nadomestila angleški voditelj?
+5: Kako se imenuje „vladajo Anglije“?
+-------------------------------------------
+Paragraph: Leta 1066 je normandijski vojvoda Viljem II. osvojil Anglijo in ubil kralja Harolda II. v bitki pri Hastingsu. Osvajajoči Normani in njihovi potomci so nadomestili anglosaške kot vladajoči razred Anglije. Plemstvo Anglije je bilo del ene Normanske kulture in mnogi so imeli zemljišča na obeh straneh kanala. Zgodnji normanski kralji Anglije, kot vojvode Normandije, so se poklonili francoskemu kralju za svojo zemljo na celini. Menili so, da je Anglija njihova najpomembnejša lastnost (s seboj je prinesla naslov kralja – pomemben statusni simbol).
+
+Beam Outputs:
+1: Kdo je bil prvi, ki je osvojil Anglijo?
+2: Kdo je bil izvoljen za kralja?
+3: Kdo je bil izvoljen za kralja v Angliji?
+4: Kdo je bil prvi, ki je osvojil Anglijo leta 1066
+5: Kako je bilo ime Angliji?
+
+Sampling Outputs:
+1: Kakšen je bil naslov za „Velika zemlja“?
+2: Kako so Normanci govorili o svojih zemljiščih na Celini?
+3: V katerem letu so Normanci zamenjali svojo zemljišče?
+4: Kako so francoski vojvodi nadomestili anglijsko zemljišče?
+5: Kaj je bilo nadomestino z normansko zemljo na obeh straneh kanala?
+-------------------------------------------
+Paragraph: Leta 1066 je normandijski vojvoda Viljem II. osvojil Anglijo in ubil kralja Harolda II. v bitki pri Hastingsu. Osvajajoči Normani in njihovi potomci so nadomestili anglosaške kot vladajoči razred Anglije. Plemstvo Anglije je bilo del ene Normanske kulture in mnogi so imeli zemljišča na obeh straneh kanala. Zgodnji normanski kralji Anglije, kot vojvode Normandije, so se poklonili francoskemu kralju za svojo zemljo na celini. Menili so, da je Anglija njihova najpomembnejša lastnost (s seboj je prinesla naslov kralja – pomemben statusni simbol).
+
+Beam Outputs:
+1: Kdo je bil prvi, ki je osvojil Anglijo?
+2: Kdo je bil izvoljen za kralja?
+3: Kdo je bil izvoljen za kralja v Angliji?
+4: Kdo je bil prvi, ki je osvojil Anglijo leta 1066
+5: Kako je bilo ime Angliji?
+
+Sampling Outputs:
+1: Zakaj je bila Anglija bolj razdeljena na njihovo zemljišče?
+2: Kdo je bil oče kralja, ki je bil ustvarjen?
+3: Kako je bil imenovan otok, ki so imeli zemljišča v Angliji?
+4: Kdo je postal Napoleonov oče, ki je napovedal odločitev, da je Anglija vključovala v Evropo?
+5: Kako je bil naslov kralja Viktorije, ki je bil vplivan na to, da je bilo ustvarjeno v Angliji?
+-------------------------------------------
+Paragraph: Sčasoma so se Normani združili z domačini in združili jezike in tradicije. Med stoletno vojno se je normanska aristokracija pogosto prepoznala kot angleščina. Anglo-normanski jezik se je razlikoval od latinskega jezika, kar je bilo predmet nekega humorja Geoffreya Chaucerja. Anglo-normanski jezik se je sčasoma absorbiral v anglosaški jezik njihovih predmetov (glej Staro angleščino) in nanj vplival, pomagal (skupaj z nordijskim jezikom prejšnjih anglosaških naseljencev in latinščino, ki jo je uporabljala cerkev) pri razvoju srednjega angleškega jezika. Razvilo se je v moderno angleščino.
+
+Beam Outputs:
+1: Kateri jezik se je razvil v angleščini?
+2: Kateri jezik je vplival na razvoj angleškega jezika?
+3: Kateri jezik se je sčasoma uporabljal v angleščini?
+4: Kateri jezik se je razvil v Angliji?
+5: Kateri jezik se je sčasoma uporabljal v Angliji?
+
+Sampling Outputs:
+1: Kaj je bilo vključeno v zgodovino sodobne cerkve?
+2: Kakšne lastnosti je bil angleški jezik?
+3: Kakšna je bila bila zgodovinska zgodovina Anglo-Normanski jezik?
+4: Kaj je bilo pomembno za zgodovino anglosaškega jezika?
+5: Kakšno je bilo drugo ime o Angliji?
+-------------------------------------------
+Paragraph: Normani so imeli velik vpliv na irsko kulturo in zgodovino po invaziji v Bannow Bay leta 1169. Sprva so Normani ohranili posebno kulturo in etnično pripadnost. Vendar so sčasoma postali del irske kulture do te mere, da so postali „bolj irski od Ircev samih“. Normani so se večinoma naselili na območju na vzhodu Irske, kasneje znanem kot Pale, in zgradili tudi veliko lepih gradov in naselbin, vključno z gradom Trim in gradom Dublin. Obe kulturi sta prepleteni, izposojeni drug od drugega jezika, kulture in obetov. Normanske potomce je danes mogoče prepoznati po priimkih. Imena, kot so francoščina, (De) Roche, Devereux, D’Arcy, Treacy in Lacy, so še posebej pogosta na jugovzhodu Irske, zlasti v južnem delu grofije Wexford, kjer so bila ustanovljena prva normanska naselja. Tam prevladujejo druga normanska imena, kot je Furlong. Drugo splošno normansko-irsko ime je Morell (Murrell), pridobljeno iz francoskega normanskega imena Morel. Druga imena, ki se začnejo z Fitzom (iz Normana za sina), označujejo normanske prednike. Med njimi so bili Fitzgerald, Fitzgibbons (Gibbons) dinastija, Fitzmaurice. Druge družine s priimki, kot sta Barry (de Barra) in De Búrca (Burke), so tudi normanske.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki so se naselili v Burmi?
+2: Kako se imenuje skupina Normanov?
+3: Kako se imenuje splošna normanska imena?
+4: Kako se imenuje skupina Normanov, ki se je naselila na vzhodu?
+5: Kako se imenuje skupina Normanov, ki so se naselili na vzhodu?
+
+Sampling Outputs:
+1: Kaj so Normani uporabljali za raziskovanje spolno vpliva?
+2: Kdo se je pojavilo v zgodnjih invazijah v Angliji?
+3: Kaj so Normanci uporabili v letu 1169?
+4: Katere dve drugi državi sta imeli pomembno vlogo v razvoju na območju v jugovzhodu Irske?
+5: Zakaj je zgodovina pomembna za Normansko pripadnost?
+-------------------------------------------
+Paragraph: Normani so imeli velik vpliv na irsko kulturo in zgodovino po invaziji v Bannow Bay leta 1169. Sprva so Normani ohranili posebno kulturo in etnično pripadnost. Vendar so sčasoma postali del irske kulture do te mere, da so postali „bolj irski od Ircev samih“. Normani so se večinoma naselili na območju na vzhodu Irske, kasneje znanem kot Pale, in zgradili tudi veliko lepih gradov in naselbin, vključno z gradom Trim in gradom Dublin. Obe kulturi sta prepleteni, izposojeni drug od drugega jezika, kulture in obetov. Normanske potomce je danes mogoče prepoznati po priimkih. Imena, kot so francoščina, (De) Roche, Devereux, D’Arcy, Treacy in Lacy, so še posebej pogosta na jugovzhodu Irske, zlasti v južnem delu grofije Wexford, kjer so bila ustanovljena prva normanska naselja. Tam prevladujejo druga normanska imena, kot je Furlong. Drugo splošno normansko-irsko ime je Morell (Murrell), pridobljeno iz francoskega normanskega imena Morel. Druga imena, ki se začnejo z Fitzom (iz Normana za sina), označujejo normanske prednike. Med njimi so bili Fitzgerald, Fitzgibbons (Gibbons) dinastija, Fitzmaurice. Druge družine s priimki, kot sta Barry (de Barra) in De Búrca (Burke), so tudi normanske.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki so se naselili v Burmi?
+2: Kako se imenuje skupina Normanov?
+3: Kako se imenuje splošna normanska imena?
+4: Kako se imenuje skupina Normanov, ki se je naselila na vzhodu?
+5: Kako se imenuje skupina Normanov, ki so se naselili na vzhodu?
+
+Sampling Outputs:
+1: Kateri so bili drugi največji dogodki v Angliji leta 1169?
+2: Kaj je pomembno za izboljšanje zgodovine na območju Irske
+3: Na katerih območjih so se Normani vplivali na izboljšanje?
+4: Kaj je bilo prepovedano tudi v zgodnjih zgodovinskih časih?
+5: Katere so nekatere druge skupine, ki so jih naselili Normanji?
+-------------------------------------------
+Paragraph: Normani so imeli velik vpliv na irsko kulturo in zgodovino po invaziji v Bannow Bay leta 1169. Sprva so Normani ohranili posebno kulturo in etnično pripadnost. Vendar so sčasoma postali del irske kulture do te mere, da so postali „bolj irski od Ircev samih“. Normani so se večinoma naselili na območju na vzhodu Irske, kasneje znanem kot Pale, in zgradili tudi veliko lepih gradov in naselbin, vključno z gradom Trim in gradom Dublin. Obe kulturi sta prepleteni, izposojeni drug od drugega jezika, kulture in obetov. Normanske potomce je danes mogoče prepoznati po priimkih. Imena, kot so francoščina, (De) Roche, Devereux, D’Arcy, Treacy in Lacy, so še posebej pogosta na jugovzhodu Irske, zlasti v južnem delu grofije Wexford, kjer so bila ustanovljena prva normanska naselja. Tam prevladujejo druga normanska imena, kot je Furlong. Drugo splošno normansko-irsko ime je Morell (Murrell), pridobljeno iz francoskega normanskega imena Morel. Druga imena, ki se začnejo z Fitzom (iz Normana za sina), označujejo normanske prednike. Med njimi so bili Fitzgerald, Fitzgibbons (Gibbons) dinastija, Fitzmaurice. Druge družine s priimki, kot sta Barry (de Barra) in De Búrca (Burke), so tudi normanske.
+
+Beam Outputs:
+1: Kako se imenuje skupina Normanov, ki so se naselili v Burmi?
+2: Kako se imenuje skupina Normanov?
+3: Kako se imenuje splošna normanska imena?
+4: Kako se imenuje skupina Normanov, ki se je naselila na vzhodu?
+5: Kako se imenuje skupina Normanov, ki so se naselili na vzhodu?
+
+Sampling Outputs:
+1: Kaj je bil osrednji namen imena na Irskem?
+2: Zakaj so se Normanji pogosto imenovali na Irskem?
+3: Kaj je bilo pomembno v letu 1169?
+4: Kaj je bilo vključno z uradnim jezikovnim slogom?
+5: Kaj so Normani uporabili kot naslov za pomembne imenoteke?
+-------------------------------------------
+Paragraph: Eden od vlagateljev angleškega prestola, ki je nasprotoval Viljemu Osvajalcu Edgarju Athelingu, je sčasoma pobegnil na Škotsko. Kralj Malcolm III. Škotski se je poročil z Edgarjevo sestro Margaret in prišel v opozicijo z Viljemom, ki je že izpodbijal južne meje Škotske. Viljem je napadel Škotsko leta 1072, jahal se je do Abernethyja, kjer se je srečal s svojo floto ladij. Malcolm se je poklonil Viljemu in predal svojega sina Duncana kot talca, kar je sprožilo vrsto argumentov o tem, ali je škotska krona dolgovala zvestobo kralju Anglije.
+
+Beam Outputs:
+1: Kaj je povzročilo, da je škotska krona vplivala na Škotsko?
+2: Kaj je povzročilo, da se je škotska krona poročila z Viljem?
+3: Kaj je povzročilo, da je škotska krona postala zvesta?
+4: Kaj je povzročilo, da se je škotska krona poročila s Viljem?
+5: Kaj je povzročilo, da je škotska krona vplivala na Škotsko
+
+Sampling Outputs:
+1: Kaj je omogočilo Viktoriji, da so škotske vloge vključne z njeno politiko?
+2: Kaj je povzročilo razlog, da je Britanec odločil za sovjetsko cesarstvo?
+3: Kateri kralj je kupil Škotsko?
+4: Kaj je pomenilo poročilo o Kraljevem pomembnem dogodku?
+5: Kdo je poskusil na Škotsko?
+-------------------------------------------
+Paragraph: Eden od vlagateljev angleškega prestola, ki je nasprotoval Viljemu Osvajalcu Edgarju Athelingu, je sčasoma pobegnil na Škotsko. Kralj Malcolm III. Škotski se je poročil z Edgarjevo sestro Margaret in prišel v opozicijo z Viljemom, ki je že izpodbijal južne meje Škotske. Viljem je napadel Škotsko leta 1072, jahal se je do Abernethyja, kjer se je srečal s svojo floto ladij. Malcolm se je poklonil Viljemu in predal svojega sina Duncana kot talca, kar je sprožilo vrsto argumentov o tem, ali je škotska krona dolgovala zvestobo kralju Anglije.
+
+Beam Outputs:
+1: Kaj je povzročilo, da je škotska krona vplivala na Škotsko?
+2: Kaj je povzročilo, da se je škotska krona poročila z Viljem?
+3: Kaj je povzročilo, da je škotska krona postala zvesta?
+4: Kaj je povzročilo, da se je škotska krona poročila s Viljem?
+5: Kaj je povzročilo, da je škotska krona vplivala na Škotsko
+
+Sampling Outputs:
+1: Kateri je bil zadnja država, ki je zagotovila, da so bili navedeni sodobni dokazi za splošno o škotskem cesarstvu?
+2: Kaj je imel Edgar sčasoma najbolj znan kot naravni predmet?
+3: Kaj je bil glavni argument o razvoju škotskega kralja Malcolma?
+4: Kakšen je bil razlog, da je bil kralj Malcolm prvič zgrajen leta 1072?
+5: Kateri je bil prvi, ki je pojavil, da je škotska krona dobila zvestobo na Škotsko leta 1072?
+-------------------------------------------
+Paragraph: Eden od vlagateljev angleškega prestola, ki je nasprotoval Viljemu Osvajalcu Edgarju Athelingu, je sčasoma pobegnil na Škotsko. Kralj Malcolm III. Škotski se je poročil z Edgarjevo sestro Margaret in prišel v opozicijo z Viljemom, ki je že izpodbijal južne meje Škotske. Viljem je napadel Škotsko leta 1072, jahal se je do Abernethyja, kjer se je srečal s svojo floto ladij. Malcolm se je poklonil Viljemu in predal svojega sina Duncana kot talca, kar je sprožilo vrsto argumentov o tem, ali je škotska krona dolgovala zvestobo kralju Anglije.
+
+Beam Outputs:
+1: Kaj je povzročilo, da je škotska krona vplivala na Škotsko?
+2: Kaj je povzročilo, da se je škotska krona poročila z Viljem?
+3: Kaj je povzročilo, da je škotska krona postala zvesta?
+4: Kaj je povzročilo, da se je škotska krona poročila s Viljem?
+5: Kaj je povzročilo, da je škotska krona vplivala na Škotsko
+
+Sampling Outputs:
+1: Kaj je povzročilo, da je Frederick nasprotoval Viljemu?
+2: Zakaj je kralj Frederick poskušal kupiti svoje sestre?
+3: Kako so se poročili z Viktorijo in Malcolmom III.
+4: Kaj se je zgodilo, ko je bil kralj Malcolm III. poskušal kupiti svoje ladje?
+5: Na kaj je bil sčasoma poročen Edgar?
+-------------------------------------------
+Paragraph: Eden od vlagateljev angleškega prestola, ki je nasprotoval Viljemu Osvajalcu Edgarju Athelingu, je sčasoma pobegnil na Škotsko. Kralj Malcolm III. Škotski se je poročil z Edgarjevo sestro Margaret in prišel v opozicijo z Viljemom, ki je že izpodbijal južne meje Škotske. Viljem je napadel Škotsko leta 1072, jahal se je do Abernethyja, kjer se je srečal s svojo floto ladij. Malcolm se je poklonil Viljemu in predal svojega sina Duncana kot talca, kar je sprožilo vrsto argumentov o tem, ali je škotska krona dolgovala zvestobo kralju Anglije.
+
+Beam Outputs:
+1: Kaj je povzročilo, da je škotska krona vplivala na Škotsko?
+2: Kaj je povzročilo, da se je škotska krona poročila z Viljem?
+3: Kaj je povzročilo, da je škotska krona postala zvesta?
+4: Kaj je povzročilo, da se je škotska krona poročila s Viljem?
+5: Kaj je povzročilo, da je škotska krona vplivala na Škotsko
+
+Sampling Outputs:
+1: Na kateri dan je bila škotska vlada po vojni?
+2: Kdo je sčasoma poročal o svojih volitvah?
+3: Zakaj je bil Frederick prvič povečan?
+4: Na kateri dogodek je bil kralj Malcolm II. poročen leta 1072?
+5: Katera država je sčasoma izgubila svoje ladje?
+-------------------------------------------
+Paragraph: Normani so prišli na Škotsko, gradili gradove in ustanovili plemiške družine, ki so zagotavljale nekatere bodoče kralje, kot je Robert Bruce, in ustanovile veliko število škotskih klanov. Kralj David I. Škotski, čigar starejši brat Aleksander I. se je poročil s Sybillo Normandijo, je bil ključnega pomena pri uvajanju Normanov in normanske kulture na Škotsko, del procesa, ki ga nekateri znanstveniki imenujejo „Davidijska revolucija“. Potem ko je preživel čas na dvoru Henrika I. Anglije (poročil se je Davidovi sestri Maud Škotske), in jih potreboval, da bi se borili v kraljestvu od svojega polbrata Máela Coluima mac Alaxandairja, je moral David nagraditi mnoge z deželami. Proces se je nadaljeval pod Davidovimi nasledniki, najbolj intenzivno pod Viljem Levom. Normanski fevdalni sistem se je v različnem obsegu uporabljal za večino Škotske. Škotske družine z imeni Bruce, Gray, Ramsay, Fraser, Ogilvie, Montgomery, Sinclair, Pollock, Burnard, Douglas in Gordon, če jih naštejemo le nekaj, vključno s kasnejšo kraljevo hišo Stewart, se lahko izsledijo nazaj v Normanske prednike.
+
+Beam Outputs:
+1: Kdo je bil prvi, ki je prišel na Škotsko?
+2: Kdo je bil prvi, ki je prišel na Škotsko
+3: Kdo je bil izvoljen za kralja, ki se je poročil s Frederickom?
+4: Kdo je bil izvoljen za predsednika?
+5: Kdo je bil izvoljen za kralja?
+
+Sampling Outputs:
+1: Kaj je imel kralj David II. v sodobnem obdobju v Škotski?
+2: Kako se imenuje proces, ki ga je Darwin izpustil zaradi njegove hiše
+3: Kako je bilo imenovanje družine, ki je imela velik pomen za uporabo šolske opreme v Škotskem?
+4: Katera je bila prva zgodovinska beseda, ki se je začela leta 1855?
+5: Katere družine so se pomembno udeležili v procesu?
+-------------------------------------------
+Paragraph: Normani so prišli na Škotsko, gradili gradove in ustanovili plemiške družine, ki so zagotavljale nekatere bodoče kralje, kot je Robert Bruce, in ustanovile veliko število škotskih klanov. Kralj David I. Škotski, čigar starejši brat Aleksander I. se je poročil s Sybillo Normandijo, je bil ključnega pomena pri uvajanju Normanov in normanske kulture na Škotsko, del procesa, ki ga nekateri znanstveniki imenujejo „Davidijska revolucija“. Potem ko je preživel čas na dvoru Henrika I. Anglije (poročil se je Davidovi sestri Maud Škotske), in jih potreboval, da bi se borili v kraljestvu od svojega polbrata Máela Coluima mac Alaxandairja, je moral David nagraditi mnoge z deželami. Proces se je nadaljeval pod Davidovimi nasledniki, najbolj intenzivno pod Viljem Levom. Normanski fevdalni sistem se je v različnem obsegu uporabljal za večino Škotske. Škotske družine z imeni Bruce, Gray, Ramsay, Fraser, Ogilvie, Montgomery, Sinclair, Pollock, Burnard, Douglas in Gordon, če jih naštejemo le nekaj, vključno s kasnejšo kraljevo hišo Stewart, se lahko izsledijo nazaj v Normanske prednike.
+
+Beam Outputs:
+1: Kdo je bil prvi, ki je prišel na Škotsko?
+2: Kdo je bil prvi, ki je prišel na Škotsko
+3: Kdo je bil izvoljen za kralja, ki se je poročil s Frederickom?
+4: Kdo je bil izvoljen za predsednika?
+5: Kdo je bil izvoljen za kralja?
+
+Sampling Outputs:
+1: Kaj je bila najbolj zaznamovana prizadeva Victoria?
+2: Kakšen je bil rezultat srečanja s Frederickom in Frederickom s Frederickom?
+3: Kako so bili znani škotski duhovniki?
+4: Katere tri tri skupine so bile zavezniške?
+5: Kateri dve so bili ključni zaradi vpliva na Škotsko vojaško podjetje?
+-------------------------------------------
+Paragraph: Še pred normanskim osvojitvijo Anglije so Normani prišli v stik z Walesom. Edvard Spovednik je omenjeni Ralph postavil za grofa Hereforda in ga obtožil, da je branil pohode in se boril z valižani. V teh prvotnih podvigih Normani niso dosegli nobenega napredka v Walesu.
+
+Beam Outputs:
+1: Kako so Normani prišli v stik z Walesom?
+2: Kako so Normani prišli v stik z Walesom
+3: Kako so Normani prišli v stik z Anglijo?
+4: Kdo je omenjen za grofa Hereforda?
+5: Kako so Normani prišli v stik s Walesom
+
+Sampling Outputs:
+1: Katera je bila prva beseda, ki je omenjena v letu 1763?
+2: Na kateri podlagi je Edward Spovednik postavil na podvajanje?
+3: Kateri je bil prvi, ki je prišel v stik s Walesom?
+4: Kdo je omenjen v zgodnjem spominu o Normanskem napredku in vplivu?
+5: Kaj je omenjeno v 19. stoletju
+-------------------------------------------
+Paragraph: Še pred normanskim osvojitvijo Anglije so Normani prišli v stik z Walesom. Edvard Spovednik je omenjeni Ralph postavil za grofa Hereforda in ga obtožil, da je branil pohode in se boril z valižani. V teh prvotnih podvigih Normani niso dosegli nobenega napredka v Walesu.
+
+Beam Outputs:
+1: Kako so Normani prišli v stik z Walesom?
+2: Kako so Normani prišli v stik z Walesom
+3: Kako so Normani prišli v stik z Anglijo?
+4: Kdo je omenjen za grofa Hereforda?
+5: Kako so Normani prišli v stik s Walesom
+
+Sampling Outputs:
+1: Kdo je omenjeni omenjeni kot prvi omenjeni Ralpha
+2: Kaj je omenjena spovednik v primerjavi s Francijo?
+3: Kaj je Spovednik povedal v splošno?
+4: Zakaj so Normanji prišli v stik z Anglijo?
+5: Kako so Normani prišli v stik z Walesom?
+-------------------------------------------
+Paragraph: Še pred normanskim osvojitvijo Anglije so Normani prišli v stik z Walesom. Edvard Spovednik je omenjeni Ralph postavil za grofa Hereforda in ga obtožil, da je branil pohode in se boril z valižani. V teh prvotnih podvigih Normani niso dosegli nobenega napredka v Walesu.
+
+Beam Outputs:
+1: Kako so Normani prišli v stik z Walesom?
+2: Kako so Normani prišli v stik z Walesom
+3: Kako so Normani prišli v stik z Anglijo?
+4: Kdo je omenjen za grofa Hereforda?
+5: Kako so Normani prišli v stik s Walesom
+
+Sampling Outputs:
+1: Kdo je napovedal, da so Normani napredovali?
+2: Kakšen je bil namen omenjenega Spovednika?
+3: Kakšna je bila spovednik, ki je ustavil omenjeno omenjeno poročilo z omenjeno osebo?
+4: Kako so Normani opustili Wales?
+5: Kateri je bil prvi razvoj, ki je povzročila, da se Normani ni strinjali, da bi napredovali v Walesu?
+-------------------------------------------
+Paragraph: Po osvojitvi pa so se pohodi popolnoma znašli pod Viljemovimi najbolj zaupanja vrednimi normanskimi baroni, vključno z Bernardom de Neufmarchéjem, Rogerjem Montgomeryjem v Shropshiru in Hughom Lupusom v Cheshiru. Ti Normani so začeli dolgo obdobje počasnega osvajanja, v katerem je bil skoraj ves Wales v nekem trenutku podvržen normanskemu vmešavanju. Normanske besede, kot je baron, so takrat prvič vstopile v valižanščino.
+
+Beam Outputs:
+1: Kdo je bil najbolj zaupanja vreden?
+2: Kdo je bil najbolj zaupanja vreden Norman?
+3: Kdo je bil najbolj zaupanja vreden Normancev?
+4: Kdo je bil najbolj zaupanja vreden Normanski baron?
+5: Kdo je bil najbolj zaupanja vreden Normanov?
+
+Sampling Outputs:
+1: Kdo je bil najbolj zaupanja vreden Normanski vojaški voditelji?
+2: Kaj so Normanci včasih zapustili v Walesu?
+3: Kaj je bilo v zgodnjih letih omogočeno za ozemlje?
+4: Kateri dvaj najpomembnejših baronov sta bili zadnja sovjetska vlada?
+5: Kdo je poskušal spoštovati svoje delo v Franciji?
+-------------------------------------------
+Paragraph: Legendarna verska vneta Normanov je bila izvedena v verskih vojnah dolgo pred prvo križarsko vojno, ki je izklesala normansko kneževino v Antiohiji. Bili so veliki tuji udeleženci Reconquista v Iberiji. Leta 1018 je Roger de Tosny odpotoval na Iberski polotok, da bi si iz mavrskih dežel izrezal državo, vendar mu ni uspelo. Leta 1064, med Barbastro vojno, je William Montreuil vodil papeško vojsko in vzel ogromen plen.
+
+Beam Outputs:
+1: Kaj je bilo izvedeno leta 1064?
+2: Kaj je bilo izvedeno leta 1018?
+3: Kaj je bilo izvedeno v verskih vojnah?
+4: Kaj je bilo izvedeno leta 1049?
+5: Kaj je bilo izvedeno leta 1064
+
+Sampling Outputs:
+1: Zakaj je William de Tosne vodil francosko vojsko?
+2: Kakšen je bil vzdevek, ki se je zgodil med rimsko-evropskim konfliktom?
+3: Zakaj je bil Napoleon izvoljen v Evropo?
+4: Kdaj je George de Tosne postal francoski vodja?
+5: Kako je George De Tosny videl verske vojne v Hispaniji?
+-------------------------------------------
+Paragraph: Legendarna verska vneta Normanov je bila izvedena v verskih vojnah dolgo pred prvo križarsko vojno, ki je izklesala normansko kneževino v Antiohiji. Bili so veliki tuji udeleženci Reconquista v Iberiji. Leta 1018 je Roger de Tosny odpotoval na Iberski polotok, da bi si iz mavrskih dežel izrezal državo, vendar mu ni uspelo. Leta 1064, med Barbastro vojno, je William Montreuil vodil papeško vojsko in vzel ogromen plen.
+
+Beam Outputs:
+1: Kaj je bilo izvedeno leta 1064?
+2: Kaj je bilo izvedeno leta 1018?
+3: Kaj je bilo izvedeno v verskih vojnah?
+4: Kaj je bilo izvedeno leta 1049?
+5: Kaj je bilo izvedeno leta 1064
+
+Sampling Outputs:
+1: Kje je bil Napoleon izpuščen?
+2: Kako se je zgodilo vojno v Antiohiji leta 1064?
+3: Kaj je bilo vključeno v zgodovino v verske vojne v zgodovino?
+4: Kje je bil John de Tosny izvoljen za kraljico v Egiptu?
+5: Katero vojno je uredil George de Tosny?
+-------------------------------------------
+Paragraph: Leta 1096 sta se križarjem ob obleganju Amalfija pridružila Bohemond iz Taranta in njegov nečak Tancred z vojsko Italo-Normanov. Bohemond je bil de facto vodja križarske vojne med prehodom skozi Malo Azijo. Po uspešnem obleganju Antiohije leta 1097 je Bohemond začel izrezovati neodvisno kneževino okoli tega mesta. Tancred je bil ključnega pomena pri osvojitvi Jeruzalema in je delal za širitev križarskega kraljestva v Transjordanu in regiji Galileje.
+
+Beam Outputs:
+1: Kdo je bil vodja križarskega kraljestva?
+2: Kdo je bil vodja križarskega kraljestva leta 1096?
+3: Kdo je bil vodja križarskega kralja?
+4: Kdo je bil vodja križarskega kraljestva leta 1097?
+5: Kdo je bil vodja križarske vojne?
+
+Sampling Outputs:
+1: Kateri dve osebi sta bili pomembni za križarji?
+2: Kdo je delal na zaščito križarskega kraljestva?
+3: Kakšen je bil pomen križarskega kralja v letu 1096?
+4: Kdo je bil vodja križarskih sil v obdobju 1096–1097?
+5: Zakaj je mogoče izrezati neodvisno kristansko zemljišče v Aziji?
+-------------------------------------------
+Paragraph: Leta 1096 sta se križarjem ob obleganju Amalfija pridružila Bohemond iz Taranta in njegov nečak Tancred z vojsko Italo-Normanov. Bohemond je bil de facto vodja križarske vojne med prehodom skozi Malo Azijo. Po uspešnem obleganju Antiohije leta 1097 je Bohemond začel izrezovati neodvisno kneževino okoli tega mesta. Tancred je bil ključnega pomena pri osvojitvi Jeruzalema in je delal za širitev križarskega kraljestva v Transjordanu in regiji Galileje.
+
+Beam Outputs:
+1: Kdo je bil vodja križarskega kraljestva?
+2: Kdo je bil vodja križarskega kraljestva leta 1096?
+3: Kdo je bil vodja križarskega kralja?
+4: Kdo je bil vodja križarskega kraljestva leta 1097?
+5: Kdo je bil vodja križarske vojne?
+
+Sampling Outputs:
+1: Kaj je bila ključna prednost kralja Tancreda?
+2: Zakaj je bila vojna začela v 19. stoletju
+3: Kaj je odločitev o uspešnem obleganju skozi Galicijo?
+4: Kako je bilo ime križarja, ki je prišel na Antiohijo leta 1096?
+5: Kaj je bilo prišlo do uspešnega oblega Alfija?
+-------------------------------------------
+Paragraph: Leta 1096 sta se križarjem ob obleganju Amalfija pridružila Bohemond iz Taranta in njegov nečak Tancred z vojsko Italo-Normanov. Bohemond je bil de facto vodja križarske vojne med prehodom skozi Malo Azijo. Po uspešnem obleganju Antiohije leta 1097 je Bohemond začel izrezovati neodvisno kneževino okoli tega mesta. Tancred je bil ključnega pomena pri osvojitvi Jeruzalema in je delal za širitev križarskega kraljestva v Transjordanu in regiji Galileje.
+
+Beam Outputs:
+1: Kdo je bil vodja križarskega kraljestva?
+2: Kdo je bil vodja križarskega kraljestva leta 1096?
+3: Kdo je bil vodja križarskega kralja?
+4: Kdo je bil vodja križarskega kraljestva leta 1097?
+5: Kdo je bil vodja križarske vojne?
+
+Sampling Outputs:
+1: Kateri drugi dvakratni križarji so bili prisiljeni v Jeruzalema?
+2: Kaj so križarji ubili v letu 1096?
+3: Kaj je bil glavni namen križarske vojne?
+4: Kako je bilo ime nekaterim križarjem, ki so bili zadolženi v Rimu?
+5: Kdo je bil vodja križarske vojske v letu 1096?
+-------------------------------------------
+Paragraph: Osvojitev Cipra s strani anglo-normanskih sil tretje križarske vojne je odprla novo poglavje v zgodovini otoka, ki bi bil pod zahodnoevropsko prevlado naslednjih 380 let. Čeprav ni del načrtovane operacije, je imelo osvojitev veliko trajnejše rezultate, kot so bili prvotno pričakovani.
+
+Beam Outputs:
+1: Kakšen je bil rezultat osvojitve Cipra?
+2: Kako je bilo osvojitev Cipra?
+3: Kako je osvojitev Cipra odprla novo poglavje?
+4: Kako je osvojitev Cipra odprla poglavje?
+5: Kako je osvojitev Cipra odprla?
+
+Sampling Outputs:
+1: Kdaj se je otoka odprla s strani anglo-evropskih sil, ko je bil izvoljen?
+2: Kakšen je bil rezultat razvoja Ciperjeve vojne?
+3: Katera vrednost je bila pomembna za otoka?
+4: Kaj je povzročilo, da je otoka s strani anglo-normanske vojne odprla nova poglavje v zgodovini otoka?
+5: Kako je otoka Cipra napredovala leta 1939?
+-------------------------------------------
+Paragraph: Aprila 1191 je Richard Levosrčni zapustil Messino z veliko floto, da bi dosegel Acre. Toda nevihta je razpršila floto. Po iskanju je bilo ugotovljeno, da je bila ladja, ki nosi svojo sestro in zaročenko Berengaria, zasidrana na južni obali Cipra, skupaj z razbitinami več drugih ladij, vključno z zakladno ladjo. Preživele razbitine je ujel despot Isaac Komnenos na otoku. 1. maja 1191 je Richardova flota prispela v pristanišče Limassol na Cipru. Isaacu je ukazal, naj izpusti zapornike in zaklad. Isaac je zavrnil, zato je Richard pristal na svoje vojake in vzel Limassol.
+
+Beam Outputs:
+1: Kako se je imenovala ladja, ki je bila zasnovana na Cipru?
+2: Kako se je imenovala ladja, ki je bila zasidrana na Cipru?
+3: Kako se je imenovala ladja, ki se nahaja na južni obali?
+4: Kako se je imenovala ladja, ki se nahaja na Cipru?
+5: Kaj je bilo ugotovljeno, da je Richardovo floto zapustilo?
+
+Sampling Outputs:
+1: Kaj je povzročilo, da je Rim ostal v pristanišču na Cipru v katerem letu?
+2: V katerih letih je bil leta 1191 dosegel vstop na Ciper?
+3: Kdaj je bila prva vojaška flota na Cipru?
+4: Katere ladje so bile v Cipru?
+5: Kakšen je bil rezultat ugotovitve v zvezi s pridobitvijo sodobnega pristanišča v Rimu?
+-------------------------------------------
+Paragraph: Aprila 1191 je Richard Levosrčni zapustil Messino z veliko floto, da bi dosegel Acre. Toda nevihta je razpršila floto. Po iskanju je bilo ugotovljeno, da je bila ladja, ki nosi svojo sestro in zaročenko Berengaria, zasidrana na južni obali Cipra, skupaj z razbitinami več drugih ladij, vključno z zakladno ladjo. Preživele razbitine je ujel despot Isaac Komnenos na otoku. 1. maja 1191 je Richardova flota prispela v pristanišče Limassol na Cipru. Isaacu je ukazal, naj izpusti zapornike in zaklad. Isaac je zavrnil, zato je Richard pristal na svoje vojake in vzel Limassol.
+
+Beam Outputs:
+1: Kako se je imenovala ladja, ki je bila zasnovana na Cipru?
+2: Kako se je imenovala ladja, ki je bila zasidrana na Cipru?
+3: Kako se je imenovala ladja, ki se nahaja na južni obali?
+4: Kako se je imenovala ladja, ki se nahaja na Cipru?
+5: Kaj je bilo ugotovljeno, da je Richardovo floto zapustilo?
+
+Sampling Outputs:
+1: Kakšen je bil razlog za razvoj ladij leta 1191
+2: V katerih letih je bil John izpuščen?
+3: Kako je bilo ime spomina s katero vojno?
+4: Kaj je bilo ugotovljeno, da je bila ladja zaščitena od rimske trgovine?
+5: Kako se je zgodilo z Isaacom, ko je leta 1191 izgubil otoka?
+-------------------------------------------
+Paragraph: Aprila 1191 je Richard Levosrčni zapustil Messino z veliko floto, da bi dosegel Acre. Toda nevihta je razpršila floto. Po iskanju je bilo ugotovljeno, da je bila ladja, ki nosi svojo sestro in zaročenko Berengaria, zasidrana na južni obali Cipra, skupaj z razbitinami več drugih ladij, vključno z zakladno ladjo. Preživele razbitine je ujel despot Isaac Komnenos na otoku. 1. maja 1191 je Richardova flota prispela v pristanišče Limassol na Cipru. Isaacu je ukazal, naj izpusti zapornike in zaklad. Isaac je zavrnil, zato je Richard pristal na svoje vojake in vzel Limassol.
+
+Beam Outputs:
+1: Kako se je imenovala ladja, ki je bila zasnovana na Cipru?
+2: Kako se je imenovala ladja, ki je bila zasidrana na Cipru?
+3: Kako se je imenovala ladja, ki se nahaja na južni obali?
+4: Kako se je imenovala ladja, ki se nahaja na Cipru?
+5: Kaj je bilo ugotovljeno, da je Richardovo floto zapustilo?
+
+Sampling Outputs:
+1: Zakaj je bilo uvedeno pogodbo, ki je pripeljala v Palermo?
+2: Kateri despot je ujel otoku?
+3: Kaj je bilo v letu 1191?
+4: Kaj je bilo odločitev Isaaca, da uveljavi zaveznike na Cipru
+5: Kaj je bilo ustvarjeno v letu 1191?
+-------------------------------------------
+Paragraph: Aprila 1191 je Richard Levosrčni zapustil Messino z veliko floto, da bi dosegel Acre. Toda nevihta je razpršila floto. Po iskanju je bilo ugotovljeno, da je bila ladja, ki nosi svojo sestro in zaročenko Berengaria, zasidrana na južni obali Cipra, skupaj z razbitinami več drugih ladij, vključno z zakladno ladjo. Preživele razbitine je ujel despot Isaac Komnenos na otoku. 1. maja 1191 je Richardova flota prispela v pristanišče Limassol na Cipru. Isaacu je ukazal, naj izpusti zapornike in zaklad. Isaac je zavrnil, zato je Richard pristal na svoje vojake in vzel Limassol.
+
+Beam Outputs:
+1: Kako se je imenovala ladja, ki je bila zasnovana na Cipru?
+2: Kako se je imenovala ladja, ki je bila zasidrana na Cipru?
+3: Kako se je imenovala ladja, ki se nahaja na južni obali?
+4: Kako se je imenovala ladja, ki se nahaja na Cipru?
+5: Kaj je bilo ugotovljeno, da je Richardovo floto zapustilo?
+
+Sampling Outputs:
+1: Katera ladja je vstopila v pristanišče na Cipru?
+2: Kaj je bila sodobna vojna za Richarda Levosrčnega?
+3: Kako se je zgodilo v letu 1191?
+4: Kdaj je bil Richard namenjen usmrtitvi?
+5: Kdaj je bila prva nevihte v Cipru?
+-------------------------------------------
+Paragraph: V Limassol so prispeli različni princi Svete dežele, zlasti Guy de Lusignan. Vsi so izrazili podporo Richardu pod pogojem, da podpira Guya proti njegovemu tekmecu Conradu iz Montferrata. Lokalni baroni so zapustili Isaac, ki je razmišljal o miru z Richardom, se mu pridružil na križarski vojni in v zakonu ponudil svojo hčerko osebi, ki jo je imenoval Richard. Toda Isaac si je premislil in poskušal pobegniti. Richard je nato osvojil ves otok, njegove čete pa je vodil Guy de Lusignan. Isaac se je predal in bil omejen s srebrnimi verigami, ker je Richard obljubil, da ga ne bo dal v likalnike. Do 1. junija je Richard osvojil celoten otok. Njegovo izkoriščanje je bilo dobro objavljeno in je prispevalo k njegovemu ugledu; prav tako je pridobil velike finančne koristi od osvojitve otoka. Richard je 5. junija odšel v Acre s svojimi zavezniki. Pred odhodom je za guvernerja Cipra imenoval dva normanska generala Richarda de Camvilla in Roberta de Thornhama.
+
+Beam Outputs:
+1: Kdo je bil izvoljen za guvernerja Cipra?
+2: Kako je Richard imenoval svojo hčerko?
+3: Kdo je bil izvoljen za guvernerja?
+4: Kdo je zapustil Isaaca?
+5: Kdo je zapustil otok?
+
+Sampling Outputs:
+1: Kdo je imel pomoč v sodobnem svetu?
+2: Kdo je izvolil Richarda v vojni za otoku?
+3: Zakaj je mogoče zapustiti Isaaca v mestu, da bi dosegel svoje hčerko?
+4: Zakaj se je Richard pridružil Richardu?
+5: Kakšen je bil dogodek, ki je povzročil, da je Richard dobil zelo velike finančne koristi?
+-------------------------------------------
+Paragraph: V Limassol so prispeli različni princi Svete dežele, zlasti Guy de Lusignan. Vsi so izrazili podporo Richardu pod pogojem, da podpira Guya proti njegovemu tekmecu Conradu iz Montferrata. Lokalni baroni so zapustili Isaac, ki je razmišljal o miru z Richardom, se mu pridružil na križarski vojni in v zakonu ponudil svojo hčerko osebi, ki jo je imenoval Richard. Toda Isaac si je premislil in poskušal pobegniti. Richard je nato osvojil ves otok, njegove čete pa je vodil Guy de Lusignan. Isaac se je predal in bil omejen s srebrnimi verigami, ker je Richard obljubil, da ga ne bo dal v likalnike. Do 1. junija je Richard osvojil celoten otok. Njegovo izkoriščanje je bilo dobro objavljeno in je prispevalo k njegovemu ugledu; prav tako je pridobil velike finančne koristi od osvojitve otoka. Richard je 5. junija odšel v Acre s svojimi zavezniki. Pred odhodom je za guvernerja Cipra imenoval dva normanska generala Richarda de Camvilla in Roberta de Thornhama.
+
+Beam Outputs:
+1: Kdo je bil izvoljen za guvernerja Cipra?
+2: Kako je Richard imenoval svojo hčerko?
+3: Kdo je bil izvoljen za guvernerja?
+4: Kdo je zapustil Isaaca?
+5: Kdo je zapustil otok?
+
+Sampling Outputs:
+1: Kdo je bil zaskrbljen zaradi kršitve otoka?
+2: Kdo je bil vodja kraljevega cesarstva?
+3: Kako je bil Richard imenoval na križarski vojni?
+4: Kateri drugi so bili največji otoki v letu 2005?
+5: Kaj je Richard dobil leta 1797 za guvernerja Cipra?
+-------------------------------------------
+Paragraph: Med letoma 1402 in 1405 je odprava pod vodstvom normanskega plemiča Jeana de Bethencourta in Poitevine Gadifer de la Salle osvojila kanarske otoke Lanzarote, Fuerteventura in El Hierro ob atlantski obali Afrike. Njihove čete so se zbrale v Normandiji, Gascony, kasneje pa so jih okrepili kastiljski kolonisti.
+
+Beam Outputs:
+1: Katere otoke so se naselile v Normandiji?
+2: Katere otoke so se naselile v Franciji?
+3: Katere otoke so se naselili v Normandiji?
+4: Katere otoke so se zbrale v letu 1402?
+5: Katere otoke so se naselili v Franciji?
+
+Sampling Outputs:
+1: Kako so se pogosto odločile o odpadu na Atalasko?
+2: Kdaj so se vojaške sile oblikovale v Kanarske obale?
+3: V katerem obdobju so bili izpuščeni drugi francoski kolonisti?
+4: Kakšno je bilo mesto za vojake, ki so se naselile v Normandiji?
+5: Katere otoke so se imenovali naravne otoke za Portugalsko?
+-------------------------------------------
+Paragraph: Bethencourt je prevzel naslov kralja Kanarskih otokov kot vazala Henrika III. Kastilje. Leta 1418 je Jeanov nečak Maciot de Bethencourt prodal pravice otokom Enrique Pérez de Guzmán, 2. grof de Niebla.
+
+Beam Outputs:
+1: Kdo je prevzel pravice otokom?
+2: Kdo je prevzel pravice otokom leta 1418?
+3: Kateri nečak je prevzel pravice otokom?
+4: Kdo je prevzel pravice otokom leta 1415?
+5: V katerem letu je Bethencourt prevzel pravice?
+
+Sampling Outputs:
+1: Kdo je bil prvi kralj v Kanarju leta 1415?
+2: Kdo je prevzel pravice otokov?
+3: Kdo je prevzel pravice otokom?
+4: Kje je bila Victoria zasnovana za kralja Kanyeja?
+5: V katerem letu je bil ustanovljen otok Bethencourt?
+-------------------------------------------
+Paragraph: Bethencourt je prevzel naslov kralja Kanarskih otokov kot vazala Henrika III. Kastilje. Leta 1418 je Jeanov nečak Maciot de Bethencourt prodal pravice otokom Enrique Pérez de Guzmán, 2. grof de Niebla.
+
+Beam Outputs:
+1: Kdo je prevzel pravice otokom?
+2: Kdo je prevzel pravice otokom leta 1418?
+3: Kateri nečak je prevzel pravice otokom?
+4: Kdo je prevzel pravice otokom leta 1415?
+5: V katerem letu je Bethencourt prevzel pravice?
+
+Sampling Outputs:
+1: V katerem letu se je Bethencourt udeležil v vojni?
+2: Katero leto je bila Victoria izvoljena, da bo naročila svoje pravice na Kitajskem?
+3: Kdo je bil nečak na otokih?
+4: Kako se imenuje nečak Macot de Bethencourt?
+5: Kako je bila ustanovljena Victoria?
+-------------------------------------------
+Paragraph: Bethencourt je prevzel naslov kralja Kanarskih otokov kot vazala Henrika III. Kastilje. Leta 1418 je Jeanov nečak Maciot de Bethencourt prodal pravice otokom Enrique Pérez de Guzmán, 2. grof de Niebla.
+
+Beam Outputs:
+1: Kdo je prevzel pravice otokom?
+2: Kdo je prevzel pravice otokom leta 1418?
+3: Kateri nečak je prevzel pravice otokom?
+4: Kdo je prevzel pravice otokom leta 1415?
+5: V katerem letu je Bethencourt prevzel pravice?
+
+Sampling Outputs:
+1: Kaj je bil prvi uradnik?
+2: Kaj je Frederick naredil, da je Bethencourt vplival na svojo vojsko?
+3: Kateri nečak je bil izvoljen za kralja na otok
+4: Kdo je izvoljen za kralja Kananskih otokov?
+5: Kdo je premagal otoku?
+-------------------------------------------
+Paragraph: Običajni zakon Normandije je bil razvit med 10. in 13. stoletjem in danes preživi prek pravnih sistemov Jerseyja in Guernseyja na Kanalskih otokih. Normansko običajno pravo sta v latinščini prepisala dva sodnika, ki sta ju uporabljala ona in njuni kolegi: To so Très ancien coutumier (Zelo starodavni običaj), avtor med 1200 in 1245; in Grand coutumier de Normandie (velik običaj v Normandiji, prvotno Summa de legibus Normanniae in curia laïcali), avtor med letoma 1235 in 1245.
+
+Beam Outputs:
+1: Kako se imenuje običajni zakon Normandije?
+2: Kako se imenuje običajni zakon v Normandiji?
+3: Kako se imenuje običajni zakon Normandije
+4: Kako se imenuje običajni zakon v Normandiji
+5: Kako se imenuje običajni zakon?
+
+Sampling Outputs:
+1: Kako je bilo ime najboljših zakonov v Angliji?
+2: Kaj je bil opisan na otoku?
+3: Kako se je zgodilo s Francozi?
+4: Kateri so bili dve različni sodišči?
+5: Kaj so štiri oznake v Normanski običaji v Normandiji?
+-------------------------------------------
+Paragraph: Običajni zakon Normandije je bil razvit med 10. in 13. stoletjem in danes preživi prek pravnih sistemov Jerseyja in Guernseyja na Kanalskih otokih. Normansko običajno pravo sta v latinščini prepisala dva sodnika, ki sta ju uporabljala ona in njuni kolegi: To so Très ancien coutumier (Zelo starodavni običaj), avtor med 1200 in 1245; in Grand coutumier de Normandie (velik običaj v Normandiji, prvotno Summa de legibus Normanniae in curia laïcali), avtor med letoma 1235 in 1245.
+
+Beam Outputs:
+1: Kako se imenuje običajni zakon Normandije?
+2: Kako se imenuje običajni zakon v Normandiji?
+3: Kako se imenuje običajni zakon Normandije
+4: Kako se imenuje običajni zakon v Normandiji
+5: Kako se imenuje običajni zakon?
+
+Sampling Outputs:
+1: Kdo je uporabil latinsko običajno pravo?
+2: Kakšni so bili dva od sodnikov v angleščini?
+3: Kako je bil ustanovljen Notre Dame?
+4: Kateri so bili dve drugi sodnika, ki so napisali „zgodovina Normandije“
+5: Katere štiri sode so bili uporabljeni za oblikovanje običajnega zakona Normandije?
+-------------------------------------------
+Paragraph: Normanska arhitektura običajno izstopa kot nova faza v arhitekturni zgodovini regij, ki so jih obvladali. V Anglijo in Italijo so razširili edinstveno romansko idiom in utelešenje teh regij z ogradami v severnofrancoskem slogu je bistveno spremenilo vojaško pokrajino. Za njihov slog so bili značilni zaobljeni loki, zlasti prek oken in vrat ter masivni deleži.
+
+Beam Outputs:
+1: Zakaj so se Normani spremenili v njihovo arhitekturo?
+2: Zakaj so se Normani odločili, da bi ohranili svojo pokrajino?
+3: Kaj je bilo opazno v zgodovini Normancev?
+4: Zakaj so se Normani spremenili?
+5: Zakaj so se Normani odločili, da bi ustvarili edinstveno arhitekturo?
+
+Sampling Outputs:
+1: Kdo so bili nekateri znani vojaški slogi v severni Franciji?
+2: Kaj so se Normani spomnili na njihovo arhitekturo?
+3: Kako so se francoske arhitekture izognile vojaško pokrajino v Franciji?
+4: Katere vrste arhitekture se je uporabljale v Franciji, da bi omogočile uporabo za vzdrževanje osmanskega sloga?
+5: Zakaj je vojaška pokrajina spremenila?
+-------------------------------------------
+Paragraph: Normanska arhitektura običajno izstopa kot nova faza v arhitekturni zgodovini regij, ki so jih obvladali. V Anglijo in Italijo so razširili edinstveno romansko idiom in utelešenje teh regij z ogradami v severnofrancoskem slogu je bistveno spremenilo vojaško pokrajino. Za njihov slog so bili značilni zaobljeni loki, zlasti prek oken in vrat ter masivni deleži.
+
+Beam Outputs:
+1: Zakaj so se Normani spremenili v njihovo arhitekturo?
+2: Zakaj so se Normani odločili, da bi ohranili svojo pokrajino?
+3: Kaj je bilo opazno v zgodovini Normancev?
+4: Zakaj so se Normani spremenili?
+5: Zakaj so se Normani odločili, da bi ustvarili edinstveno arhitekturo?
+
+Sampling Outputs:
+1: Kaj so Normani omogočili v zgodnjih zgodovinskih fazah?
+2: Kaj je bila zgodovina Normana v katerih regijah?
+3: Kaj je vplivalo na arhitekture v Franciji in Italiji?
+4: Kakšna je bila zgodovina Normanov sloga?
+5: Katera regija je bila uvrstitev v zgodovino arhitekture?
+-------------------------------------------
+Paragraph: V Angliji je obdobje normanske arhitekture takoj nasledilo anglosaksonsko obdobje in je pred zgodnjo gotiko. V južni Italiji so Normani vključili elemente islamskih, lombardskih in bizantinskih gradbenih tehnik v svoje, kar je sprožilo edinstven slog, znan kot normansko-arabska arhitektura v Kraljevini Siciliji.
+
+Beam Outputs:
+1: Kako se je zgodilo obdobje normanske arhitekture v Angliji?
+2: Kako se je zgodilo obdobje normanske arhitekture?
+3: Kako se je zgodilo obdobje normanske arhitekture v Angliji
+4: Kako se je zgodilo v Angliji?
+5: Kako se je zgodilo obdobje normanske arhitekture
+
+Sampling Outputs:
+1: Kateri slog arhitekture je vplival na oblikovanje modernih mozaikov v Angliji?
+2: Kdaj so Normanji našli različne elemente, ki se je oblikovalo v njihovem učinkovitejšem slogu?
+3: Kdaj so Normani nasprotovali s trgovino z osmanskimi arhitekturi v Evropi?
+4: Kakšen je bil vzrok za splošno spremembo arhitekture v Angliji?
+5: Kateri del Normanskega sloga so vplivali na mozaiki v svoje arhitekturo?
+-------------------------------------------
+Paragraph: V Angliji je obdobje normanske arhitekture takoj nasledilo anglosaksonsko obdobje in je pred zgodnjo gotiko. V južni Italiji so Normani vključili elemente islamskih, lombardskih in bizantinskih gradbenih tehnik v svoje, kar je sprožilo edinstven slog, znan kot normansko-arabska arhitektura v Kraljevini Siciliji.
+
+Beam Outputs:
+1: Kako se je zgodilo obdobje normanske arhitekture v Angliji?
+2: Kako se je zgodilo obdobje normanske arhitekture?
+3: Kako se je zgodilo obdobje normanske arhitekture v Angliji
+4: Kako se je zgodilo v Angliji?
+5: Kako se je zgodilo obdobje normanske arhitekture
+
+Sampling Outputs:
+1: Kaj je Norman začel vključiti v svoje stavbe?
+2: Kaj je bil najbolj napredni slog v Angliji?
+3: Katera je bila prva evropska arhitektura, ki je povzročila nasprotovanje s sodobnim oblikom arhitekture?
+4: Kaj je Norman naredil v svoji arhitekturi?
+5: V katerem obdobju se je zgodila evropska arhitektura?
+-------------------------------------------
+Paragraph: V Angliji je obdobje normanske arhitekture takoj nasledilo anglosaksonsko obdobje in je pred zgodnjo gotiko. V južni Italiji so Normani vključili elemente islamskih, lombardskih in bizantinskih gradbenih tehnik v svoje, kar je sprožilo edinstven slog, znan kot normansko-arabska arhitektura v Kraljevini Siciliji.
+
+Beam Outputs:
+1: Kako se je zgodilo obdobje normanske arhitekture v Angliji?
+2: Kako se je zgodilo obdobje normanske arhitekture?
+3: Kako se je zgodilo obdobje normanske arhitekture v Angliji
+4: Kako se je zgodilo v Angliji?
+5: Kako se je zgodilo obdobje normanske arhitekture
+
+Sampling Outputs:
+1: Katere skupine arhitektov so se zgodile v južnem Rimu?
+2: Kakšno je bilo obdobje evropske arhitekture v Angliji v obdobju normanske arhitekture?
+3: Kakšna je bila vloga Normanov v njihov slog arhitekture?
+4: Zakaj so Normanci uporabili elemente islamske arhitekture v južni Italiji?
+5: Kako je bila zgodovina Normanskega sloga?
+-------------------------------------------
+Paragraph: V vizualni umetnosti Normani niso imeli bogate in značilne tradicije kultur, ki so jih osvojili. V začetku 11. stoletja so vojvode začeli s programom cerkvene reforme, ki je spodbujala Cluniaško reformo samostanov in pokroviteljsko intelektualno udejstvovanje, zlasti širjenje skriptorij in rekonstrukcijo zbirke izgubljenih osvetljenih rokopisov. Cerkev so vojvode uporabljali kot združevalno silo za svojo različno vojvodino. Glavni samostani, ki so sodelovali v tej „renesansi“ Normanske umetnosti in štipendije, so bili Mont-Saint-Michel, Fécamp, Jumièges, Bec, Saint-Ouen, Saint-Evroul in Saint-Wandrille. Ti centri so bili v stiku s tako imenovano „Winchestersko šolo“, ki je usmerjala čisto karolinško umetniško tradicijo v Normandijo. V zadnjem desetletju 11. in prvega 12. stoletja je Normandija doživela zlato dobo ilustriranih rokopisov, vendar je bila kratka in glavna skriptorija Normandije je prenehala delovati po sredini stoletja.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena cerkev v Normandiji?
+2: Kdaj je bila ustanovljena cerkev Normandije?
+3: Kdaj je bila ustanovljena cerkev?
+4: Kdaj je bila ustanovljena cerkev v Normandiji
+5: Kako je bilo ime cerkve, ki je bila vključena v cerkev?
+
+Sampling Outputs:
+1: Kaj je bilo v obdobju 19.–20. stoletja?
+2: Kakšen so bili glavni dogodki, ki so bili v Normandiji v zadnjem stoletju?
+3: Kako je bilo ime Notre Dame?
+4: Kaj je bil primer, ko je bil William in drugi muzej urejen?
+5: Kaj je bilo pomembno v katerih letih?
+-------------------------------------------
+Paragraph: V vizualni umetnosti Normani niso imeli bogate in značilne tradicije kultur, ki so jih osvojili. V začetku 11. stoletja so vojvode začeli s programom cerkvene reforme, ki je spodbujala Cluniaško reformo samostanov in pokroviteljsko intelektualno udejstvovanje, zlasti širjenje skriptorij in rekonstrukcijo zbirke izgubljenih osvetljenih rokopisov. Cerkev so vojvode uporabljali kot združevalno silo za svojo različno vojvodino. Glavni samostani, ki so sodelovali v tej „renesansi“ Normanske umetnosti in štipendije, so bili Mont-Saint-Michel, Fécamp, Jumièges, Bec, Saint-Ouen, Saint-Evroul in Saint-Wandrille. Ti centri so bili v stiku s tako imenovano „Winchestersko šolo“, ki je usmerjala čisto karolinško umetniško tradicijo v Normandijo. V zadnjem desetletju 11. in prvega 12. stoletja je Normandija doživela zlato dobo ilustriranih rokopisov, vendar je bila kratka in glavna skriptorija Normandije je prenehala delovati po sredini stoletja.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena cerkev v Normandiji?
+2: Kdaj je bila ustanovljena cerkev Normandije?
+3: Kdaj je bila ustanovljena cerkev?
+4: Kdaj je bila ustanovljena cerkev v Normandiji
+5: Kako je bilo ime cerkve, ki je bila vključena v cerkev?
+
+Sampling Outputs:
+1: Kaj je bil rezultat številnih reform v Angliji?
+2: Kdaj je bila prva zgodovinska stavba Normandije?
+3: Kdaj so vplivali francoski samostani in učenjaki?
+4: Kako so učenjaki uvedli nagrado za ustvarjanje?
+5: Kako je cerkev doživela zlato dobo?
+-------------------------------------------
+Paragraph: Francoske verske vojne v 16. stoletju in francoska revolucija v 18. zaporedno so uničile večino tistega, kar je obstajalo na poti arhitekturnega in umetniškega ostanka te normanske ustvarjalnosti. Prvi so s svojim nasiljem povzročili uničenje številnih normanskih zgradb; slednji je s svojim napadom na vero povzročil namerno uničenje verskih predmetov vseh vrst, njena destabilizacija družbe pa je povzročila širjenje plenjenja.
+
+Beam Outputs:
+1: Kaj je povzročilo uničenje verskih predmetov v 18. stoletju?
+2: Kaj je povzročilo uničenje verskih predmetov v 19. stoletju?
+3: Kaj je povzročilo uničenje verskih predmetov?
+4: Kaj je povzročilo uničenje verskih predmetov v 16. stoletju?
+5: Kaj je povzročilo uničenje verskih predmetov v 17. stoletju?
+
+Sampling Outputs:
+1: Kaj so Francozi povzročili?
+2: Kako je bilo ime Francozom, ki je povzročil vojne v 16. stoletju?
+3: Kakšna je bila glavna stvar, ki se je zgodila z verskimi predmeti v 17. stoletju?
+4: Zakaj so vojne povzročile uničenje verskih predmetov?
+5: Na katerih dogodkih je bila uničena verska ustvarjalnost?
+-------------------------------------------
+Paragraph: Daleč najbolj znano delo normanske umetnosti je Bayeux tapiserija, ki ni tapiserija, temveč vezenje. Naročil jo je Odo, škof Bayeux in prvi grof Kent, ki je zaposlil domorodce iz Kenta, ki so se jih naučili v nordijski tradiciji, ki so jo v prejšnjem pol stoletja uvozili danski Vikingi.
+
+Beam Outputs:
+1: Kdo je naročil Bayeux?
+2: Kaj je Bayeux naročil?
+3: Kdo je naročil Bayeuxa?
+4: Kdo je naročil Bayeux, da se je rodil?
+5: Kdo je naročil Bayeux, da bi ustvaril mozaike?
+
+Sampling Outputs:
+1: Kdo je naročil, da se je Bayeux vzel v prvi stoletju?
+2: Kaj je Bayeux naročil na svojo kariero?
+3: Kaj je Bayeux zaposlil v svoji šoli na Notre Dame leta 1855?
+4: Kaj je Bayeux naročil, da so sodobna sodobna sodobna sodobna?
+5: Kaj so bili Bayeuxovi naročniki?
+-------------------------------------------
+Paragraph: Daleč najbolj znano delo normanske umetnosti je Bayeux tapiserija, ki ni tapiserija, temveč vezenje. Naročil jo je Odo, škof Bayeux in prvi grof Kent, ki je zaposlil domorodce iz Kenta, ki so se jih naučili v nordijski tradiciji, ki so jo v prejšnjem pol stoletja uvozili danski Vikingi.
+
+Beam Outputs:
+1: Kdo je naročil Bayeux?
+2: Kaj je Bayeux naročil?
+3: Kdo je naročil Bayeuxa?
+4: Kdo je naročil Bayeux, da se je rodil?
+5: Kdo je naročil Bayeux, da bi ustvaril mozaike?
+
+Sampling Outputs:
+1: Kakšna je bila prva različica sodobne antropologije?
+2: Kaj je Bayeuse naročilo svoje domače umetnosti v prvem stoletju?
+3: Kaj je Bayeux naredil z ženskami iz Kenta?
+4: Kateri učenjak je napisal svoje naloge, ko je bila ustvarjena sodobna beseda?
+5: Zakaj je Bayeux naročil v 19. stoletju?
+-------------------------------------------
+Paragraph: V Veliki Britaniji normanska umetnost preživi predvsem kot kamna ali kovina, kot so kapiteli in krstne pisave. V južni Italiji pa normanska umetnina preživi obilno v oblikah, na katere močno vplivajo Grki, Lombardi in arabski predniki. Od kraljeve regalije, ohranjene v Palermu, je krona bizantinska v slogu, plašč za kronanje pa je arabsko obrtniško delo z arabskimi napisi. Mnoge cerkve ohranjajo kiparske pisave, kapitele in še pomembneje mozaike, ki so bili pogosti v Normanski Italiji in so se močno opirali na grško dediščino. Lombard Salerno je bil središče slonovine v 11. stoletju in se je nadaljeval pod normansko prevlado. Končno je treba opozoriti na občevanje francoskih križarjev, ki potujejo v Sveto deželo, ki so s seboj prinesli francoske artefakte, s katerimi so podarili cerkve, v katerih so se ustavili v južni Italiji med svojimi normanskimi bratranci. Zato številne južnoitalijanske cerkve ohranjajo dela iz Francije skupaj s svojimi domačimi deli.
+
+Beam Outputs:
+1: Zakaj so francoske cerkve ohranjene v južni Italiji?
+2: Kaj je opozorilo, da so francoske cerkve ohranjene v regiji?
+3: Kaj je opozorilo, da so francoske cerkve ohranjene?
+4: Zakaj so francoske cerkve ohranjene v južni Italiji
+5: Zakaj so francoske cerkve ohranjene?
+
+Sampling Outputs:
+1: Kaj je bil razlog za izboljšanje normanske umetnosti?
+2: Kaj se lahko zgodi s prebivalstvom v Južni Italiji v katerih časih?
+3: Zakaj so evropski cerkvi ohranjali svojo dediščino?
+4: Kaj je opozorilo na ohranjanje normanske umetnine v južnem italijanskem obdobju?
+5: Kaj so italijanski križarji ugotovili v 19. stoletju?
+-------------------------------------------
+Paragraph: Normandija je bila prizorišče več pomembnih dogodkov v zgodovini klasične glasbe v 11. stoletju. Fécamp Abbey in Saint-Evroul Abbey sta bili središči glasbene produkcije in izobraževanja. V Fécampu, pod dvema italijanskima opatoma, Viljem Volpianoskim in Janezom Raveno, je bil razvit in poučen sistem zapiskov s črkami. To je še vedno najpogostejša oblika predstavitve igrišča v angleško- in nemško govorečih državah danes. Tudi v Fécampu je bilo osebje, okoli katerega so bili neumeni orientirani, prvič razvito in poučeno v 11. stoletju. Pod nemškim opatom Isembardom je La Trinité-du-Mont postal središče glasbene kompozicije.
+
+Beam Outputs:
+1: Kako je bilo ime Frécampu v 11. stoletju?
+2: Kako je bilo ime Frécampu v 19. stoletju?
+3: Kako je bilo ime Frécampu?
+4: Kako je bilo ime Frécampu v 11. stoletju
+5: Kako je bilo ime Frécampu v 19. stoletju
+
+Sampling Outputs:
+1: Kateri dve pomembni dogodkih so bili Frécamp in Abbey
+2: V katerih treh pomembnih dogodkih se je zgodilo Frécamp?
+3: Kaj je bilo pomembno za Frécamp v 11. stoletju?
+4: V katerem obdobju je bila prva prizorišče igre v 18. stoletju?
+5: Kaj so bili dogodki v Franciji?
+-------------------------------------------
+Paragraph: V svetem Evroulu se je razvila tradicija petja, zbor pa je dosegel slavo v Normandiji. Pod normanskim opatom Robertom de Grantmesnilom je več menihov Saint-Evrula pobegnilo v južno Italijo, kjer jih je pokroviteljil Robert Guiscard in ustanovil latinski samostan v Sant’Eufemia. Tam so nadaljevali tradicijo petja.
+
+Beam Outputs:
+1: Kdo je ustanovil latinsko cerkev v Franciji?
+2: Kdo je ustanovil latinsko katedralo v Franciji?
+3: Kdo je ustanovil latinsko katedralo?
+4: Kdo je ustanovil latinsko cerkev?
+5: Kdo je ustanovil latinsko cerkev v južno Italiji
+
+Sampling Outputs:
+1: Kdo je pobegnil v Evropo, ko je začel praznovati?
+2: V kateri dobi je sestavil papež v Franciji?
+3: Kateri je bil prvi dogodek v Franciji?
+4: Kateri protestantski zbor je pobegnil v Francijo?
+5: Kaj je bilo sčasoma navedeno kot zelo sodobno obdobje?
+-------------------------------------------
+Paragraph: V svetem Evroulu se je razvila tradicija petja, zbor pa je dosegel slavo v Normandiji. Pod normanskim opatom Robertom de Grantmesnilom je več menihov Saint-Evrula pobegnilo v južno Italijo, kjer jih je pokroviteljil Robert Guiscard in ustanovil latinski samostan v Sant’Eufemia. Tam so nadaljevali tradicijo petja.
+
+Beam Outputs:
+1: Kdo je ustanovil latinsko cerkev v Franciji?
+2: Kdo je ustanovil latinsko katedralo v Franciji?
+3: Kdo je ustanovil latinsko katedralo?
+4: Kdo je ustanovil latinsko cerkev?
+5: Kdo je ustanovil latinsko cerkev v južno Italiji
+
+Sampling Outputs:
+1: Kdo je pobegnil v južno Italijo leta 1815
+2: Kaj je bilo napovedano leta 1793?
+3: Kakšen je bil odnos francoske ustave z francoskimi ustavnimi odločitkami in religijami v Franciji?
+4: Kaj je povzročilo, da je Madonna začela svoje slavo v Franciji?
+5: Kaj je bilo prvotno uvedeno za ozemlje na južno Evropi?
+-------------------------------------------
+Paragraph: V svetem Evroulu se je razvila tradicija petja, zbor pa je dosegel slavo v Normandiji. Pod normanskim opatom Robertom de Grantmesnilom je več menihov Saint-Evrula pobegnilo v južno Italijo, kjer jih je pokroviteljil Robert Guiscard in ustanovil latinski samostan v Sant’Eufemia. Tam so nadaljevali tradicijo petja.
+
+Beam Outputs:
+1: Kdo je ustanovil latinsko cerkev v Franciji?
+2: Kdo je ustanovil latinsko katedralo v Franciji?
+3: Kdo je ustanovil latinsko katedralo?
+4: Kdo je ustanovil latinsko cerkev?
+5: Kdo je ustanovil latinsko cerkev v južno Italiji
+
+Sampling Outputs:
+1: Kako se je zgodilo s Saint-Eufrolom?
+2: Kdo je bil prvi, ki je ustanovil protestante?
+3: Kaj je bilo zadnje mesto, ki ga je začelo nasprotovati o smrti?
+4: Kakšna je bila različica tradicionalne tradicije Saint Eul?
+5: Kaj je bilo najbolj razširjeno v zgodovini Francije?
+-------------------------------------------
+Paragraph: V svetem Evroulu se je razvila tradicija petja, zbor pa je dosegel slavo v Normandiji. Pod normanskim opatom Robertom de Grantmesnilom je več menihov Saint-Evrula pobegnilo v južno Italijo, kjer jih je pokroviteljil Robert Guiscard in ustanovil latinski samostan v Sant’Eufemia. Tam so nadaljevali tradicijo petja.
+
+Beam Outputs:
+1: Kdo je ustanovil latinsko cerkev v Franciji?
+2: Kdo je ustanovil latinsko katedralo v Franciji?
+3: Kdo je ustanovil latinsko katedralo?
+4: Kdo je ustanovil latinsko cerkev?
+5: Kdo je ustanovil latinsko cerkev v južno Italiji
+
+Sampling Outputs:
+1: Kdo je ustanovil škofske cerkve v Normandiji?
+2: Kaj je naredil Charles De Grantmesnil?
+3: Kaj je bil rezultat razvoja protestantskega religije Saint-Euluria leta 1890?
+4: V katerem letu je bil pomembni mozaik Saint Helena, ustvarjen kot muzej v Franciji?
+5: Kaj je bilo pomembno za vplive na število protestantov v Franciji?
+-------------------------------------------
+Paragraph: Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.
+
+Beam Outputs:
+1: Kako se imenuje teorija, ki temelji na računalniških problemih?
+2: Kako se imenuje teorija, ki temelji na računalniškem problemu?
+3: Kako se imenuje teorija računalništva?
+4: Kako se imenuje teorija, ki temelji na čem?
+5: Kako se imenuje teorija računalniškega problema?
+
+Sampling Outputs:
+1: Kateri je glavni razlog, da je vprašanje o matematični obliki rešitev, ki jo omogoča programska oprema, s kakšnim je mogoče uporabiti za opis problemov?
+2: Kateri del razsvetljave je bil vključen v teorijo računalniških problemov?
+3: Kaj je ena iz treh razlogov za kaj?
+4: Kaj je glavna naloga Računalniške teorije?
+5: Kaj je glavni del raziskave za računalništva?
+-------------------------------------------
+Paragraph: Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.
+
+Beam Outputs:
+1: Kako se imenuje teorija, ki temelji na računalniških problemih?
+2: Kako se imenuje teorija, ki temelji na računalniškem problemu?
+3: Kako se imenuje teorija računalništva?
+4: Kako se imenuje teorija, ki temelji na čem?
+5: Kako se imenuje teorija računalniškega problema?
+
+Sampling Outputs:
+1: Zakaj se vprašanja s tem, kaj je potrebno?
+2: Na čem je sklicevanje na teorijo?
+3: Kaj je glavni namen razlaga, ki jo je Darwin uporabil za razsvetljenstvo?
+4: Kaj so raziskovalci predlagali glede razvojnega napredka?
+5: Kaj je bila najzgodnejša različica teorije, ki je temeljila na čem?
+-------------------------------------------
+Paragraph: Računalniška teorija kompleksnosti je veja teorije računanja v teoretični računalniški znanosti, ki se osredotoča na klasifikacijo računalniških problemov glede na njihovo inherentno težavnost in povezovanje teh razredov med seboj. Računski problem je naloga, ki jo je načeloma mogoče rešiti z računalnikom, kar je enakovredno navedbi, da se problem lahko reši z mehansko uporabo matematičnih korakov, kot je algoritem.
+
+Beam Outputs:
+1: Kako se imenuje teorija, ki temelji na računalniških problemih?
+2: Kako se imenuje teorija, ki temelji na računalniškem problemu?
+3: Kako se imenuje teorija računalništva?
+4: Kako se imenuje teorija, ki temelji na čem?
+5: Kako se imenuje teorija računalniškega problema?
+
+Sampling Outputs:
+1: Kaj je Darwinov razlog za učinkovitost?
+2: Kako se splošna teorija računanja osredotoča na vprašanja?
+3: Kaj je raziskovalna teorija, ki vključuje kaj?
+4: Kakšna je osnovna oblika računalniške teorije
+5: Zakaj je sodobna sodobna teorija o računalništvu?
+-------------------------------------------
+Paragraph: Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.
+
+Beam Outputs:
+1: Kako se imenuje teorija kompleksnosti?
+2: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje problemov?
+3: Kako se imenuje teorija kompleksnosti, ki temelji na čem?
+4: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje težav?
+5: Kako se imenuje teorija kompleksnosti, ki temelji na teoriji?
+
+Sampling Outputs:
+1: Zakaj se uporablja sodobna tehnologija v prenosu storitev?
+2: Kaj je naredila teorija?
+3: Zakaj se uporablja teorija kompleksnosti?
+4: Kakšne vrste informacije opravlja računalniški program?
+5: Kaj je ključno za oblikovanje raziskav, ki so oblikovale teorijo kompleksnosti?
+-------------------------------------------
+Paragraph: Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.
+
+Beam Outputs:
+1: Kako se imenuje teorija kompleksnosti?
+2: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje problemov?
+3: Kako se imenuje teorija kompleksnosti, ki temelji na čem?
+4: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje težav?
+5: Kako se imenuje teorija kompleksnosti, ki temelji na teoriji?
+
+Sampling Outputs:
+1: Kakšen drugi učinek daje računalnikom?
+2: Kako se številne vrste podatkov uporabljajo za pregled?
+3: Kaj je glavni namen teorije kompleksnosti?
+4: Kakšna je možnost upoštevanja možnosti sodobne računalnikov?
+5: Katere so glavne razloge za izračun kompleksnosti?
+-------------------------------------------
+Paragraph: Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.
+
+Beam Outputs:
+1: Kako se imenuje teorija kompleksnosti?
+2: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje problemov?
+3: Kako se imenuje teorija kompleksnosti, ki temelji na čem?
+4: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje težav?
+5: Kako se imenuje teorija kompleksnosti, ki temelji na teoriji?
+
+Sampling Outputs:
+1: Kaj je temeljna od razlogov za njihovo rešitev?
+2: Kaj se lahko zgodi z vprašanjem, kakšna je razvrstitev, ki se je začela?
+3: Kako se učinkovita teorija kompleksnosti uporablja?
+4: Zakaj so raziskovalci vplivali na njihovo zgodovino?
+5: Kdo je menil, da so število programov potrebna za kompleksnost?
+-------------------------------------------
+Paragraph: Problem je sam po sebi težaven, če njegova rešitev zahteva znatna sredstva, ne glede na uporabljeni algoritem. Teorija formalizira to intuicijo z uvedbo matematičnih modelov izračunavanja za preučevanje teh problemov in količinsko opredelitev količine sredstev, potrebnih za njihovo reševanje, kot sta čas in shranjevanje. Uporabljajo se tudi drugi ukrepi kompleksnosti, kot so količina komunikacije (uporablja se v kompleksnosti komunikacije), število vrat v vezju (uporabljajo se v kompleksnosti vezja) in število procesorjev (uporabljenih v vzporednem računalništvu). Ena od vlog računalniške teorije kompleksnosti je določiti praktične omejitve tega, kaj računalniki lahko in ne morejo storiti.
+
+Beam Outputs:
+1: Kako se imenuje teorija kompleksnosti?
+2: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje problemov?
+3: Kako se imenuje teorija kompleksnosti, ki temelji na čem?
+4: Kako se imenuje teorija kompleksnosti, ki se uporablja za preučevanje težav?
+5: Kako se imenuje teorija kompleksnosti, ki temelji na teoriji?
+
+Sampling Outputs:
+1: Kakšen je namen raziskave računalniške teorije kompleksnosti?
+2: Kaj so drugi načini, ki so učinkovito učinkoviti?
+3: Kaj je bil glavni del koncepta?
+4: Kaj je najbolj pomembno za razumevanje računalnika?
+5: Kaj se uporablja za opis problemov za prenos računalniške opreme?
+-------------------------------------------

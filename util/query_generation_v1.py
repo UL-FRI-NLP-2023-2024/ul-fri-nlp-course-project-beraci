@@ -1,7 +1,8 @@
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import torch
 
-model_name = '/output/test-SLV-google-mt5-base-2024-05-03_12-01-23'
+#model_name = '/output/test-SLV-google-mt5-base-2024-05-03_12-01-23'
+model_name = 'D:/fask/NLP/NLP_Project_Main/output/test-SLV-google-mt5-base-2024-05-03_12-01-23'
 
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
