@@ -60,7 +60,7 @@ This project investigates the extension of the Doc2Query approach using a T5 mod
 %----------------------------------------------------------------------------------------
 
 \section*{Introduction}
-Inspired by the pioneering studies of Raffel et al. (2020) and Thakur et al. (2021), this project ventures into the field of cross-lingual question generation by expanding the scope of the Doc2Query method. By adapting a T5 model, previously fine-tuned on the MSMARCO dataset, our goal is to innovate in creating questions from texts in various languages. This effort aims to advance the current state of question generation technologies for use in multiple languages and to explore the complexities and challenges of such applications across different linguistic contexts.
+Inspired by the pioneering studies of Raffel et al. (2020) \cite{raffel2020exploring} and Thakur et al. (2021) \cite{thakur2021beir}, this project ventures into the field of cross-lingual question generation by expanding the scope of the Doc2Query method. By adapting a T5 model, previously fine-tuned on the MSMARCO dataset, our goal is to innovate in creating questions from texts in various languages. This effort aims to advance the current state of question generation technologies for use in multiple languages and to explore the complexities and challenges of such applications across different linguistic contexts.
 
 The importance of this research lies in its potential to make information retrieval accessible across linguistic boundaries, thus promoting equal access to information beyond the anglophone sphere. By focusing on Slovenian datasets for fine-tuning, our research offers a specific perspective on the obstacles and possibilities that come with cross-lingual NLP techniques.
 
@@ -69,14 +69,24 @@ Through a thorough review of the existing body of literature and the creative us
 
 %------------------------------------------------
 
+\section*{Related Work}
+In the realm of question generation, significant research has been conducted to improve the efficacy and scope of such systems. The Doc2Query approach, as proposed by Raffel et al. (2020) \cite{raffel2020exploring}, serves as a foundational model for text-to-text transformation, leveraging large datasets like MSMARCO for training purposes. Thakur et al. (2021) \cite{thakur2021beir} extended this work by evaluating information retrieval models in a zero-shot context, providing a robust framework for cross-lingual applications.
+
+Cross-lingual training has been explored by various researchers. Kumar et al. (2019) \cite{kumar2019cross} demonstrated the effectiveness of utilizing a secondary language dataset for training models in a primary language, highlighting the potential for multilingual NLP applications. Similarly, Chi et al. (2019) \cite{chi2019cross} and Riabi et al. (2020) \cite{riabi2020multilingual} proposed models that focus on multilingual question generation, often requiring complex pre-training processes and parallel corpora for fine-tuning.
+
+Our approach aims to simplify these requirements by leveraging existing datasets and models in a more adaptable manner, focusing specifically on Slovenian datasets to address the unique challenges posed by low-resource languages.
+
+
+%------------------------------------------------
+
 \section*{Methods}
 For generating questions, we used a prebuilt model called "bkoloski/slv\_2query" which processes input text to produce query-like sentences.
 
 \subsection*{Dataset Selection and Preparation}
-We selected a relevant Slovenian question-answering dataset, specifically SQuAD. The dataset was preprocessed to remove extraneous text and ensure consistency.
+We selected a relevant Slovenian question-answering dataset, specifically SQuAD \cite{rajpurkar2016squad}, and constructed an additional dataset from a sample of Slovenian news articles. The dataset was preprocessed to remove extraneous text and ensure consistency. The preprocessing steps included tokenization, sentence segmentation, and normalization.
 
 \subsection*{Model Fine-Tuning}
-The T5 model was fine-tuned on the selected datasets using High-Performance Computing (HPC) resources. The fine-tuning process involved adjusting the model’s parameters to optimize its performance in generating relevant and coherent questions from Slovenian texts. Tokenization was handled using the model’s tokenizer, and inputs were prepared by segmenting the context data appropriately.
+The T5 model \cite{raffel2020exploring} was fine-tuned on the selected datasets using High-Performance Computing (HPC) resources. The fine-tuning process involved adjusting the model’s parameters to optimize its performance in generating relevant and coherent questions from Slovenian texts. Tokenization was handled using the model’s tokenizer, and inputs were prepared by segmenting the context data appropriately.
 
 \subsection*{Quality Assessment}
 We designed a framework to evaluate the generated questions based on:
@@ -86,8 +96,16 @@ We designed a framework to evaluate the generated questions based on:
     \item Linguistic Correctness: Proper grammar and syntax.
 \end{itemize}
 
-Manual evaluation involved updating 300 QA pairs, with 100 pairs reviewed by each team member to ensure consistency and accuracy.
+Manual evaluation involved updating 300 QA pairs, with 100 pairs reviewed by each team member to ensure consistency and accuracy. We used inter-rater reliability metrics such as Cohen’s kappa to measure the agreement between evaluators.
 
+\subsection*{Experimental Setup}
+Our experimental setup consisted of several stages:
+\begin{enumerate}[noitemsep]
+    \item \textbf{Data Preprocessing}: Cleaning and preparing the dataset for training.
+    \item \textbf{Model Training}: Fine-tuning the T5 model on the Slovenian dataset.
+    \item \textbf{Evaluation}: Assessing the performance of the model using the quality assessment framework.
+    \item \textbf{Analysis}: Analyzing the results to identify areas of improvement.
+\end{enumerate}
 
 %------------------------------------------------
 
@@ -111,8 +129,13 @@ Our initial experiments with the fine-tuned T5 model show promising results in g
 	\label{tab:results}
 \end{table}
 
-While the fine-tuned model shows improvement across all metrics, challenges remain in handling nuanced linguistic differences and ensuring the accuracy of translations.
+While the fine-tuned model shows improvement across all metrics, challenges remain in handling nuanced linguistic differences and ensuring the accuracy of translations. Figure~\ref{fig:example} provides an example of the generated questions before and after fine-tuning.
 
+\begin{figure*}[ht]\centering
+    \includegraphics[width=\linewidth]{fig/single_column.pdf}
+    \caption{\textbf{Example of Generated Questions.} This figure shows the comparison of questions generated by the pre-trained model and the fine-tuned model.}
+    \label{fig:example}
+\end{figure*}
 
 %------------------------------------------------
 
@@ -126,6 +149,26 @@ Our approach demonstrates significant improvements in the quality of generated q
     \item \textbf{Advanced Evaluation}: Develop more sophisticated evaluation frameworks, including automated and human-in-the-loop assessments.
     \item \textbf{Cross-Lingual Adaptations}: Explore adaptations for other low-resource languages to generalize the approach.
 \end{itemize}
+
+\subsection*{Analysis of Results}
+The fine-tuned model achieved higher scores in relevance, coherence, and linguistic correctness compared to the pre-trained model. This indicates that the model has effectively learned from the Slovenian dataset. However, the complexity of the Slovenian language presents unique challenges that need to be addressed. For instance, the model occasionally generates questions with incorrect word order or inappropriate verb conjugations.
+
+\subsection*{Limitations}
+The primary limitation of our study is the reliance on a single dataset for fine-tuning. This may lead to overfitting and limit the generalizability of our results. Additionally, the manual evaluation process is time-consuming and may introduce biases. To mitigate these issues, we plan to incorporate additional datasets and automate parts of the evaluation process in future work.
+
+\subsection*{Future Directions}
+\begin{itemize}[noitemsep]
+    \item \textbf{Dataset Expansion}: Collect and incorporate more diverse Slovenian texts to improve model robustness. This includes leveraging datasets from various domains such as news, literature, and technical manuals.
+    \item \textbf{Model Optimization}: Experiment with different hyperparameters and architectures to optimize performance. This includes exploring alternative pre-training strategies and transfer learning approaches.
+    \item \textbf{Advanced Evaluation}: Develop more sophisticated evaluation frameworks, including automated and human-in-the-loop assessments. This will help in obtaining more accurate and comprehensive evaluations.
+    \item \textbf{Cross-Lingual Adaptations}: Explore adaptations for other low-resource languages to generalize the approach. This includes fine-tuning the model on datasets from other languages and evaluating its performance in a cross-lingual context.
+\end{itemize}
+
+
+%------------------------------------------------
+
+\section*{Conclusion}
+This project successfully extends the Doc2Query method to cross-lingual question generation, with an initial focus on Slovenian. The fine-tuned T5 model shows improved performance, and future work aims to address current limitations and explore broader applications. Our results highlight the potential of adapting existing NLP models for cross-lingual tasks, particularly in low-resource language contexts.
 
 
 %------------------------------------------------
