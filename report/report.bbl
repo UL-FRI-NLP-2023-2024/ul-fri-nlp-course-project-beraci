@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{raffel2020exploring}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael
+  Matena, Yanqi Zhou, Wei Li, and Peter~J. Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text
+  transformer.
+\newblock {\em Journal of Machine Learning Research}, 21(140):1--67, 2020.
+
+\bibitem{thakur2021beir}
+Nandan Thakur, Nils Reimers, Andreas R{\"u}ckl{\'e}, Abhishek Srivastava, and
+  Iryna Gurevych.
+\newblock Beir: A heterogeneous benchmark for zero-shot evaluation of
+  information retrieval models.
+\newblock In {\em Proceedings of the 2021 Conference on Empirical Methods in
+  Natural Language Processing}, 2021.
+
+\bibitem{kumar2019cross}
+Vijay Kumar, Dinesh Gupta, Shashank Jha, Manish Shrivastava, and Monojit
+  Choudhury.
+\newblock Cross-lingual training for automatic question generation.
+\newblock In {\em Proceedings of the 57th Annual Meeting of the Association for
+  Computational Linguistics}, pages 4867--4874, 2019.
+
+\bibitem{chi2019cross}
+Zewen Chi, Heyan Li, Bin Yang, Weiran Xu, Maosong Sun, Yang Song, and Dong Yu.
+\newblock Cross-lingual natural language generation via pre-training.
+\newblock {\em arXiv preprint arXiv:1909.10481}, 2019.
+
+\bibitem{riabi2020multilingual}
+Im{\`e}ne Riabi, Magalie Ochs, Fr{\'e}d{\'e}ric B{\'e}chet, and Chlo{\'e}
+  Clavel.
+\newblock Multilingual question generation from text paragraphs.
+\newblock {\em arXiv preprint arXiv:2004.14986}, 2020.
+
+\bibitem{rajpurkar2016squad}
+Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang.
+\newblock Squad: 100,000+ questions for machine comprehension of text.
+\newblock {\em arXiv preprint arXiv:1606.05250}, 2016.
+
+\end{thebibliography}

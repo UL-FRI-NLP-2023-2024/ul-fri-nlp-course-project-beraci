@@ -83,7 +83,7 @@ Our approach aims to simplify these requirements by leveraging existing datasets
 For generating questions, we used a prebuilt model called "bkoloski/slv\_2query" which processes input text to produce query-like sentences.
 
 \subsection*{Dataset Selection and Preparation}
-We selected a relevant Slovenian question-answering dataset, specifically SQuAD \cite{rajpurkar2016squad}, and constructed an additional dataset from a sample of Slovenian news articles. The dataset was preprocessed to remove extraneous text and ensure consistency. The preprocessing steps included tokenization, sentence segmentation, and normalization.
+We selected a relevant Slovenian question-answering dataset, specifically SQuAD \cite{rajpurkar2016squad}. The dataset was preprocessed to remove extraneous text and ensure consistency. The preprocessing steps included tokenization, sentence segmentation, and normalization.
 
 \subsection*{Model Fine-Tuning}
 The T5 model \cite{raffel2020exploring} was fine-tuned on the selected datasets using High-Performance Computing (HPC) resources. The fine-tuning process involved adjusting the model’s parameters to optimize its performance in generating relevant and coherent questions from Slovenian texts. Tokenization was handled using the model’s tokenizer, and inputs were prepared by segmenting the context data appropriately.
@@ -143,13 +143,13 @@ For evaluating each member gathered 100 paragraphs of any topic. We then passed 
 \section*{Discussion}
 Our approach demonstrates significant improvements in the quality of generated questions after fine-tuning on Slovenian datasets. The main challenges include managing linguistic nuances and ensuring high-quality translations. Future work will focus on expanding the dataset, refining the model parameters, and exploring additional evaluation methods to further enhance the performance.
 
-\subsection*{Future Directions}
-\begin{itemize}[noitemsep]
-    \item \textbf{Dataset Expansion}: Collect and incorporate more diverse Slovenian texts to improve model robustness.
-    \item \textbf{Model Optimization}: Experiment with different hyperparameters and architectures to optimize performance.
-    \item \textbf{Advanced Evaluation}: Develop more sophisticated evaluation frameworks, including automated and human-in-the-loop assessments.
-    \item \textbf{Cross-Lingual Adaptations}: Explore adaptations for other low-resource languages to generalize the approach.
-\end{itemize}
+% \subsection*{Future Directions}
+% \begin{itemize}[noitemsep]
+%     \item \textbf{Dataset Expansion}: Collect and incorporate more diverse Slovenian texts to improve model robustness.
+%     \item \textbf{Model Optimization}: Experiment with different hyperparameters and architectures to optimize performance.
+%     \item \textbf{Advanced Evaluation}: Develop more sophisticated evaluation frameworks, including automated and human-in-the-loop assessments.
+%     \item \textbf{Cross-Lingual Adaptations}: Explore adaptations for other low-resource languages to generalize the approach.
+% \end{itemize}
 
 \subsection*{Analysis of Results}
 The fine-tuned model achieved higher scores in relevance, coherence, and linguistic correctness compared to the pre-trained model. This indicates that the model has effectively learned from the Slovenian dataset. However, the complexity of the Slovenian language presents unique challenges that need to be addressed. For instance, the model occasionally generates questions with incorrect word order or inappropriate verb conjugations.
